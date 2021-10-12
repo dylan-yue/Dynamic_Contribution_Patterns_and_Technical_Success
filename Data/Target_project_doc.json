@@ -1,0 +1,32 @@
+[
+    {
+        "name": "incubator-shardingsphere",
+        "ecosystem": "apache",
+        "doc": "docs/"
+    },
+    {
+        "name": "jmeter",
+        "ecosystem": "apache",
+        "doc": "xdocs/"
+    },
+    {
+        "name": "nova",
+        "ecosystem": "openstack",
+        "doc": "doc/"
+    },
+    {
+        "name": "ansible-hardening",
+        "ecosystem": "openstack",
+        "doc": "doc/"
+    },
+    {
+        "name": "numpy",
+        "ecosystem": "data_science",
+        "doc": "doc/"
+    },
+    {
+        "name": "bokeh",
+        "ecosystem": "data_science",
+        "doc": "sphinx/source/"
+    }
+]

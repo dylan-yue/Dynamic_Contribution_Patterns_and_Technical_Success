@@ -1,0 +1,4074 @@
+[
+    {
+        "sha": "f026ef77068c0556e4b3c7725078ce116fe77e6b",
+        "date": "2018-01-19 01:12:32+08:00",
+        "author": "mercyblitz",
+        "modification": [
+            {
+                "file": "DubboAutoConfiguration.java",
+                "added": 114,
+                "remove": 0,
+                "change_type": "ADD"
+            },
+            {
+                "file": "DubboConfigProperties.java",
+                "added": 36,
+                "remove": 0,
+                "change_type": "ADD"
+            },
+            {
+                "file": "DubboScanProperties.java",
+                "added": 43,
+                "remove": 0,
+                "change_type": "ADD"
+            },
+            {
+                "file": "MultipleDubboConfigBindingProperties.java",
+                "added": 124,
+                "remove": 0,
+                "change_type": "ADD"
+            },
+            {
+                "file": "SingleDubboConfigBindingProperties.java",
+                "added": 120,
+                "remove": 0,
+                "change_type": "ADD"
+            },
+            {
+                "file": "DubboAutoConfigurationOnMultipleConfigTest.java",
+                "added": 322,
+                "remove": 0,
+                "change_type": "ADD"
+            },
+            {
+                "file": "DubboAutoConfigurationOnSingleConfigTest.java",
+                "added": 183,
+                "remove": 0,
+                "change_type": "ADD"
+            }
+        ],
+        "files": 7
+    },
+    {
+        "sha": "1d3049b450f89ca03ca7d7d5d99abc7381eee178",
+        "date": "2018-01-20 02:41:55+08:00",
+        "author": "mercyblitz",
+        "modification": [
+            {
+                "file": "DubboEndpointAutoConfiguration.java",
+                "added": 44,
+                "remove": 0,
+                "change_type": "ADD"
+            },
+            {
+                "file": "DubboMvcEndpointManagementContextConfiguration.java",
+                "added": 50,
+                "remove": 0,
+                "change_type": "ADD"
+            },
+            {
+                "file": "DubboEndpoint.java",
+                "added": 47,
+                "remove": 0,
+                "change_type": "ADD"
+            },
+            {
+                "file": "DubboMvcEndpoint.java",
+                "added": 195,
+                "remove": 0,
+                "change_type": "ADD"
+            },
+            {
+                "file": "DubboConfigProperties.java",
+                "added": 0,
+                "remove": 36,
+                "change_type": "DELETE"
+            },
+            {
+                "file": "DubboScanProperties.java",
+                "added": 0,
+                "remove": 43,
+                "change_type": "DELETE"
+            },
+            {
+                "file": "DubboAutoConfiguration.java",
+                "added": 20,
+                "remove": 4,
+                "change_type": "RENAME"
+            },
+            {
+                "file": "DubboConfigProperties.java",
+                "added": 51,
+                "remove": 0,
+                "change_type": "ADD"
+            },
+            {
+                "file": "DubboScanProperties.java",
+                "added": 58,
+                "remove": 0,
+                "change_type": "ADD"
+            },
+            {
+                "file": "MultipleDubboConfigBindingProperties.java",
+                "added": 18,
+                "remove": 2,
+                "change_type": "RENAME"
+            },
+            {
+                "file": "SingleDubboConfigBindingProperties.java",
+                "added": 18,
+                "remove": 2,
+                "change_type": "RENAME"
+            },
+            {
+                "file": "DubboAutoConfigurationOnMultipleConfigTest.java",
+                "added": 19,
+                "remove": 3,
+                "change_type": "RENAME"
+            },
+            {
+                "file": "DubboAutoConfigurationOnSingleConfigTest.java",
+                "added": 18,
+                "remove": 2,
+                "change_type": "RENAME"
+            },
+            {
+                "file": "DubboProviderBootstrap.java",
+                "added": 40,
+                "remove": 0,
+                "change_type": "ADD"
+            },
+            {
+                "file": "DefaultDemoService.java",
+                "added": 41,
+                "remove": 0,
+                "change_type": "ADD"
+            }
+        ],
+        "files": 15
+    },
+    {
+        "sha": "74b6489b7ba232dcdeaa42258a4e1648c2aa5ac2",
+        "date": "2018-01-20 11:43:30+08:00",
+        "author": "mercyblitz",
+        "modification": [
+            {
+                "file": "DubboAutoConfiguration.java",
+                "added": 4,
+                "remove": 23,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "DubboConfigProperties.java",
+                "added": 2,
+                "remove": 7,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "DubboScanProperties.java",
+                "added": 2,
+                "remove": 7,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "MultipleDubboConfigBindingProperties.java",
+                "added": 2,
+                "remove": 2,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "SingleDubboConfigBindingProperties.java",
+                "added": 2,
+                "remove": 2,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "LegacyDubboConfigApplicationListener.java",
+                "added": 39,
+                "remove": 0,
+                "change_type": "ADD"
+            },
+            {
+                "file": "DubboUtils.java",
+                "added": 61,
+                "remove": 0,
+                "change_type": "ADD"
+            },
+            {
+                "file": "EnvironmentUtils.java",
+                "added": 110,
+                "remove": 0,
+                "change_type": "ADD"
+            },
+            {
+                "file": "DubboConsumerDemo.java",
+                "added": 38,
+                "remove": 0,
+                "change_type": "ADD"
+            },
+            {
+                "file": "DemoConsumerController.java",
+                "added": 45,
+                "remove": 0,
+                "change_type": "ADD"
+            },
+            {
+                "file": "DubboProviderDemo.java",
+                "added": 5,
+                "remove": 7,
+                "change_type": "RENAME"
+            }
+        ],
+        "files": 11
+    },
+    {
+        "sha": "87e7bdee4be997987de05804ce771f66e491f01b",
+        "date": "2018-01-20 11:44:11+08:00",
+        "author": "mercyblitz",
+        "modification": [
+            {
+                "file": "DubboMvcEndpoint.java",
+                "added": 2,
+                "remove": 2,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "6cbe84611d25392ea7dd50850137784c7695cd77",
+        "date": "2018-01-20 16:56:52+08:00",
+        "author": "mercyblitz",
+        "modification": [
+            {
+                "file": "DubboMvcEndpointManagementContextConfiguration.java",
+                "added": 2,
+                "remove": 4,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "DubboEndpoint.java",
+                "added": 1,
+                "remove": 1,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "DubboMvcEndpoint.java",
+                "added": 14,
+                "remove": 29,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "DubboConfigProperties.java",
+                "added": 18,
+                "remove": 3,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "LegacyDubboConfigApplicationListener.java",
+                "added": 0,
+                "remove": 39,
+                "change_type": "DELETE"
+            },
+            {
+                "file": "OverrideDubboConfigApplicationListener.java",
+                "added": 76,
+                "remove": 0,
+                "change_type": "ADD"
+            },
+            {
+                "file": "DubboUtils.java",
+                "added": 54,
+                "remove": 4,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "EnvironmentUtils.java",
+                "added": 10,
+                "remove": 10,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "DubboAutoConfigurationOnMultipleConfigTest.java",
+                "added": 1,
+                "remove": 1,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "OverrideDubboConfigApplicationListenerDisableTest.java",
+                "added": 68,
+                "remove": 0,
+                "change_type": "ADD"
+            },
+            {
+                "file": "OverrideDubboConfigApplicationListenerTest.java",
+                "added": 68,
+                "remove": 0,
+                "change_type": "ADD"
+            },
+            {
+                "file": "DubboUtilsTest.java",
+                "added": 73,
+                "remove": 0,
+                "change_type": "ADD"
+            },
+            {
+                "file": "EnvironmentUtilsTest.java",
+                "added": 64,
+                "remove": 0,
+                "change_type": "ADD"
+            }
+        ],
+        "files": 13
+    },
+    {
+        "sha": "c307bdbff9bb604ec60807679ee6d6abb43ffb7f",
+        "date": "2018-01-20 18:58:45+08:00",
+        "author": "mercyblitz",
+        "modification": [
+            {
+                "file": "DubboMvcEndpoint.java",
+                "added": 200,
+                "remove": 27,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "029a89d5b89fa32fde825e2b4bed8b6e1889e03c",
+        "date": "2018-01-21 09:27:24+08:00",
+        "author": "mercyblitz",
+        "modification": [
+            {
+                "file": "DubboMvcEndpoint.java",
+                "added": 46,
+                "remove": 0,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "9f1715b9008b4fdc070689fa30b50d1a809ee08d",
+        "date": "2018-01-21 09:45:26+08:00",
+        "author": "mercyblitz",
+        "modification": [
+            {
+                "file": "OverrideDubboConfigApplicationListener.java",
+                "added": 8,
+                "remove": 1,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "805fc3101e0c5c3b729c619be9fe4780f2218a3b",
+        "date": "2018-01-21 11:13:03+08:00",
+        "author": "mercyblitz",
+        "modification": [
+            {
+                "file": "OverrideDubboConfigApplicationListener.java",
+                "added": 9,
+                "remove": 9,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "WelcomeLogoApplicationListener.java",
+                "added": 85,
+                "remove": 0,
+                "change_type": "ADD"
+            }
+        ],
+        "files": 2
+    },
+    {
+        "sha": "1e0e2e0f945365b972cbfd09a1f851ffa69c7783",
+        "date": "2018-01-21 12:56:47+08:00",
+        "author": "mercyblitz",
+        "modification": [
+            {
+                "file": "WelcomeLogoApplicationListener.java",
+                "added": 9,
+                "remove": 10,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "DubboUtils.java",
+                "added": 32,
+                "remove": 0,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "WelcomeLogoApplicationListenerTest.java",
+                "added": 51,
+                "remove": 0,
+                "change_type": "ADD"
+            },
+            {
+                "file": "DubboUtilsTest.java",
+                "added": 8,
+                "remove": 0,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 4
+    },
+    {
+        "sha": "a54e9369d3a944ef016f667d044ba80590b1fb14",
+        "date": "2018-01-21 14:23:38+08:00",
+        "author": "mercyblitz",
+        "modification": [
+            {
+                "file": "DubboMvcEndpoint.java",
+                "added": 72,
+                "remove": 12,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "df4fefb25d811926fb6a328feb8230bce50fc69d",
+        "date": "2018-01-21 15:23:22+08:00",
+        "author": "mercyblitz",
+        "modification": [
+            {
+                "file": "DubboEndpoint.java",
+                "added": 38,
+                "remove": 0,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "DubboMvcEndpoint.java",
+                "added": 31,
+                "remove": 31,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 2
+    },
+    {
+        "sha": "4373032f5ef5e29d8ac2e5656ce8277088735e39",
+        "date": "2018-01-22 01:17:10+08:00",
+        "author": "mercyblitz",
+        "modification": [
+            {
+                "file": "DubboEndpointTest.java",
+                "added": 96,
+                "remove": 0,
+                "change_type": "ADD"
+            },
+            {
+                "file": "DubboMvcEndpointTest.java",
+                "added": 189,
+                "remove": 0,
+                "change_type": "ADD"
+            }
+        ],
+        "files": 2
+    },
+    {
+        "sha": "fe767b9fe831abbf153b7cee973b7107d3e201ca",
+        "date": "2018-01-25 22:30:14+08:00",
+        "author": "mercyblitz",
+        "modification": [
+            {
+                "file": "DemoService.java",
+                "added": 28,
+                "remove": 0,
+                "change_type": "ADD"
+            },
+            {
+                "file": "DubboConsumerDemo.java",
+                "added": 2,
+                "remove": 1,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "DemoConsumerController.java",
+                "added": 1,
+                "remove": 2,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "DubboProviderDemo.java",
+                "added": 2,
+                "remove": 1,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "DefaultDemoService.java",
+                "added": 1,
+                "remove": 1,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 5
+    },
+    {
+        "sha": "0e6cb458f07b67f03deb0d0d74d2d3ae49111508",
+        "date": "2018-01-26 07:04:54+08:00",
+        "author": "htynkn",
+        "modification": [
+            {
+                "file": "DubboMvcEndpointTest.java",
+                "added": 5,
+                "remove": 2,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "66ac931af325849b55b1d0b81418a6a1efcbdbb4",
+        "date": "2018-01-26 05:30:01+00:00",
+        "author": "qct",
+        "modification": [
+            {
+                "file": "DubboConfigProperties.java",
+                "added": 5,
+                "remove": 5,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "MultipleDubboConfigBindingProperties.java",
+                "added": 1,
+                "remove": 1,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "SingleDubboConfigBindingProperties.java",
+                "added": 1,
+                "remove": 1,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "DubboUtils.java",
+                "added": 1,
+                "remove": 1,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 4
+    },
+    {
+        "sha": "efaf00c4d635c10b3e074a75ca33f08ddefb995b",
+        "date": "2018-01-26 21:08:27+08:00",
+        "author": "mercyblitz",
+        "modification": [
+            {
+                "file": "DubboMvcEndpointTest.java",
+                "added": 2,
+                "remove": 2,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "42273b5486e21b0640a3898c09e8ef86ad0a7439",
+        "date": "2018-01-26 21:46:13+08:00",
+        "author": "mercyblitz",
+        "modification": [
+            {
+                "file": "DubboMvcEndpointTest.java",
+                "added": 0,
+                "remove": 1,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "ca4de9ff044dadb33abb35f807b857218cbccb0b",
+        "date": "2018-01-28 18:04:08+08:00",
+        "author": "mercyblitz",
+        "modification": [
+            {
+                "file": "DubboHealthIndicatorAutoConfiguration.java",
+                "added": 52,
+                "remove": 0,
+                "change_type": "ADD"
+            },
+            {
+                "file": "DubboHealthIndicator.java",
+                "added": 212,
+                "remove": 0,
+                "change_type": "ADD"
+            },
+            {
+                "file": "DubboHealthIndicatorProperties.java",
+                "added": 100,
+                "remove": 0,
+                "change_type": "ADD"
+            },
+            {
+                "file": "DubboHealthIndicatorTest.java",
+                "added": 89,
+                "remove": 0,
+                "change_type": "ADD"
+            }
+        ],
+        "files": 4
+    },
+    {
+        "sha": "abb1a6f01f089151bc63ab8019680012084e6b43",
+        "date": "2018-02-03 17:30:29+08:00",
+        "author": "mercyblitz",
+        "modification": [
+            {
+                "file": "DubboEndpointAutoConfiguration.java",
+                "added": 1,
+                "remove": 1,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "DubboHealthIndicatorAutoConfiguration.java",
+                "added": 2,
+                "remove": 0,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "DubboMvcEndpointManagementContextConfiguration.java",
+                "added": 2,
+                "remove": 1,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 3
+    },
+    {
+        "sha": "42b5b480e978b67a5535d7ed5b6c1d2dcc152216",
+        "date": "2018-03-26 21:57:27+08:00",
+        "author": "mercyblitz",
+        "modification": [
+            {
+                "file": "DubboEndpointTest.java",
+                "added": 2,
+                "remove": 4,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "DubboMvcEndpointTest.java",
+                "added": 2,
+                "remove": 4,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "DubboHealthIndicatorTest.java",
+                "added": 2,
+                "remove": 4,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "DubboAutoConfigurationOnMultipleConfigTest.java",
+                "added": 2,
+                "remove": 4,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "DubboAutoConfigurationOnSingleConfigTest.java",
+                "added": 2,
+                "remove": 4,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "OverrideDubboConfigApplicationListenerDisableTest.java",
+                "added": 2,
+                "remove": 4,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "OverrideDubboConfigApplicationListenerTest.java",
+                "added": 2,
+                "remove": 4,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "WelcomeLogoApplicationListenerTest.java",
+                "added": 2,
+                "remove": 4,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 8
+    },
+    {
+        "sha": "47ba15db5bb20209623d96de076a2492cef8d84d",
+        "date": "2018-03-26 22:22:18+08:00",
+        "author": "mercyblitz",
+        "modification": [
+            {
+                "file": "DubboAutoConfiguration.java",
+                "added": 11,
+                "remove": 6,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "DubboConfigProperties.java",
+                "added": 0,
+                "remove": 61,
+                "change_type": "DELETE"
+            },
+            {
+                "file": "DubboScanProperties.java",
+                "added": 0,
+                "remove": 53,
+                "change_type": "DELETE"
+            },
+            {
+                "file": "MultipleDubboConfigBindingProperties.java",
+                "added": 0,
+                "remove": 140,
+                "change_type": "DELETE"
+            },
+            {
+                "file": "RelaxedDubboConfigBinder.java",
+                "added": 50,
+                "remove": 0,
+                "change_type": "ADD"
+            },
+            {
+                "file": "SingleDubboConfigBindingProperties.java",
+                "added": 0,
+                "remove": 136,
+                "change_type": "DELETE"
+            },
+            {
+                "file": "DubboAutoConfigurationOnMultipleConfigTest.java",
+                "added": 3,
+                "remove": 66,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "DubboAutoConfigurationOnSingleConfigTest.java",
+                "added": 0,
+                "remove": 37,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "RelaxedDubboConfigBinderTest.java",
+                "added": 61,
+                "remove": 0,
+                "change_type": "ADD"
+            }
+        ],
+        "files": 9
+    },
+    {
+        "sha": "d436a4ba42e9ba84a6f34ede31375c79131071f4",
+        "date": "2018-03-27 00:10:48+08:00",
+        "author": "mercyblitz",
+        "modification": [
+            {
+                "file": "AwaitingNonWebApplicationListener.java",
+                "added": 96,
+                "remove": 0,
+                "change_type": "ADD"
+            },
+            {
+                "file": "DubboProviderDemo.java",
+                "added": 4,
+                "remove": 2,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 2
+    },
+    {
+        "sha": "45813e4630948b8834e4f0ec9f6387676bdf7350",
+        "date": "2018-03-28 00:12:28+08:00",
+        "author": "mercyblitz",
+        "modification": [
+            {
+                "file": "DubboEndpointsAutoConfiguration.java",
+                "added": 83,
+                "remove": 0,
+                "change_type": "ADD"
+            },
+            {
+                "file": "DubboHealthIndicatorAutoConfiguration.java",
+                "added": 2,
+                "remove": 2,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "DubboMvcEndpointManagementContextConfiguration.java",
+                "added": 0,
+                "remove": 49,
+                "change_type": "DELETE"
+            },
+            {
+                "file": "AbstractDubboEndpoint.java",
+                "added": 123,
+                "remove": 0,
+                "change_type": "ADD"
+            },
+            {
+                "file": "DubboConfigsMetadataEndpoint.java",
+                "added": 79,
+                "remove": 0,
+                "change_type": "ADD"
+            },
+            {
+                "file": "DubboEndpoint.java",
+                "added": 13,
+                "remove": 22,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "DubboPropertiesEndpoint.java",
+                "added": 17,
+                "remove": 18,
+                "change_type": "RENAME"
+            },
+            {
+                "file": "DubboReferencesMetadataEndpoint.java",
+                "added": 73,
+                "remove": 0,
+                "change_type": "ADD"
+            },
+            {
+                "file": "DubboServicesMetadataEndpoint.java",
+                "added": 86,
+                "remove": 0,
+                "change_type": "ADD"
+            },
+            {
+                "file": "DubboShutdownEndpoint.java",
+                "added": 82,
+                "remove": 0,
+                "change_type": "ADD"
+            },
+            {
+                "file": "DubboMvcEndpoint.java",
+                "added": 0,
+                "remove": 459,
+                "change_type": "DELETE"
+            },
+            {
+                "file": "DubboEndpointTest.java",
+                "added": 0,
+                "remove": 9,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "DubboEndpointsAutoConfigurationTest.java",
+                "added": 194,
+                "remove": 0,
+                "change_type": "ADD"
+            },
+            {
+                "file": "DubboMvcEndpointTest.java",
+                "added": 190,
+                "remove": 190,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "DubboAutoConfiguration.java",
+                "added": 5,
+                "remove": 6,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "RelaxedDubboConfigBinder.java",
+                "added": 36,
+                "remove": 14,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "AwaitingNonWebApplicationListener.java",
+                "added": 2,
+                "remove": 1,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "WelcomeLogoApplicationListener.java",
+                "added": 1,
+                "remove": 1,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "DubboProviderDemo.java",
+                "added": 2,
+                "remove": 1,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 19
+    },
+    {
+        "sha": "7652f4b1cf03b36279c0926db3360585f6e801ff",
+        "date": "2018-03-28 11:04:21+08:00",
+        "author": "taogu.mxx",
+        "modification": [
+            {
+                "file": "DubboShutdownEndpoint.java",
+                "added": 1,
+                "remove": 1,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "DubboEndpointTest.java",
+                "added": 2,
+                "remove": 11,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "DubboEndpointsAutoConfigurationTest.java",
+                "added": 12,
+                "remove": 6,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "DubboMvcEndpointTest.java",
+                "added": 0,
+                "remove": 190,
+                "change_type": "DELETE"
+            }
+        ],
+        "files": 4
+    },
+    {
+        "sha": "002743f7de2dcc460f1847a454934ad99dcfeb05",
+        "date": "2018-03-28 11:13:20+08:00",
+        "author": "taogu.mxx",
+        "modification": [
+            {
+                "file": "DemoConsumerController.java",
+                "added": 1,
+                "remove": 1,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "DefaultDemoService.java",
+                "added": 1,
+                "remove": 1,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 2
+    },
+    {
+        "sha": "95de333ddcf36d14b4b80f837dab148f24720580",
+        "date": "2018-03-29 20:02:07+08:00",
+        "author": "mercyblitz",
+        "modification": [
+            {
+                "file": "DubboEndpointsAutoConfiguration.java",
+                "added": 2,
+                "remove": 2,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "0cea0133d9e6968fe8ba9ff87afc5db64d576865",
+        "date": "2018-04-10 11:58:44+08:00",
+        "author": "fuyongde",
+        "modification": [
+            {
+                "file": "DubboAutoConfiguration.java",
+                "added": 1,
+                "remove": 1,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "1ceb5e11c680488821090d6b861fc83afda1b379",
+        "date": "2018-05-08 15:07:58+08:00",
+        "author": "ralf0131",
+        "modification": [
+            {
+                "file": "DubboEndpoint.java",
+                "added": 1,
+                "remove": 1,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "DubboEndpointTest.java",
+                "added": 5,
+                "remove": 5,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "WelcomeLogoApplicationListener.java",
+                "added": 1,
+                "remove": 1,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "DubboUtils.java",
+                "added": 5,
+                "remove": 5,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "DubboUtilsTest.java",
+                "added": 5,
+                "remove": 5,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 5
+    },
+    {
+        "sha": "d159e116c9d7a31e7c8ca5159f2c0f06d7d95196",
+        "date": "2018-05-08 22:11:29+08:00",
+        "author": "mercyblitz",
+        "modification": [
+            {
+                "file": "DubboEndpointsAutoConfigurationTest.java",
+                "added": 12,
+                "remove": 12,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "e6d3a49bc7029c892f281f1a40d3b8a5fa3789a8",
+        "date": "2018-06-07 14:34:25+08:00",
+        "author": "mercyblitz",
+        "modification": [
+            {
+                "file": "WelcomeLogoApplicationListener.java",
+                "added": 0,
+                "remove": 1,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "1494a7787b41f14a57f8fcf2f6e18a7fd58a9cf1",
+        "date": "2018-06-09 02:36:04+08:00",
+        "author": "mercyblitz",
+        "modification": [
+            {
+                "file": "DubboAutoConfiguration.java",
+                "added": 0,
+                "remove": 1,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "95fc66520ecc5b6ed17d617d705f3a2cd145f42f",
+        "date": "2018-06-13 17:32:03+08:00",
+        "author": "mercyblitz",
+        "modification": [
+            {
+                "file": "DubboAutoConfiguration.java",
+                "added": 0,
+                "remove": 1,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "4efac58f140e3251ef92c0b5b2f0be5792ade56e",
+        "date": "2018-06-19 23:55:12+08:00",
+        "author": "lovepoem",
+        "modification": [
+            {
+                "file": "DubboAutoConfigurationOnMultipleConfigTest.java",
+                "added": 3,
+                "remove": 0,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "f8c7eb200ea618c9faa7cadc2add6540d943ac67",
+        "date": "2018-06-20 18:37:28+08:00",
+        "author": "mercyblitz",
+        "modification": [
+            {
+                "file": "DubboAutoConfigurationOnMultipleConfigTest.java",
+                "added": 1,
+                "remove": 2,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "85bad9ec9299a6e08ee1a01081f2afffd4ec43e3",
+        "date": "2018-06-21 20:47:51+08:00",
+        "author": "mercyblitz",
+        "modification": [
+            {
+                "file": "AbstractDubboEndpoint.java",
+                "added": 2,
+                "remove": 1,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "DubboAutoConfiguration.java",
+                "added": 3,
+                "remove": 2,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "RelaxedDubboConfigBinder.java",
+                "added": 1,
+                "remove": 2,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "OverrideDubboConfigApplicationListener.java",
+                "added": 2,
+                "remove": 1,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "WelcomeLogoApplicationListener.java",
+                "added": 1,
+                "remove": 1,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "DubboUtils.java",
+                "added": 0,
+                "remove": 1,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "DemoConsumerController.java",
+                "added": 1,
+                "remove": 1,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 7
+    },
+    {
+        "sha": "c637281b95aaa07ec7ed59e97c4006ba2135baf1",
+        "date": "2018-11-29 20:37:56-06:00",
+        "author": "Aunus",
+        "modification": [
+            {
+                "file": "DubboUtils.java",
+                "added": 4,
+                "remove": 4,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "fb2be000dbc092acac7a04593204457bcca85223",
+        "date": "2018-12-18 20:29:41+08:00",
+        "author": "mercyblitz",
+        "modification": [
+            {
+                "file": "DubboConfigsMetadataEndpoint.java",
+                "added": 13,
+                "remove": 2,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "DubboEndpoint.java",
+                "added": 7,
+                "remove": 15,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "DubboPropertiesEndpoint.java",
+                "added": 1,
+                "remove": 2,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "DubboReferencesMetadataEndpoint.java",
+                "added": 2,
+                "remove": 1,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "DubboServicesMetadataEndpoint.java",
+                "added": 2,
+                "remove": 1,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "DubboShutdownEndpoint.java",
+                "added": 2,
+                "remove": 1,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "DubboHealthIndicatorProperties.java",
+                "added": 1,
+                "remove": 1,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "DubboEndpointTest.java",
+                "added": 1,
+                "remove": 1,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "DubboEndpointsAutoConfigurationTest.java",
+                "added": 7,
+                "remove": 6,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "RelaxedDubboConfigBinder.java",
+                "added": 7,
+                "remove": 2,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "WelcomeLogoApplicationListener.java",
+                "added": 16,
+                "remove": 4,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "DubboDefaultPropertiesEnvironmentPostProcessor.java",
+                "added": 122,
+                "remove": 0,
+                "change_type": "ADD"
+            },
+            {
+                "file": "DubboUtils.java",
+                "added": 3,
+                "remove": 2,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "DubboDefaultPropertiesEnvironmentPostProcessorTest.java",
+                "added": 85,
+                "remove": 0,
+                "change_type": "ADD"
+            },
+            {
+                "file": "DubboUtilsTest.java",
+                "added": 15,
+                "remove": 2,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "DubboConsumerDemo.java",
+                "added": 5,
+                "remove": 5,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "DemoConsumerController.java",
+                "added": 4,
+                "remove": 2,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "DefaultDemoService.java",
+                "added": 9,
+                "remove": 4,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 18
+    },
+    {
+        "sha": "d01cf26bede92b7b3ecdb1ad043a66160c820c3d",
+        "date": "2018-12-27 15:10:56+08:00",
+        "author": "mercyblitz",
+        "modification": [
+            {
+                "file": "DubboEndpointsAutoConfiguration.java",
+                "added": 8,
+                "remove": 2,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "DubboHealthIndicatorAutoConfiguration.java",
+                "added": 2,
+                "remove": 1,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "AbstractDubboEndpoint.java",
+                "added": 2,
+                "remove": 1,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "DubboConfigsMetadataEndpoint.java",
+                "added": 1,
+                "remove": 1,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "DubboEndpoint.java",
+                "added": 1,
+                "remove": 1,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "DubboPropertiesEndpoint.java",
+                "added": 1,
+                "remove": 1,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "DubboReferencesMetadataEndpoint.java",
+                "added": 1,
+                "remove": 1,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "DubboServicesMetadataEndpoint.java",
+                "added": 1,
+                "remove": 1,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "DubboShutdownEndpoint.java",
+                "added": 1,
+                "remove": 1,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "DubboHealthIndicator.java",
+                "added": 2,
+                "remove": 1,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "DubboHealthIndicatorProperties.java",
+                "added": 1,
+                "remove": 1,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "DubboEndpointTest.java",
+                "added": 1,
+                "remove": 1,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "DubboEndpointsAutoConfigurationTest.java",
+                "added": 1,
+                "remove": 1,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "DubboHealthIndicatorTest.java",
+                "added": 2,
+                "remove": 1,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "DubboAutoConfiguration.java",
+                "added": 25,
+                "remove": 23,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "RelaxedDubboConfigBinder.java",
+                "added": 0,
+                "remove": 1,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "AwaitingNonWebApplicationListener.java",
+                "added": 96,
+                "remove": 40,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "OverrideDubboConfigApplicationListener.java",
+                "added": 4,
+                "remove": 2,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "WelcomeLogoApplicationListener.java",
+                "added": 0,
+                "remove": 1,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "DubboUtils.java",
+                "added": 1,
+                "remove": 2,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "EnvironmentUtils.java",
+                "added": 6,
+                "remove": 2,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "DubboAutoConfigurationOnMultipleConfigTest.java",
+                "added": 8,
+                "remove": 3,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "DubboAutoConfigurationOnSingleConfigTest.java",
+                "added": 9,
+                "remove": 2,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "RelaxedDubboConfigBinderTest.java",
+                "added": 2,
+                "remove": 1,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "AwaitingNonWebApplicationListenerTest.java",
+                "added": 57,
+                "remove": 0,
+                "change_type": "ADD"
+            },
+            {
+                "file": "OverrideDubboConfigApplicationListenerDisableTest.java",
+                "added": 2,
+                "remove": 1,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "OverrideDubboConfigApplicationListenerTest.java",
+                "added": 2,
+                "remove": 1,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "WelcomeLogoApplicationListenerTest.java",
+                "added": 1,
+                "remove": 1,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "DubboUtilsTest.java",
+                "added": 1,
+                "remove": 1,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "EnvironmentUtilsTest.java",
+                "added": 1,
+                "remove": 1,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 30
+    },
+    {
+        "sha": "7021e60b47d437ade61e2a6605cd3dc62685412e",
+        "date": "2018-12-27 17:12:10+08:00",
+        "author": "mercyblitz",
+        "modification": [
+            {
+                "file": "DubboConfigsMetadataEndpoint.java",
+                "added": 1,
+                "remove": 1,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "DubboPropertiesEndpoint.java",
+                "added": 1,
+                "remove": 1,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "DubboReferencesMetadataEndpoint.java",
+                "added": 1,
+                "remove": 1,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "DubboServicesMetadataEndpoint.java",
+                "added": 1,
+                "remove": 1,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "DubboShutdownEndpoint.java",
+                "added": 1,
+                "remove": 2,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "DubboEndpointsAutoConfigurationTest.java",
+                "added": 44,
+                "remove": 17,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 6
+    },
+    {
+        "sha": "9a6d1975201e19da3504b4a57f82b57cb372e305",
+        "date": "2019-01-02 11:39:15+08:00",
+        "author": "mercyblitz",
+        "modification": [
+            {
+                "file": "DubboEndpointsAutoConfiguration.java",
+                "added": 8,
+                "remove": 2,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "DubboHealthIndicatorAutoConfiguration.java",
+                "added": 2,
+                "remove": 1,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "AbstractDubboEndpoint.java",
+                "added": 2,
+                "remove": 1,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "DubboConfigsMetadataEndpoint.java",
+                "added": 2,
+                "remove": 2,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "DubboEndpoint.java",
+                "added": 1,
+                "remove": 1,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "DubboPropertiesEndpoint.java",
+                "added": 2,
+                "remove": 2,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "DubboReferencesMetadataEndpoint.java",
+                "added": 2,
+                "remove": 2,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "DubboServicesMetadataEndpoint.java",
+                "added": 2,
+                "remove": 2,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "DubboShutdownEndpoint.java",
+                "added": 1,
+                "remove": 2,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "DubboHealthIndicator.java",
+                "added": 2,
+                "remove": 1,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "DubboHealthIndicatorProperties.java",
+                "added": 1,
+                "remove": 1,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "DubboEndpointTest.java",
+                "added": 1,
+                "remove": 1,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "DubboEndpointsAutoConfigurationTest.java",
+                "added": 44,
+                "remove": 17,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "DubboHealthIndicatorTest.java",
+                "added": 2,
+                "remove": 1,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "DubboAutoConfiguration.java",
+                "added": 25,
+                "remove": 23,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "RelaxedDubboConfigBinder.java",
+                "added": 0,
+                "remove": 1,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "AwaitingNonWebApplicationListener.java",
+                "added": 96,
+                "remove": 40,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "OverrideDubboConfigApplicationListener.java",
+                "added": 4,
+                "remove": 2,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "WelcomeLogoApplicationListener.java",
+                "added": 0,
+                "remove": 1,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "DubboUtils.java",
+                "added": 1,
+                "remove": 2,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "EnvironmentUtils.java",
+                "added": 6,
+                "remove": 2,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "DubboAutoConfigurationOnMultipleConfigTest.java",
+                "added": 8,
+                "remove": 3,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "DubboAutoConfigurationOnSingleConfigTest.java",
+                "added": 9,
+                "remove": 2,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "RelaxedDubboConfigBinderTest.java",
+                "added": 2,
+                "remove": 1,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "AwaitingNonWebApplicationListenerTest.java",
+                "added": 57,
+                "remove": 0,
+                "change_type": "ADD"
+            },
+            {
+                "file": "OverrideDubboConfigApplicationListenerDisableTest.java",
+                "added": 2,
+                "remove": 1,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "OverrideDubboConfigApplicationListenerTest.java",
+                "added": 2,
+                "remove": 1,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "WelcomeLogoApplicationListenerTest.java",
+                "added": 1,
+                "remove": 1,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "DubboUtilsTest.java",
+                "added": 1,
+                "remove": 1,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "EnvironmentUtilsTest.java",
+                "added": 1,
+                "remove": 1,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 30
+    },
+    {
+        "sha": "4cadcb6bf29bbb47d9175313d3eddff0f17fe34e",
+        "date": "2019-01-07 10:14:17+08:00",
+        "author": "mercyblitz",
+        "modification": [
+            {
+                "file": "DubboAutoConfigurationConsumerBootstrap.java",
+                "added": 21,
+                "remove": 15,
+                "change_type": "RENAME"
+            },
+            {
+                "file": "DubboAutoConfigurationProviderBootstrap.java",
+                "added": 6,
+                "remove": 9,
+                "change_type": "RENAME"
+            },
+            {
+                "file": "DefaultDemoService.java",
+                "added": 10,
+                "remove": 14,
+                "change_type": "RENAME"
+            },
+            {
+                "file": "DubboExternalizedConfigurationConsumerBootstrap.java",
+                "added": 50,
+                "remove": 0,
+                "change_type": "ADD"
+            },
+            {
+                "file": "DubboExternalizedConfigurationProviderBootstrap.java",
+                "added": 10,
+                "remove": 10,
+                "change_type": "RENAME"
+            },
+            {
+                "file": "DefaultDemoService.java",
+                "added": 42,
+                "remove": 0,
+                "change_type": "ADD"
+            },
+            {
+                "file": "DemoService.java",
+                "added": 2,
+                "remove": 2,
+                "change_type": "RENAME"
+            }
+        ],
+        "files": 7
+    },
+    {
+        "sha": "890b71ab15a970d89655443d2a385451e8811de3",
+        "date": "2019-01-07 10:43:09+08:00",
+        "author": "mercyblitz",
+        "modification": [
+            {
+                "file": "DubboAutoConfigurationConsumerBootstrap.java",
+                "added": 21,
+                "remove": 15,
+                "change_type": "RENAME"
+            },
+            {
+                "file": "DubboAutoConfigurationProviderBootstrap.java",
+                "added": 6,
+                "remove": 9,
+                "change_type": "RENAME"
+            },
+            {
+                "file": "DefaultDemoService.java",
+                "added": 10,
+                "remove": 14,
+                "change_type": "RENAME"
+            },
+            {
+                "file": "DubboExternalizedConfigurationConsumerBootstrap.java",
+                "added": 50,
+                "remove": 0,
+                "change_type": "ADD"
+            },
+            {
+                "file": "DubboExternalizedConfigurationProviderBootstrap.java",
+                "added": 10,
+                "remove": 10,
+                "change_type": "RENAME"
+            },
+            {
+                "file": "DefaultDemoService.java",
+                "added": 42,
+                "remove": 0,
+                "change_type": "ADD"
+            },
+            {
+                "file": "DemoService.java",
+                "added": 2,
+                "remove": 2,
+                "change_type": "RENAME"
+            }
+        ],
+        "files": 7
+    },
+    {
+        "sha": "dae491313d33ec2abcfacacd462d6f7c32c339b7",
+        "date": "2019-01-08 11:37:00+08:00",
+        "author": "mercyblitz",
+        "modification": [
+            {
+                "file": "DubboDefaultPropertiesEnvironmentPostProcessor.java",
+                "added": 20,
+                "remove": 0,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "DubboAutoConfigurationOnMultipleConfigTest.java",
+                "added": 2,
+                "remove": 2,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "DubboAutoConfigurationOnSingleConfigTest.java",
+                "added": 2,
+                "remove": 3,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "DubboDefaultPropertiesEnvironmentPostProcessorTest.java",
+                "added": 15,
+                "remove": 3,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "DubboRegistryNacosConsumerBootstrap.java",
+                "added": 50,
+                "remove": 0,
+                "change_type": "ADD"
+            },
+            {
+                "file": "DubboRegistryNacosProviderBootstrap.java",
+                "added": 39,
+                "remove": 0,
+                "change_type": "ADD"
+            },
+            {
+                "file": "DefaultDemoService.java",
+                "added": 42,
+                "remove": 0,
+                "change_type": "ADD"
+            },
+            {
+                "file": "DubboRegistryZooKeeperConsumerBootstrap.java",
+                "added": 50,
+                "remove": 0,
+                "change_type": "ADD"
+            },
+            {
+                "file": "DubboRegistryZooKeeperProviderBootstrap.java",
+                "added": 47,
+                "remove": 0,
+                "change_type": "ADD"
+            },
+            {
+                "file": "EmbeddedZooKeeper.java",
+                "added": 252,
+                "remove": 0,
+                "change_type": "ADD"
+            },
+            {
+                "file": "DefaultDemoService.java",
+                "added": 42,
+                "remove": 0,
+                "change_type": "ADD"
+            }
+        ],
+        "files": 11
+    },
+    {
+        "sha": "d56dac07981ce7c75a4afab9639e05ef05e9489e",
+        "date": "2019-01-08 13:48:48+08:00",
+        "author": "mercyblitz",
+        "modification": [
+            {
+                "file": "DubboDefaultPropertiesEnvironmentPostProcessor.java",
+                "added": 20,
+                "remove": 0,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "DubboAutoConfigurationOnMultipleConfigTest.java",
+                "added": 2,
+                "remove": 2,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "DubboAutoConfigurationOnSingleConfigTest.java",
+                "added": 2,
+                "remove": 3,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "DubboDefaultPropertiesEnvironmentPostProcessorTest.java",
+                "added": 15,
+                "remove": 3,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "DubboRegistryNacosConsumerBootstrap.java",
+                "added": 50,
+                "remove": 0,
+                "change_type": "ADD"
+            },
+            {
+                "file": "DubboRegistryNacosProviderBootstrap.java",
+                "added": 39,
+                "remove": 0,
+                "change_type": "ADD"
+            },
+            {
+                "file": "DefaultDemoService.java",
+                "added": 42,
+                "remove": 0,
+                "change_type": "ADD"
+            },
+            {
+                "file": "DubboRegistryZooKeeperConsumerBootstrap.java",
+                "added": 50,
+                "remove": 0,
+                "change_type": "ADD"
+            },
+            {
+                "file": "DubboRegistryZooKeeperProviderBootstrap.java",
+                "added": 47,
+                "remove": 0,
+                "change_type": "ADD"
+            },
+            {
+                "file": "EmbeddedZooKeeper.java",
+                "added": 252,
+                "remove": 0,
+                "change_type": "ADD"
+            },
+            {
+                "file": "DefaultDemoService.java",
+                "added": 42,
+                "remove": 0,
+                "change_type": "ADD"
+            }
+        ],
+        "files": 11
+    },
+    {
+        "sha": "6adc8a32541f1eb49c2e600bfc1fcdbb3c9fc66e",
+        "date": "2019-01-22 08:58:16+08:00",
+        "author": "biyuhao",
+        "modification": [
+            {
+                "file": "DubboEndpointTest.java",
+                "added": 1,
+                "remove": 1,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "DubboUtils.java",
+                "added": 1,
+                "remove": 1,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "DubboUtilsTest.java",
+                "added": 1,
+                "remove": 1,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 3
+    },
+    {
+        "sha": "d24150c3da47fe98e5173b100d12e195d7421c3d",
+        "date": "2019-01-25 16:52:52+08:00",
+        "author": "mercyblitz",
+        "modification": [
+            {
+                "file": "DubboEndpointsAutoConfiguration.java",
+                "added": 7,
+                "remove": 8,
+                "change_type": "RENAME"
+            },
+            {
+                "file": "DubboHealthIndicatorAutoConfiguration.java",
+                "added": 4,
+                "remove": 5,
+                "change_type": "RENAME"
+            },
+            {
+                "file": "AbstractDubboEndpoint.java",
+                "added": 16,
+                "remove": 17,
+                "change_type": "RENAME"
+            },
+            {
+                "file": "DubboConfigsMetadataEndpoint.java",
+                "added": 13,
+                "remove": 14,
+                "change_type": "RENAME"
+            },
+            {
+                "file": "DubboEndpoint.java",
+                "added": 8,
+                "remove": 9,
+                "change_type": "RENAME"
+            },
+            {
+                "file": "DubboPropertiesEndpoint.java",
+                "added": 2,
+                "remove": 3,
+                "change_type": "RENAME"
+            },
+            {
+                "file": "DubboReferencesMetadataEndpoint.java",
+                "added": 4,
+                "remove": 5,
+                "change_type": "RENAME"
+            },
+            {
+                "file": "DubboServicesMetadataEndpoint.java",
+                "added": 3,
+                "remove": 4,
+                "change_type": "RENAME"
+            },
+            {
+                "file": "DubboShutdownEndpoint.java",
+                "added": 4,
+                "remove": 6,
+                "change_type": "RENAME"
+            },
+            {
+                "file": "DubboHealthIndicator.java",
+                "added": 12,
+                "remove": 14,
+                "change_type": "RENAME"
+            },
+            {
+                "file": "DubboHealthIndicatorProperties.java",
+                "added": 10,
+                "remove": 11,
+                "change_type": "RENAME"
+            },
+            {
+                "file": "DubboEndpointTest.java",
+                "added": 3,
+                "remove": 4,
+                "change_type": "RENAME"
+            },
+            {
+                "file": "DubboEndpointsAutoConfigurationTest.java",
+                "added": 10,
+                "remove": 10,
+                "change_type": "RENAME"
+            },
+            {
+                "file": "DubboHealthIndicatorTest.java",
+                "added": 2,
+                "remove": 3,
+                "change_type": "RENAME"
+            },
+            {
+                "file": "DubboAutoConfiguration.java",
+                "added": 14,
+                "remove": 14,
+                "change_type": "RENAME"
+            },
+            {
+                "file": "RelaxedDubboConfigBinder.java",
+                "added": 4,
+                "remove": 4,
+                "change_type": "RENAME"
+            },
+            {
+                "file": "AwaitingNonWebApplicationListener.java",
+                "added": 9,
+                "remove": 9,
+                "change_type": "RENAME"
+            },
+            {
+                "file": "OverrideDubboConfigApplicationListener.java",
+                "added": 6,
+                "remove": 6,
+                "change_type": "RENAME"
+            },
+            {
+                "file": "WelcomeLogoApplicationListener.java",
+                "added": 6,
+                "remove": 6,
+                "change_type": "RENAME"
+            },
+            {
+                "file": "DubboDefaultPropertiesEnvironmentPostProcessor.java",
+                "added": 4,
+                "remove": 4,
+                "change_type": "RENAME"
+            },
+            {
+                "file": "DubboUtils.java",
+                "added": 1,
+                "remove": 1,
+                "change_type": "RENAME"
+            },
+            {
+                "file": "EnvironmentUtils.java",
+                "added": 1,
+                "remove": 1,
+                "change_type": "RENAME"
+            },
+            {
+                "file": "DubboAutoConfigurationOnMultipleConfigTest.java",
+                "added": 9,
+                "remove": 10,
+                "change_type": "RENAME"
+            },
+            {
+                "file": "DubboAutoConfigurationOnSingleConfigTest.java",
+                "added": 11,
+                "remove": 11,
+                "change_type": "RENAME"
+            },
+            {
+                "file": "RelaxedDubboConfigBinderTest.java",
+                "added": 6,
+                "remove": 7,
+                "change_type": "RENAME"
+            },
+            {
+                "file": "AwaitingNonWebApplicationListenerTest.java",
+                "added": 1,
+                "remove": 1,
+                "change_type": "RENAME"
+            },
+            {
+                "file": "OverrideDubboConfigApplicationListenerDisableTest.java",
+                "added": 2,
+                "remove": 3,
+                "change_type": "RENAME"
+            },
+            {
+                "file": "OverrideDubboConfigApplicationListenerTest.java",
+                "added": 5,
+                "remove": 6,
+                "change_type": "RENAME"
+            },
+            {
+                "file": "WelcomeLogoApplicationListenerTest.java",
+                "added": 1,
+                "remove": 2,
+                "change_type": "RENAME"
+            },
+            {
+                "file": "DubboDefaultPropertiesEnvironmentPostProcessorTest.java",
+                "added": 1,
+                "remove": 1,
+                "change_type": "RENAME"
+            },
+            {
+                "file": "DubboUtilsTest.java",
+                "added": 17,
+                "remove": 18,
+                "change_type": "RENAME"
+            },
+            {
+                "file": "EnvironmentUtilsTest.java",
+                "added": 1,
+                "remove": 2,
+                "change_type": "RENAME"
+            },
+            {
+                "file": "DubboAutoConfigurationConsumerBootstrap.java",
+                "added": 8,
+                "remove": 8,
+                "change_type": "RENAME"
+            },
+            {
+                "file": "DubboAutoConfigurationProviderBootstrap.java",
+                "added": 2,
+                "remove": 2,
+                "change_type": "RENAME"
+            },
+            {
+                "file": "DefaultDemoService.java",
+                "added": 3,
+                "remove": 3,
+                "change_type": "RENAME"
+            },
+            {
+                "file": "DubboRegistryNacosConsumerBootstrap.java",
+                "added": 0,
+                "remove": 50,
+                "change_type": "DELETE"
+            },
+            {
+                "file": "DubboRegistryNacosProviderBootstrap.java",
+                "added": 0,
+                "remove": 39,
+                "change_type": "DELETE"
+            },
+            {
+                "file": "DubboRegistryZooKeeperConsumerBootstrap.java",
+                "added": 7,
+                "remove": 7,
+                "change_type": "RENAME"
+            },
+            {
+                "file": "DubboRegistryZooKeeperProviderBootstrap.java",
+                "added": 2,
+                "remove": 2,
+                "change_type": "RENAME"
+            },
+            {
+                "file": "EmbeddedZooKeeper.java",
+                "added": 11,
+                "remove": 11,
+                "change_type": "RENAME"
+            },
+            {
+                "file": "DefaultDemoService.java",
+                "added": 3,
+                "remove": 3,
+                "change_type": "RENAME"
+            },
+            {
+                "file": "DubboExternalizedConfigurationConsumerBootstrap.java",
+                "added": 7,
+                "remove": 7,
+                "change_type": "RENAME"
+            },
+            {
+                "file": "DefaultDemoService.java",
+                "added": 0,
+                "remove": 42,
+                "change_type": "DELETE"
+            },
+            {
+                "file": "DubboExternalizedConfigurationProviderBootstrap.java",
+                "added": 2,
+                "remove": 2,
+                "change_type": "RENAME"
+            },
+            {
+                "file": "DefaultDemoService.java",
+                "added": 3,
+                "remove": 3,
+                "change_type": "RENAME"
+            },
+            {
+                "file": "DemoService.java",
+                "added": 1,
+                "remove": 1,
+                "change_type": "RENAME"
+            }
+        ],
+        "files": 46
+    },
+    {
+        "sha": "d7ff62314a3b2378b5628045384c6e71ab2298f0",
+        "date": "2019-01-25 17:53:58+09:00",
+        "author": "viviennes7",
+        "modification": [
+            {
+                "file": "DefaultDemoService.java",
+                "added": 1,
+                "remove": 0,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "DefaultDemoService.java",
+                "added": 1,
+                "remove": 0,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "DefaultDemoService.java",
+                "added": 1,
+                "remove": 0,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "DefaultDemoService.java",
+                "added": 1,
+                "remove": 0,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 4
+    },
+    {
+        "sha": "a02d6f160ee7f33b6477626a2972f8e513d5c041",
+        "date": "2019-01-25 17:54:10+09:00",
+        "author": "viviennes7",
+        "modification": [
+            {
+                "file": "DubboAutoConfigurationConsumerBootstrap.java",
+                "added": 1,
+                "remove": 3,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "DubboRegistryNacosConsumerBootstrap.java",
+                "added": 1,
+                "remove": 3,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "DubboRegistryZooKeeperConsumerBootstrap.java",
+                "added": 1,
+                "remove": 3,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "DubboExternalizedConfigurationConsumerBootstrap.java",
+                "added": 1,
+                "remove": 3,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 4
+    },
+    {
+        "sha": "73ad6b9f8354eed237dcf125a3fdace0d3d063b8",
+        "date": "2019-01-27 20:54:15+08:00",
+        "author": "mercyblitz",
+        "modification": [
+            {
+                "file": "DubboEndpointTest.java",
+                "added": 1,
+                "remove": 1,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "DubboUtils.java",
+                "added": 1,
+                "remove": 1,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "DubboUtilsTest.java",
+                "added": 1,
+                "remove": 1,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "DubboAutoConfigurationConsumerBootstrap.java",
+                "added": 1,
+                "remove": 3,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "DefaultDemoService.java",
+                "added": 1,
+                "remove": 0,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "DubboRegistryNacosConsumerBootstrap.java",
+                "added": 1,
+                "remove": 3,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "DefaultDemoService.java",
+                "added": 1,
+                "remove": 0,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "DubboRegistryZooKeeperConsumerBootstrap.java",
+                "added": 1,
+                "remove": 3,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "DefaultDemoService.java",
+                "added": 1,
+                "remove": 0,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "DubboExternalizedConfigurationConsumerBootstrap.java",
+                "added": 1,
+                "remove": 3,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "DefaultDemoService.java",
+                "added": 1,
+                "remove": 0,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 11
+    },
+    {
+        "sha": "d0b5899670e5880680c7a55ca7ef0c91c1a4d23e",
+        "date": "2019-02-01 08:49:00+08:00",
+        "author": "mercyblitz",
+        "modification": [
+            {
+                "file": "DubboEndpointAnnotationAutoConfiguration.java",
+                "added": 9,
+                "remove": 10,
+                "change_type": "RENAME"
+            },
+            {
+                "file": "DubboConfigsMetadataEndpoint.java",
+                "added": 9,
+                "remove": 56,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "DubboMetadataEndpoint.java",
+                "added": 43,
+                "remove": 0,
+                "change_type": "ADD"
+            },
+            {
+                "file": "DubboPropertiesMetadataEndpoint.java",
+                "added": 42,
+                "remove": 0,
+                "change_type": "ADD"
+            },
+            {
+                "file": "DubboReferencesMetadataEndpoint.java",
+                "added": 9,
+                "remove": 39,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "DubboServicesMetadataEndpoint.java",
+                "added": 9,
+                "remove": 52,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "DubboShutdownEndpoint.java",
+                "added": 8,
+                "remove": 45,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "DubboEndpointAnnotationAutoConfigurationTest.java",
+                "added": 17,
+                "remove": 14,
+                "change_type": "RENAME"
+            },
+            {
+                "file": "DubboEndpointTest.java",
+                "added": 7,
+                "remove": 6,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "BinderDubboConfigBinder.java",
+                "added": 2,
+                "remove": 3,
+                "change_type": "RENAME"
+            },
+            {
+                "file": "DubboRelaxedBinding2AutoConfiguration.java",
+                "added": 74,
+                "remove": 0,
+                "change_type": "ADD"
+            },
+            {
+                "file": "BinderDubboConfigBinderTest.java",
+                "added": 5,
+                "remove": 6,
+                "change_type": "RENAME"
+            },
+            {
+                "file": "DubboRelaxedBinding2AutoConfigurationTest.java",
+                "added": 70,
+                "remove": 0,
+                "change_type": "ADD"
+            },
+            {
+                "file": "EnvironmentUtilsTest.java",
+                "added": 1,
+                "remove": 1,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "DubboEndpointAutoConfiguration.java",
+                "added": 52,
+                "remove": 0,
+                "change_type": "ADD"
+            },
+            {
+                "file": "DubboEndpointMetadataAutoConfiguration.java",
+                "added": 38,
+                "remove": 0,
+                "change_type": "ADD"
+            },
+            {
+                "file": "DubboHealthIndicatorAutoConfiguration.java",
+                "added": 6,
+                "remove": 11,
+                "change_type": "RENAME"
+            },
+            {
+                "file": "DubboMvcEndpointManagementContextConfiguration.java",
+                "added": 48,
+                "remove": 0,
+                "change_type": "ADD"
+            },
+            {
+                "file": "DubboEndpoint.java",
+                "added": 48,
+                "remove": 0,
+                "change_type": "ADD"
+            },
+            {
+                "file": "AbstractDubboMetadata.java",
+                "added": 4,
+                "remove": 6,
+                "change_type": "RENAME"
+            },
+            {
+                "file": "DubboConfigsMetadata.java",
+                "added": 86,
+                "remove": 0,
+                "change_type": "ADD"
+            },
+            {
+                "file": "DubboMetadata.java",
+                "added": 6,
+                "remove": 12,
+                "change_type": "RENAME"
+            },
+            {
+                "file": "DubboPropertiesMetadata.java",
+                "added": 7,
+                "remove": 12,
+                "change_type": "RENAME"
+            },
+            {
+                "file": "DubboReferencesMetadata.java",
+                "added": 70,
+                "remove": 0,
+                "change_type": "ADD"
+            },
+            {
+                "file": "DubboServicesMetadata.java",
+                "added": 83,
+                "remove": 0,
+                "change_type": "ADD"
+            },
+            {
+                "file": "DubboShutdownMetadata.java",
+                "added": 77,
+                "remove": 0,
+                "change_type": "ADD"
+            },
+            {
+                "file": "DubboMvcEndpoint.java",
+                "added": 111,
+                "remove": 0,
+                "change_type": "ADD"
+            },
+            {
+                "file": "DubboHealthIndicator.java",
+                "added": 1,
+                "remove": 2,
+                "change_type": "RENAME"
+            },
+            {
+                "file": "DubboHealthIndicatorProperties.java",
+                "added": 1,
+                "remove": 2,
+                "change_type": "RENAME"
+            },
+            {
+                "file": "DubboEndpointAutoConfigurationTest.java",
+                "added": 235,
+                "remove": 0,
+                "change_type": "ADD"
+            },
+            {
+                "file": "DubboHealthIndicatorTest.java",
+                "added": 3,
+                "remove": 4,
+                "change_type": "RENAME"
+            },
+            {
+                "file": "DubboAutoConfiguration.java",
+                "added": 20,
+                "remove": 32,
+                "change_type": "RENAME"
+            },
+            {
+                "file": "DubboRelaxedBindingAutoConfiguration.java",
+                "added": 55,
+                "remove": 0,
+                "change_type": "ADD"
+            },
+            {
+                "file": "RelaxedDubboConfigBinder.java",
+                "added": 49,
+                "remove": 0,
+                "change_type": "ADD"
+            },
+            {
+                "file": "AwaitingNonWebApplicationListener.java",
+                "added": 27,
+                "remove": 3,
+                "change_type": "RENAME"
+            },
+            {
+                "file": "OverrideDubboConfigApplicationListener.java",
+                "added": 4,
+                "remove": 12,
+                "change_type": "RENAME"
+            },
+            {
+                "file": "WelcomeLogoApplicationListener.java",
+                "added": 3,
+                "remove": 4,
+                "change_type": "RENAME"
+            },
+            {
+                "file": "DubboDefaultPropertiesEnvironmentPostProcessor.java",
+                "added": 0,
+                "remove": 1,
+                "change_type": "RENAME"
+            },
+            {
+                "file": "DubboUtils.java",
+                "added": 21,
+                "remove": 8,
+                "change_type": "RENAME"
+            },
+            {
+                "file": "EnvironmentUtils.java",
+                "added": 1,
+                "remove": 1,
+                "change_type": "RENAME"
+            },
+            {
+                "file": "CompatibleDubboAutoConfigurationTest.java",
+                "added": 57,
+                "remove": 0,
+                "change_type": "ADD"
+            },
+            {
+                "file": "CompatibleDubboAutoConfigurationTestWithoutProperties.java",
+                "added": 50,
+                "remove": 0,
+                "change_type": "ADD"
+            },
+            {
+                "file": "DubboAutoConfigurationOnMultipleConfigTest.java",
+                "added": 8,
+                "remove": 5,
+                "change_type": "RENAME"
+            },
+            {
+                "file": "DubboAutoConfigurationOnSingleConfigTest.java",
+                "added": 6,
+                "remove": 13,
+                "change_type": "RENAME"
+            },
+            {
+                "file": "RelaxedDubboConfigBinderTest.java",
+                "added": 65,
+                "remove": 0,
+                "change_type": "ADD"
+            },
+            {
+                "file": "AwaitingNonWebApplicationListenerTest.java",
+                "added": 56,
+                "remove": 0,
+                "change_type": "ADD"
+            },
+            {
+                "file": "OverrideDubboConfigApplicationListenerDisableTest.java",
+                "added": 3,
+                "remove": 4,
+                "change_type": "RENAME"
+            },
+            {
+                "file": "OverrideDubboConfigApplicationListenerTest.java",
+                "added": 3,
+                "remove": 4,
+                "change_type": "RENAME"
+            },
+            {
+                "file": "WelcomeLogoApplicationListenerTest.java",
+                "added": 3,
+                "remove": 3,
+                "change_type": "RENAME"
+            },
+            {
+                "file": "DubboDefaultPropertiesEnvironmentPostProcessorTest.java",
+                "added": 97,
+                "remove": 0,
+                "change_type": "ADD"
+            },
+            {
+                "file": "DubboUtilsTest.java",
+                "added": 12,
+                "remove": 12,
+                "change_type": "RENAME"
+            },
+            {
+                "file": "EnvironmentUtilsTest.java",
+                "added": 63,
+                "remove": 0,
+                "change_type": "ADD"
+            },
+            {
+                "file": "DubboAutoConfigurationConsumerBootstrap.java",
+                "added": 1,
+                "remove": 2,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "DubboAutoConfigurationProviderBootstrap.java",
+                "added": 1,
+                "remove": 4,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "DefaultDemoService.java",
+                "added": 1,
+                "remove": 2,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "DubboRegistryZooKeeperProviderBootstrap.java",
+                "added": 1,
+                "remove": 4,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "DefaultDemoService.java",
+                "added": 1,
+                "remove": 2,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "DubboExternalizedConfigurationConsumerBootstrap.java",
+                "added": 10,
+                "remove": 2,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "DubboExternalizedConfigurationProviderBootstrap.java",
+                "added": 1,
+                "remove": 4,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "DefaultDemoService.java",
+                "added": 1,
+                "remove": 2,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "DemoService.java",
+                "added": 1,
+                "remove": 1,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 61
+    },
+    {
+        "sha": "f08d1ec5fecf3bcbe6d517feb67a531c16d369eb",
+        "date": "2019-02-01 08:56:37+08:00",
+        "author": "mercyblitz",
+        "modification": [
+            {
+                "file": "DubboEndpointAnnotationAutoConfiguration.java",
+                "added": 9,
+                "remove": 10,
+                "change_type": "RENAME"
+            },
+            {
+                "file": "DubboConfigsMetadataEndpoint.java",
+                "added": 9,
+                "remove": 56,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "DubboMetadataEndpoint.java",
+                "added": 43,
+                "remove": 0,
+                "change_type": "ADD"
+            },
+            {
+                "file": "DubboPropertiesMetadataEndpoint.java",
+                "added": 42,
+                "remove": 0,
+                "change_type": "ADD"
+            },
+            {
+                "file": "DubboReferencesMetadataEndpoint.java",
+                "added": 9,
+                "remove": 39,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "DubboServicesMetadataEndpoint.java",
+                "added": 9,
+                "remove": 52,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "DubboShutdownEndpoint.java",
+                "added": 8,
+                "remove": 45,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "DubboEndpointAnnotationAutoConfigurationTest.java",
+                "added": 17,
+                "remove": 14,
+                "change_type": "RENAME"
+            },
+            {
+                "file": "DubboEndpointTest.java",
+                "added": 7,
+                "remove": 6,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "BinderDubboConfigBinder.java",
+                "added": 2,
+                "remove": 3,
+                "change_type": "RENAME"
+            },
+            {
+                "file": "DubboRelaxedBinding2AutoConfiguration.java",
+                "added": 74,
+                "remove": 0,
+                "change_type": "ADD"
+            },
+            {
+                "file": "BinderDubboConfigBinderTest.java",
+                "added": 5,
+                "remove": 6,
+                "change_type": "RENAME"
+            },
+            {
+                "file": "DubboRelaxedBinding2AutoConfigurationTest.java",
+                "added": 70,
+                "remove": 0,
+                "change_type": "ADD"
+            },
+            {
+                "file": "EnvironmentUtilsTest.java",
+                "added": 1,
+                "remove": 1,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "DubboEndpointAutoConfiguration.java",
+                "added": 52,
+                "remove": 0,
+                "change_type": "ADD"
+            },
+            {
+                "file": "DubboEndpointMetadataAutoConfiguration.java",
+                "added": 38,
+                "remove": 0,
+                "change_type": "ADD"
+            },
+            {
+                "file": "DubboHealthIndicatorAutoConfiguration.java",
+                "added": 6,
+                "remove": 11,
+                "change_type": "RENAME"
+            },
+            {
+                "file": "DubboMvcEndpointManagementContextConfiguration.java",
+                "added": 48,
+                "remove": 0,
+                "change_type": "ADD"
+            },
+            {
+                "file": "DubboEndpoint.java",
+                "added": 48,
+                "remove": 0,
+                "change_type": "ADD"
+            },
+            {
+                "file": "AbstractDubboMetadata.java",
+                "added": 4,
+                "remove": 6,
+                "change_type": "RENAME"
+            },
+            {
+                "file": "DubboConfigsMetadata.java",
+                "added": 86,
+                "remove": 0,
+                "change_type": "ADD"
+            },
+            {
+                "file": "DubboMetadata.java",
+                "added": 6,
+                "remove": 12,
+                "change_type": "RENAME"
+            },
+            {
+                "file": "DubboPropertiesMetadata.java",
+                "added": 7,
+                "remove": 12,
+                "change_type": "RENAME"
+            },
+            {
+                "file": "DubboReferencesMetadata.java",
+                "added": 70,
+                "remove": 0,
+                "change_type": "ADD"
+            },
+            {
+                "file": "DubboServicesMetadata.java",
+                "added": 83,
+                "remove": 0,
+                "change_type": "ADD"
+            },
+            {
+                "file": "DubboShutdownMetadata.java",
+                "added": 77,
+                "remove": 0,
+                "change_type": "ADD"
+            },
+            {
+                "file": "DubboMvcEndpoint.java",
+                "added": 111,
+                "remove": 0,
+                "change_type": "ADD"
+            },
+            {
+                "file": "DubboHealthIndicator.java",
+                "added": 1,
+                "remove": 2,
+                "change_type": "RENAME"
+            },
+            {
+                "file": "DubboHealthIndicatorProperties.java",
+                "added": 1,
+                "remove": 2,
+                "change_type": "RENAME"
+            },
+            {
+                "file": "DubboEndpointAutoConfigurationTest.java",
+                "added": 235,
+                "remove": 0,
+                "change_type": "ADD"
+            },
+            {
+                "file": "DubboHealthIndicatorTest.java",
+                "added": 3,
+                "remove": 4,
+                "change_type": "RENAME"
+            },
+            {
+                "file": "DubboAutoConfiguration.java",
+                "added": 20,
+                "remove": 32,
+                "change_type": "RENAME"
+            },
+            {
+                "file": "DubboRelaxedBindingAutoConfiguration.java",
+                "added": 55,
+                "remove": 0,
+                "change_type": "ADD"
+            },
+            {
+                "file": "RelaxedDubboConfigBinder.java",
+                "added": 49,
+                "remove": 0,
+                "change_type": "ADD"
+            },
+            {
+                "file": "AwaitingNonWebApplicationListener.java",
+                "added": 27,
+                "remove": 3,
+                "change_type": "RENAME"
+            },
+            {
+                "file": "OverrideDubboConfigApplicationListener.java",
+                "added": 4,
+                "remove": 12,
+                "change_type": "RENAME"
+            },
+            {
+                "file": "WelcomeLogoApplicationListener.java",
+                "added": 3,
+                "remove": 4,
+                "change_type": "RENAME"
+            },
+            {
+                "file": "DubboDefaultPropertiesEnvironmentPostProcessor.java",
+                "added": 0,
+                "remove": 1,
+                "change_type": "RENAME"
+            },
+            {
+                "file": "DubboUtils.java",
+                "added": 21,
+                "remove": 8,
+                "change_type": "RENAME"
+            },
+            {
+                "file": "EnvironmentUtils.java",
+                "added": 1,
+                "remove": 1,
+                "change_type": "RENAME"
+            },
+            {
+                "file": "CompatibleDubboAutoConfigurationTest.java",
+                "added": 57,
+                "remove": 0,
+                "change_type": "ADD"
+            },
+            {
+                "file": "CompatibleDubboAutoConfigurationTestWithoutProperties.java",
+                "added": 50,
+                "remove": 0,
+                "change_type": "ADD"
+            },
+            {
+                "file": "DubboAutoConfigurationOnMultipleConfigTest.java",
+                "added": 8,
+                "remove": 5,
+                "change_type": "RENAME"
+            },
+            {
+                "file": "DubboAutoConfigurationOnSingleConfigTest.java",
+                "added": 6,
+                "remove": 13,
+                "change_type": "RENAME"
+            },
+            {
+                "file": "RelaxedDubboConfigBinderTest.java",
+                "added": 65,
+                "remove": 0,
+                "change_type": "ADD"
+            },
+            {
+                "file": "AwaitingNonWebApplicationListenerTest.java",
+                "added": 56,
+                "remove": 0,
+                "change_type": "ADD"
+            },
+            {
+                "file": "OverrideDubboConfigApplicationListenerDisableTest.java",
+                "added": 3,
+                "remove": 4,
+                "change_type": "RENAME"
+            },
+            {
+                "file": "OverrideDubboConfigApplicationListenerTest.java",
+                "added": 3,
+                "remove": 4,
+                "change_type": "RENAME"
+            },
+            {
+                "file": "WelcomeLogoApplicationListenerTest.java",
+                "added": 3,
+                "remove": 3,
+                "change_type": "RENAME"
+            },
+            {
+                "file": "DubboDefaultPropertiesEnvironmentPostProcessorTest.java",
+                "added": 97,
+                "remove": 0,
+                "change_type": "ADD"
+            },
+            {
+                "file": "DubboUtilsTest.java",
+                "added": 12,
+                "remove": 12,
+                "change_type": "RENAME"
+            },
+            {
+                "file": "EnvironmentUtilsTest.java",
+                "added": 63,
+                "remove": 0,
+                "change_type": "ADD"
+            },
+            {
+                "file": "DubboAutoConfigurationConsumerBootstrap.java",
+                "added": 1,
+                "remove": 2,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "DubboAutoConfigurationProviderBootstrap.java",
+                "added": 1,
+                "remove": 4,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "DefaultDemoService.java",
+                "added": 1,
+                "remove": 2,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "DubboRegistryZooKeeperProviderBootstrap.java",
+                "added": 1,
+                "remove": 4,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "DefaultDemoService.java",
+                "added": 1,
+                "remove": 2,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "DubboExternalizedConfigurationConsumerBootstrap.java",
+                "added": 10,
+                "remove": 2,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "DubboExternalizedConfigurationProviderBootstrap.java",
+                "added": 1,
+                "remove": 4,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "DefaultDemoService.java",
+                "added": 1,
+                "remove": 2,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "DemoService.java",
+                "added": 1,
+                "remove": 1,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 61
+    },
+    {
+        "sha": "033421d012cebb91345f62997d17350e973ead37",
+        "date": "2019-02-25 14:41:47+08:00",
+        "author": "mercyblitz",
+        "modification": [
+            {
+                "file": "DelegatingPropertyResolver.java",
+                "added": 83,
+                "remove": 0,
+                "change_type": "ADD"
+            },
+            {
+                "file": "DubboRelaxedBinding2AutoConfiguration.java",
+                "added": 1,
+                "remove": 1,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "DubboRelaxedBinding2AutoConfigurationTest.java",
+                "added": 16,
+                "remove": 0,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 3
+    },
+    {
+        "sha": "82af201c546fc27e1be86a45e5c6a5ca7ef2e525",
+        "date": "2019-03-08 22:59:43+08:00",
+        "author": "fangjian0423",
+        "modification": [
+            {
+                "file": "DubboEndpointAnnotationAutoConfiguration.java",
+                "added": 1,
+                "remove": 1,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "fa4c06a042b904b6e05e96d4f4e24bca19e4997f",
+        "date": "2019-03-19 13:53:04+08:00",
+        "author": "mercyblitz",
+        "modification": [
+            {
+                "file": "DubboDefaultPropertiesEnvironmentPostProcessor.java",
+                "added": 20,
+                "remove": 0,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "63d54c12f0794308b7f4e5e30b04b320d4a61bfa",
+        "date": "2019-03-19 16:04:38+08:00",
+        "author": "mercyblitz",
+        "modification": [
+            {
+                "file": "DubboEndpointAnnotationAutoConfigurationTest.java",
+                "added": 4,
+                "remove": 3,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "DubboEndpointAutoConfigurationTest.java",
+                "added": 4,
+                "remove": 3,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "DubboApplicationContextInitializer.java",
+                "added": 106,
+                "remove": 0,
+                "change_type": "ADD"
+            }
+        ],
+        "files": 3
+    },
+    {
+        "sha": "367d707eed79cbb551ef1f79bab630ae092cfbb2",
+        "date": "2019-03-19 16:37:44+08:00",
+        "author": "mercyblitz",
+        "modification": [
+            {
+                "file": "EmbeddedZooKeeper.java",
+                "added": 1,
+                "remove": 0,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "31c67715b43c839369065edc34edfc55b166099d",
+        "date": "2019-03-19 16:42:54+08:00",
+        "author": "mercyblitz",
+        "modification": [
+            {
+                "file": "WelcomeLogoApplicationListener.java",
+                "added": 2,
+                "remove": 1,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "49aef0b82bcdd2b1e9fda5e2ecd3e95a57ad4fbc",
+        "date": "2019-03-20 12:45:02+08:00",
+        "author": "mercyblitz",
+        "modification": [
+            {
+                "file": "DubboEndpointAutoConfiguration.java",
+                "added": 3,
+                "remove": 0,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "DubboAutoConfiguration.java",
+                "added": 6,
+                "remove": 2,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "DubboConfigurationProperties.java",
+                "added": 288,
+                "remove": 0,
+                "change_type": "ADD"
+            }
+        ],
+        "files": 3
+    },
+    {
+        "sha": "9429525ba0fa41d8f9b31f55b6c81dbbde5d36e2",
+        "date": "2019-03-20 12:55:17+08:00",
+        "author": "mercyblitz",
+        "modification": [
+            {
+                "file": "DubboConfigurationProperties.java",
+                "added": 9,
+                "remove": 1,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "7bc44d2afea3cf5bf866cb5ce7311ac0dc1c7a89",
+        "date": "2019-03-20 13:19:10+08:00",
+        "author": "mercyblitz",
+        "modification": [
+            {
+                "file": "DubboConfigurationProperties.java",
+                "added": 14,
+                "remove": 0,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "7e0816c05368c7c6fb8354f368398ce987e82aed",
+        "date": "2019-03-20 16:03:58+08:00",
+        "author": "mercyblitz",
+        "modification": [
+            {
+                "file": "DubboConfigurationProperties.java",
+                "added": 0,
+                "remove": 10,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "DubboConfigBeanCustomizer.java",
+                "added": 65,
+                "remove": 0,
+                "change_type": "ADD"
+            },
+            {
+                "file": "DubboConfigBeanDefinitionConflictProcessor.java",
+                "added": 120,
+                "remove": 0,
+                "change_type": "ADD"
+            },
+            {
+                "file": "OverrideBeanDefinitionRegistryPostProcessor.java",
+                "added": 43,
+                "remove": 0,
+                "change_type": "ADD"
+            },
+            {
+                "file": "DubboApplicationContextInitializer.java",
+                "added": 3,
+                "remove": 60,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "DubboDefaultPropertiesEnvironmentPostProcessor.java",
+                "added": 6,
+                "remove": 31,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "DubboUtils.java",
+                "added": 46,
+                "remove": 0,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "DubboConfigBeanDefinitionConflictProcessorTest.java",
+                "added": 109,
+                "remove": 0,
+                "change_type": "ADD"
+            },
+            {
+                "file": "DubboUtilsTest.java",
+                "added": 12,
+                "remove": 0,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 9
+    },
+    {
+        "sha": "fda8aca64ea400d5650cdbf4996c69ade9a43248",
+        "date": "2019-03-20 16:10:59+08:00",
+        "author": "mercyblitz",
+        "modification": [
+            {
+                "file": "DubboAutoConfigurationOnMultipleConfigTest.java",
+                "added": 3,
+                "remove": 3,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "a39ea23d8e4278b9cb8428862714609df1f5cd6c",
+        "date": "2019-03-20 17:02:57+08:00",
+        "author": "mercyblitz",
+        "modification": [
+            {
+                "file": "DubboEndpointAnnotationAutoConfigurationTest.java",
+                "added": 4,
+                "remove": 3,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "DelegatingPropertyResolver.java",
+                "added": 83,
+                "remove": 0,
+                "change_type": "ADD"
+            },
+            {
+                "file": "DubboRelaxedBinding2AutoConfiguration.java",
+                "added": 1,
+                "remove": 1,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "DubboRelaxedBinding2AutoConfigurationTest.java",
+                "added": 16,
+                "remove": 0,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "DubboEndpointAutoConfiguration.java",
+                "added": 3,
+                "remove": 0,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "DubboEndpointAutoConfigurationTest.java",
+                "added": 4,
+                "remove": 3,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "DubboAutoConfiguration.java",
+                "added": 6,
+                "remove": 2,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "DubboConfigurationProperties.java",
+                "added": 300,
+                "remove": 0,
+                "change_type": "ADD"
+            },
+            {
+                "file": "DubboConfigBeanCustomizer.java",
+                "added": 65,
+                "remove": 0,
+                "change_type": "ADD"
+            },
+            {
+                "file": "DubboConfigBeanDefinitionConflictProcessor.java",
+                "added": 120,
+                "remove": 0,
+                "change_type": "ADD"
+            },
+            {
+                "file": "OverrideBeanDefinitionRegistryPostProcessor.java",
+                "added": 43,
+                "remove": 0,
+                "change_type": "ADD"
+            },
+            {
+                "file": "DubboApplicationContextInitializer.java",
+                "added": 49,
+                "remove": 0,
+                "change_type": "ADD"
+            },
+            {
+                "file": "WelcomeLogoApplicationListener.java",
+                "added": 2,
+                "remove": 1,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "DubboDefaultPropertiesEnvironmentPostProcessor.java",
+                "added": 22,
+                "remove": 27,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "DubboUtils.java",
+                "added": 46,
+                "remove": 0,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "DubboAutoConfigurationOnMultipleConfigTest.java",
+                "added": 3,
+                "remove": 3,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "DubboConfigBeanDefinitionConflictProcessorTest.java",
+                "added": 109,
+                "remove": 0,
+                "change_type": "ADD"
+            },
+            {
+                "file": "DubboUtilsTest.java",
+                "added": 12,
+                "remove": 0,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "DubboAutoConfigurationConsumerBootstrap.java",
+                "added": 1,
+                "remove": 3,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "DefaultDemoService.java",
+                "added": 1,
+                "remove": 0,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "DubboRegistryZooKeeperConsumerBootstrap.java",
+                "added": 1,
+                "remove": 4,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "EmbeddedZooKeeper.java",
+                "added": 1,
+                "remove": 0,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "DefaultDemoService.java",
+                "added": 1,
+                "remove": 0,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "DubboExternalizedConfigurationConsumerBootstrap.java",
+                "added": 1,
+                "remove": 3,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "DefaultDemoService.java",
+                "added": 1,
+                "remove": 0,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 25
+    },
+    {
+        "sha": "272331ca616eb2d1bd45713cc7dd4aef8ed4c063",
+        "date": "2019-04-08 21:38:18+08:00",
+        "author": "mercyblitz",
+        "modification": [
+            {
+                "file": "DubboEndpointAnnotationAutoConfigurationTest.java",
+                "added": 4,
+                "remove": 3,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "DelegatingPropertyResolver.java",
+                "added": 83,
+                "remove": 0,
+                "change_type": "ADD"
+            },
+            {
+                "file": "DubboRelaxedBinding2AutoConfiguration.java",
+                "added": 1,
+                "remove": 1,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "DubboRelaxedBinding2AutoConfigurationTest.java",
+                "added": 16,
+                "remove": 0,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "DubboEndpointAutoConfiguration.java",
+                "added": 3,
+                "remove": 0,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "DubboEndpointAutoConfigurationTest.java",
+                "added": 4,
+                "remove": 3,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "DubboAutoConfiguration.java",
+                "added": 6,
+                "remove": 2,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "DubboConfigurationProperties.java",
+                "added": 300,
+                "remove": 0,
+                "change_type": "ADD"
+            },
+            {
+                "file": "DubboConfigBeanCustomizer.java",
+                "added": 65,
+                "remove": 0,
+                "change_type": "ADD"
+            },
+            {
+                "file": "DubboConfigBeanDefinitionConflictProcessor.java",
+                "added": 120,
+                "remove": 0,
+                "change_type": "ADD"
+            },
+            {
+                "file": "OverrideBeanDefinitionRegistryPostProcessor.java",
+                "added": 43,
+                "remove": 0,
+                "change_type": "ADD"
+            },
+            {
+                "file": "DubboApplicationContextInitializer.java",
+                "added": 49,
+                "remove": 0,
+                "change_type": "ADD"
+            },
+            {
+                "file": "WelcomeLogoApplicationListener.java",
+                "added": 2,
+                "remove": 1,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "DubboDefaultPropertiesEnvironmentPostProcessor.java",
+                "added": 22,
+                "remove": 27,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "DubboUtils.java",
+                "added": 46,
+                "remove": 0,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "DubboAutoConfigurationOnMultipleConfigTest.java",
+                "added": 3,
+                "remove": 3,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "DubboConfigBeanDefinitionConflictProcessorTest.java",
+                "added": 109,
+                "remove": 0,
+                "change_type": "ADD"
+            },
+            {
+                "file": "DubboUtilsTest.java",
+                "added": 12,
+                "remove": 0,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "DubboAutoConfigurationConsumerBootstrap.java",
+                "added": 1,
+                "remove": 3,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "DefaultDemoService.java",
+                "added": 1,
+                "remove": 0,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "DubboRegistryZooKeeperConsumerBootstrap.java",
+                "added": 1,
+                "remove": 4,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "EmbeddedZooKeeper.java",
+                "added": 1,
+                "remove": 0,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "DefaultDemoService.java",
+                "added": 1,
+                "remove": 0,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "DubboExternalizedConfigurationConsumerBootstrap.java",
+                "added": 1,
+                "remove": 3,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "DefaultDemoService.java",
+                "added": 1,
+                "remove": 0,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 25
+    },
+    {
+        "sha": "a4f21f076ccb162a5ea1f1486d6382bbba18efef",
+        "date": "2019-04-11 17:33:10+08:00",
+        "author": "mercyblitz",
+        "modification": [
+            {
+                "file": "DubboRegistryNacosConsumerBootstrap.java",
+                "added": 48,
+                "remove": 0,
+                "change_type": "ADD"
+            },
+            {
+                "file": "DubboRegistryNacosProviderBootstrap.java",
+                "added": 37,
+                "remove": 0,
+                "change_type": "ADD"
+            },
+            {
+                "file": "DefaultDemoService.java",
+                "added": 43,
+                "remove": 0,
+                "change_type": "ADD"
+            }
+        ],
+        "files": 3
+    },
+    {
+        "sha": "6601aae0d1c5e33322a8cc54cd3794cc3f1f588e",
+        "date": "2019-04-11 17:43:22+08:00",
+        "author": "mercyblitz",
+        "modification": [
+            {
+                "file": "DubboRegistryNacosConsumerBootstrap.java",
+                "added": 48,
+                "remove": 0,
+                "change_type": "ADD"
+            },
+            {
+                "file": "DubboRegistryNacosProviderBootstrap.java",
+                "added": 37,
+                "remove": 0,
+                "change_type": "ADD"
+            },
+            {
+                "file": "DefaultDemoService.java",
+                "added": 43,
+                "remove": 0,
+                "change_type": "ADD"
+            }
+        ],
+        "files": 3
+    },
+    {
+        "sha": "69259e770c993aa3a0475c62d67479bc3f1a4b9c",
+        "date": "2019-08-09 20:25:20+08:00",
+        "author": "mercyblitz",
+        "modification": [
+            {
+                "file": "DubboEndpointTest.java",
+                "added": 4,
+                "remove": 3,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "DubboRelaxedBinding2AutoConfigurationTest.java",
+                "added": 22,
+                "remove": 11,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "DubboAutoConfiguration.java",
+                "added": 15,
+                "remove": 0,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "DubboRelaxedBindingAutoConfiguration.java",
+                "added": 2,
+                "remove": 0,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "AwaitingNonWebApplicationListener.java",
+                "added": 29,
+                "remove": 22,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "DubboUtils.java",
+                "added": 3,
+                "remove": 3,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "DubboUtilsTest.java",
+                "added": 3,
+                "remove": 3,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "DubboExternalizedConfigurationConsumerBootstrap.java",
+                "added": 5,
+                "remove": 2,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 8
+    },
+    {
+        "sha": "efebd4225ebe2b2dac4d3996203a5683fb749e86",
+        "date": "2019-09-09 14:27:23+08:00",
+        "author": "echooymxq",
+        "modification": [
+            {
+                "file": "DubboEndpointAnnotationAutoConfigurationTest.java",
+                "added": 1,
+                "remove": 1,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "DubboEndpointAutoConfigurationTest.java",
+                "added": 1,
+                "remove": 1,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 2
+    },
+    {
+        "sha": "5dd42ba9f54163606c43c2f8e2cd578266fbf445",
+        "date": "2019-10-30 14:35:49+08:00",
+        "author": "mostcool",
+        "modification": [
+            {
+                "file": "DubboEndpointTest.java",
+                "added": 1,
+                "remove": 1,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "DubboUtils.java",
+                "added": 1,
+                "remove": 1,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "DubboUtilsTest.java",
+                "added": 1,
+                "remove": 1,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 3
+    },
+    {
+        "sha": "d945b9fcbfa2528c4168613c990c208c7d927ca3",
+        "date": "2019-10-30 14:39:39+08:00",
+        "author": "tswstarplanet",
+        "modification": [
+            {
+                "file": "DubboUtils.java",
+                "added": 1,
+                "remove": 2,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "d291162aa178209d43a70e2859f5f89e9b882eca",
+        "date": "2019-10-30 01:40:27-05:00",
+        "author": "zhaoyunxing92",
+        "modification": [
+            {
+                "file": "DubboRegistryNacosConsumerBootstrap.java",
+                "added": 1,
+                "remove": 1,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "2b66783344f0e87d8d863debfcffd71539be1e48",
+        "date": "2019-10-30 14:40:54+08:00",
+        "author": "pengzai170",
+        "modification": [
+            {
+                "file": "DubboRelaxedBinding2AutoConfiguration.java",
+                "added": 1,
+                "remove": 0,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "DubboDefaultPropertiesEnvironmentPostProcessor.java",
+                "added": 1,
+                "remove": 1,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 2
+    },
+    {
+        "sha": "c4077b40d848d582724000d973eeda8283b5735b",
+        "date": "2019-11-07 17:13:03+08:00",
+        "author": "mercyblitz",
+        "modification": [
+            {
+                "file": "DubboRelaxedBinding2AutoConfiguration.java",
+                "added": 3,
+                "remove": 2,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "DubboRelaxedBinding2AutoConfigurationTest.java",
+                "added": 1,
+                "remove": 1,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "RelaxedDubboConfigBinder.java",
+                "added": 3,
+                "remove": 2,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 3
+    },
+    {
+        "sha": "bd3b7314f50e5cb2b2d4906717046201038f02e9",
+        "date": "2020-01-03 15:23:42+08:00",
+        "author": "mercyblitz",
+        "modification": [
+            {
+                "file": "BinderDubboConfigBinder.java",
+                "added": 17,
+                "remove": 12,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "DubboRelaxedBinding2AutoConfiguration.java",
+                "added": 5,
+                "remove": 6,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "BinderDubboConfigBinderTest.java",
+                "added": 17,
+                "remove": 5,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "DubboRelaxedBinding2AutoConfigurationTest.java",
+                "added": 4,
+                "remove": 3,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "DubboRelaxedBindingAutoConfiguration.java",
+                "added": 3,
+                "remove": 4,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "RelaxedDubboConfigBinder.java",
+                "added": 8,
+                "remove": 10,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "DubboConfigBeanCustomizer.java",
+                "added": 7,
+                "remove": 5,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "DubboConfigBeanDefinitionConflictProcessor.java",
+                "added": 5,
+                "remove": 0,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "OverrideBeanDefinitionRegistryPostProcessor.java",
+                "added": 1,
+                "remove": 1,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "DubboApplicationContextInitializer.java",
+                "added": 3,
+                "remove": 2,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "DubboConfigBeanDefinitionConflictApplicationListener.java",
+                "added": 121,
+                "remove": 0,
+                "change_type": "ADD"
+            },
+            {
+                "file": "CompatibleDubboAutoConfigurationTest.java",
+                "added": 3,
+                "remove": 1,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "RelaxedDubboConfigBinderTest.java",
+                "added": 17,
+                "remove": 5,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "DubboConfigBeanDefinitionConflictApplicationListenerTest.java",
+                "added": 109,
+                "remove": 0,
+                "change_type": "ADD"
+            }
+        ],
+        "files": 14
+    },
+    {
+        "sha": "557b17a2bbb81c6061672f41b2c31e25c87afb94",
+        "date": "2020-01-10 15:16:00+08:00",
+        "author": "brucelwl",
+        "modification": [
+            {
+                "file": "DubboConfigurationProperties.java",
+                "added": 5,
+                "remove": 5,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "a0d88b7c903da341099883d39186083266503b24",
+        "date": "2020-04-07 03:02:50+08:00",
+        "author": "mercyblitz",
+        "modification": [
+            {
+                "file": "DubboEndpointAutoConfigurationTest.java",
+                "added": 2,
+                "remove": 0,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "DubboHealthIndicatorTest.java",
+                "added": 3,
+                "remove": 0,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "DubboUtils.java",
+                "added": 0,
+                "remove": 3,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "DubboRegistryZooKeeperProviderBootstrap.java",
+                "added": 2,
+                "remove": 10,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "EmbeddedZooKeeper.java",
+                "added": 0,
+                "remove": 253,
+                "change_type": "DELETE"
+            }
+        ],
+        "files": 5
+    }
+]

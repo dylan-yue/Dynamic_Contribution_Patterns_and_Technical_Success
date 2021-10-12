@@ -1,0 +1,6646 @@
+[
+    {
+        "sha": "6f6e75f5496910724209929e32730f5927373585",
+        "date": "2014-08-26 18:08:15-05:00",
+        "author": "d34dh0r53",
+        "modification": [
+            {
+                "file": "dynamic_inventory.py",
+                "added": 797,
+                "remove": 0,
+                "change_type": "ADD"
+            },
+            {
+                "file": "local_settings.py",
+                "added": 502,
+                "remove": 0,
+                "change_type": "ADD"
+            },
+            {
+                "file": "neutron-ha-tool.py",
+                "added": 549,
+                "remove": 0,
+                "change_type": "ADD"
+            },
+            {
+                "file": "genlog.py",
+                "added": 46,
+                "remove": 0,
+                "change_type": "ADD"
+            },
+            {
+                "file": "elsa_repo.py",
+                "added": 504,
+                "remove": 0,
+                "change_type": "ADD"
+            },
+            {
+                "file": "inventory-manage.py",
+                "added": 168,
+                "remove": 0,
+                "change_type": "ADD"
+            },
+            {
+                "file": "pw-token-gen.py",
+                "added": 200,
+                "remove": 0,
+                "change_type": "ADD"
+            },
+            {
+                "file": "install.py",
+                "added": 301,
+                "remove": 0,
+                "change_type": "ADD"
+            }
+        ],
+        "files": 8
+    },
+    {
+        "sha": "aa01f6c0c91fde08316d38a1fe84d3cac448f23f",
+        "date": "2014-08-28 10:59:06-05:00",
+        "author": "cloudnull",
+        "modification": [
+            {
+                "file": "dynamic_inventory.py",
+                "added": 10,
+                "remove": 12,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "b0166e98ba902c34d1abdd17bda43b9f123dbc5b",
+        "date": "2014-08-29 18:14:32-05:00",
+        "author": "jacobwagner",
+        "modification": [
+            {
+                "file": "inventory-manage.py",
+                "added": 10,
+                "remove": 3,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "f6a8bcc2845a161791f28185ccfa360b37d9e417",
+        "date": "2014-09-02 17:28:22+01:00",
+        "author": "andymcc",
+        "modification": [
+            {
+                "file": "local_settings.py",
+                "added": 1,
+                "remove": 1,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "becddf9290bdca3cd2b42f599a0e001c4c85cbce",
+        "date": "2014-09-03 10:51:52-05:00",
+        "author": "cloudnull",
+        "modification": [
+            {
+                "file": "local_settings.py",
+                "added": 2,
+                "remove": 2,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "d900c02adf8b12ced98f44ef743ca50fcbaa4e3a",
+        "date": "2014-09-04 09:28:21-05:00",
+        "author": "cloudnull",
+        "modification": [
+            {
+                "file": "f5-config.py",
+                "added": 397,
+                "remove": 0,
+                "change_type": "ADD"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "24cb1f068a99bfc98a70c52dd42273ac8481305f",
+        "date": "2014-09-04 15:24:09-05:00",
+        "author": "cloudnull",
+        "modification": [
+            {
+                "file": "f5-config.py",
+                "added": 29,
+                "remove": 12,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "09ed428bb6df95afde304dcdb4bf522bdd2d4006",
+        "date": "2014-09-04 16:05:28-05:00",
+        "author": "cloudnull",
+        "modification": [
+            {
+                "file": "f5-config.py",
+                "added": 12,
+                "remove": 3,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "e0d0c3fce27f48a70a8ea21f605a98303e960cb4",
+        "date": "2014-09-08 10:39:26-05:00",
+        "author": "cloudnull",
+        "modification": [
+            {
+                "file": "f5-config.py",
+                "added": 3,
+                "remove": 1,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "a05490885ed1805928be145afb928824b1839057",
+        "date": "2014-09-09 02:28:36-05:00",
+        "author": "cloudnull",
+        "modification": [
+            {
+                "file": "dynamic_inventory.py",
+                "added": 16,
+                "remove": 10,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "horizon-manage.py",
+                "added": 24,
+                "remove": 0,
+                "change_type": "ADD"
+            }
+        ],
+        "files": 2
+    },
+    {
+        "sha": "33b0dbd1f5072662bd7ee8ac17610a709af5bdb9",
+        "date": "2014-09-04 11:50:57+01:00",
+        "author": "hughsaunders",
+        "modification": [
+            {
+                "file": "elsa_repo.py",
+                "added": 375,
+                "remove": 170,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "c6e5c9a74e915915f1aaf1948c46a3f8afe9b823",
+        "date": "2014-09-15 11:38:32-05:00",
+        "author": "cloudnull",
+        "modification": [
+            {
+                "file": "pip-link-build.py",
+                "added": 177,
+                "remove": 0,
+                "change_type": "ADD"
+            },
+            {
+                "file": "rpc-wheel-builder.py",
+                "added": 632,
+                "remove": 0,
+                "change_type": "ADD"
+            }
+        ],
+        "files": 2
+    },
+    {
+        "sha": "896896d9b73137aba16981107e363c91cc6583ac",
+        "date": "2014-09-23 10:36:21-05:00",
+        "author": "cloudnull",
+        "modification": [
+            {
+                "file": "dynamic_inventory.py",
+                "added": 1,
+                "remove": 1,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "e66e614c821a7cc2e6bf0741598e14e0cc306f98",
+        "date": "2014-09-29 12:38:41-05:00",
+        "author": "cloudnull",
+        "modification": [
+            {
+                "file": "local_settings.py",
+                "added": 1,
+                "remove": 1,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "cdd5188093bb630d3c630077d2e316d8ae54f665",
+        "date": "2014-09-30 09:11:49-05:00",
+        "author": "cloudnull",
+        "modification": [
+            {
+                "file": "neutron-ha-tool.py",
+                "added": 0,
+                "remove": 549,
+                "change_type": "DELETE"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "d00fa35882bbcb99be9d53fbb5ce9a6771fbdb58",
+        "date": "2014-10-02 11:28:02+01:00",
+        "author": "mattt416",
+        "modification": [
+            {
+                "file": "local_settings.py",
+                "added": 47,
+                "remove": 21,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "00d2834c3ada9349d15dec7355a25943479ffd55",
+        "date": "2014-10-06 11:35:49-05:00",
+        "author": "cloudnull",
+        "modification": [
+            {
+                "file": "rpc-wheel-builder.py",
+                "added": 121,
+                "remove": 17,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "11db7e8b49993ef45946b89f1e633095bab2950f",
+        "date": "2014-10-10 12:18:23+01:00",
+        "author": "mattt416",
+        "modification": [
+            {
+                "file": "horizon-manage.py",
+                "added": 0,
+                "remove": 24,
+                "change_type": "DELETE"
+            },
+            {
+                "file": "local_settings.py",
+                "added": 1,
+                "remove": 1,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 2
+    },
+    {
+        "sha": "8b66225bcf3f2ec6345f4871d8e341fefa76af3c",
+        "date": "2014-10-11 14:33:33-05:00",
+        "author": "cloudnull",
+        "modification": [
+            {
+                "file": "neutron-ha-tool.py",
+                "added": 549,
+                "remove": 0,
+                "change_type": "ADD"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "86439ed4f18c14b2d7e5cf932b830787e042f9e6",
+        "date": "2014-10-16 20:24:12-05:00",
+        "author": "cloudnull",
+        "modification": [
+            {
+                "file": "dynamic_inventory.py",
+                "added": 55,
+                "remove": 22,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "6f9343cef742f54e72278b2714a25c03e5fd738e",
+        "date": "2014-10-17 14:03:35+01:00",
+        "author": "andymcc",
+        "modification": [
+            {
+                "file": "dynamic_inventory.py",
+                "added": 8,
+                "remove": 0,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "31ce4e14a0e8539e7ecaa4fae246d43b9cc7793a",
+        "date": "2014-09-18 07:41:19+10:00",
+        "author": "matthewoliver",
+        "modification": [
+            {
+                "file": "swift_inventory.py",
+                "added": 309,
+                "remove": 0,
+                "change_type": "ADD"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "f3864a3c8f1bcc7290a8fe5466045ceb709d97be",
+        "date": "2014-09-18 17:56:05+10:00",
+        "author": "matthewoliver",
+        "modification": [
+            {
+                "file": "swift_inventory.py",
+                "added": 3,
+                "remove": 3,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "aeed044c80bcf4025dcdd6d845f7f123ee402cb9",
+        "date": "2014-09-19 15:31:46+10:00",
+        "author": "matthewoliver",
+        "modification": [
+            {
+                "file": "swift_inventory.py",
+                "added": 50,
+                "remove": 23,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "474be4ca4f67d2404d3bd89f0c54657764233d0c",
+        "date": "2014-09-24 16:22:44+10:00",
+        "author": "matthewoliver",
+        "modification": [
+            {
+                "file": "swift_inventory.py",
+                "added": 36,
+                "remove": 12,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "swift_rings.py",
+                "added": 158,
+                "remove": 0,
+                "change_type": "ADD"
+            }
+        ],
+        "files": 2
+    },
+    {
+        "sha": "dd5b20efa698739b3b04f46057a577b2a2fe552e",
+        "date": "2014-09-25 05:54:45+00:00",
+        "author": "matthewoliver",
+        "modification": [
+            {
+                "file": "swift_inventory.py",
+                "added": 1,
+                "remove": 0,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "0d2f69bc0387f079a92587e62837c9d9341c09a9",
+        "date": "2014-09-26 14:29:48+00:00",
+        "author": "andymcc",
+        "modification": [
+            {
+                "file": "swift_rings.py",
+                "added": 158,
+                "remove": 0,
+                "change_type": "ADD"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "e787a0de43919143b61701ff799fb399a0c8dc93",
+        "date": "2014-09-26 14:42:41+00:00",
+        "author": "andymcc",
+        "modification": [
+            {
+                "file": "swift_inventory.py",
+                "added": 0,
+                "remove": 361,
+                "change_type": "DELETE"
+            },
+            {
+                "file": "swift_rings.py",
+                "added": 0,
+                "remove": 158,
+                "change_type": "DELETE"
+            }
+        ],
+        "files": 2
+    },
+    {
+        "sha": "98676818d7f0c36d60d65a14f4bb5be7ebc4c512",
+        "date": "2014-09-30 09:39:09+00:00",
+        "author": "andymcc",
+        "modification": [
+            {
+                "file": "swift_rings.py",
+                "added": 52,
+                "remove": 54,
+                "change_type": "RENAME"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "ce271cbda1ca7cd06215705420ecfedd56e74f80",
+        "date": "2014-10-01 10:11:43+00:00",
+        "author": "andymcc",
+        "modification": [
+            {
+                "file": "swift_rings.py",
+                "added": 3,
+                "remove": 3,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "e5baba2497826be65d118db1df231c9cf44084df",
+        "date": "2014-10-01 10:43:17+00:00",
+        "author": "andymcc",
+        "modification": [
+            {
+                "file": "swift_rings.py",
+                "added": 4,
+                "remove": 1,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "018652cd636afe0d1a97e7023f4729fb34c9f4ac",
+        "date": "2014-10-01 13:31:33+00:00",
+        "author": "andymcc",
+        "modification": [
+            {
+                "file": "swift_rings.py",
+                "added": 30,
+                "remove": 8,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "76573339091bb354e1351136dc8d5f8d923a60ef",
+        "date": "2014-10-01 14:08:36+00:00",
+        "author": "andymcc",
+        "modification": [
+            {
+                "file": "swift_rings.py",
+                "added": 1,
+                "remove": 1,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "d2f6a655d5b1f0ec204d84c7fe52aaa980399480",
+        "date": "2014-10-01 14:16:49+00:00",
+        "author": "andymcc",
+        "modification": [
+            {
+                "file": "swift_rings.py",
+                "added": 2,
+                "remove": 2,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "d94ac0cc77a0f921a12661eaf7823492013ca970",
+        "date": "2014-10-01 14:26:49+00:00",
+        "author": "andymcc",
+        "modification": [
+            {
+                "file": "swift_rings.py",
+                "added": 4,
+                "remove": 4,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "af4710f53ace5db6656dec6b8bc096c612d9c0ec",
+        "date": "2014-10-01 14:34:03+00:00",
+        "author": "andymcc",
+        "modification": [
+            {
+                "file": "swift_rings.py",
+                "added": 14,
+                "remove": 0,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "73eae36b9add9ab9da0d6c2652e5536cd84e6de6",
+        "date": "2014-10-01 17:10:12+00:00",
+        "author": "andymcc",
+        "modification": [
+            {
+                "file": "swift_rings.py",
+                "added": 2,
+                "remove": 2,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "2353ceeb50b3d63c0c8862273342f6b3d33b9b2c",
+        "date": "2014-10-02 15:34:05+01:00",
+        "author": "andymcc",
+        "modification": [
+            {
+                "file": "swift_rings.py",
+                "added": 8,
+                "remove": 6,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "52b70d75d66b1a41ba4ad46323d1cc18ece0d589",
+        "date": "2014-10-08 05:41:36+00:00",
+        "author": "matthewoliver",
+        "modification": [
+            {
+                "file": "swift_rings.py",
+                "added": 98,
+                "remove": 16,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "0f9c9bc08c6cc22a9931387acabc427d3735bf48",
+        "date": "2014-10-08 11:50:20+01:00",
+        "author": "andymcc",
+        "modification": [
+            {
+                "file": "swift_rings.py",
+                "added": 6,
+                "remove": 6,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "4e9b54bd8e02e0cfd0f7e40261935f50b8d93ecc",
+        "date": "2014-10-08 15:16:44+01:00",
+        "author": "andymcc",
+        "modification": [
+            {
+                "file": "swift_rings.py",
+                "added": 3,
+                "remove": 2,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "f9131dafc98ec71d05721ce1143b72e5d7003b2d",
+        "date": "2014-10-08 15:57:29+01:00",
+        "author": "andymcc",
+        "modification": [
+            {
+                "file": "swift_rings.py",
+                "added": 15,
+                "remove": 2,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "7b4ff7ade334b117c4378f8b48339b054afd83d4",
+        "date": "2014-10-09 16:15:36+11:00",
+        "author": "matthewoliver",
+        "modification": [
+            {
+                "file": "swift_rings.py",
+                "added": 80,
+                "remove": 41,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "078ff371d6e8788220ace6821c38a9a36b3350d6",
+        "date": "2014-10-09 10:52:23+01:00",
+        "author": "andymcc",
+        "modification": [
+            {
+                "file": "swift_rings.py",
+                "added": 6,
+                "remove": 4,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "5d6043bfeb9b8c7eecfa8aa5266af385e602d39d",
+        "date": "2014-10-17 11:57:22+01:00",
+        "author": "andymcc",
+        "modification": [
+            {
+                "file": "swift_rings.py",
+                "added": 19,
+                "remove": 19,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "75b4bbf4fc0be60f22972422f2234836618a12cb",
+        "date": "2014-10-22 09:39:54+01:00",
+        "author": "mattt416",
+        "modification": [
+            {
+                "file": "local_settings.py",
+                "added": 1,
+                "remove": 1,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "1ff2659112b1353584da0467b751d4fd61078db7",
+        "date": "2014-10-23 15:43:54+01:00",
+        "author": "mancdaz",
+        "modification": [
+            {
+                "file": "local_settings.py",
+                "added": 4,
+                "remove": 1,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "48ad02761237139cb58bb28ccbaef71b8bb85aff",
+        "date": "2014-10-24 14:47:08+01:00",
+        "author": "mancdaz",
+        "modification": [
+            {
+                "file": "f5-config.py",
+                "added": 0,
+                "remove": 9,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "9d4d7e31f70e65122a0bcd1a570341c707510324",
+        "date": "2014-10-28 10:35:51-05:00",
+        "author": "cloudnull",
+        "modification": [
+            {
+                "file": "rpc-wheel-builder.py",
+                "added": 267,
+                "remove": 150,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "903592d2c82f59da75b37cdbc3bb7530a6b761f9",
+        "date": "2014-10-28 17:16:31-05:00",
+        "author": "d34dh0r53",
+        "modification": [
+            {
+                "file": "genlog.py",
+                "added": 6,
+                "remove": 3,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "767aa6229dfb6e907bd2473e1f8efe235ebed44a",
+        "date": "2014-11-07 08:59:16-06:00",
+        "author": "cloudnull",
+        "modification": [
+            {
+                "file": "dynamic_inventory.py",
+                "added": 4,
+                "remove": 1,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "81328c2a341f1a715639944b5b7caa54d57f0443",
+        "date": "2014-11-12 10:58:11+00:00",
+        "author": "andymcc",
+        "modification": [
+            {
+                "file": "swift_rings.py",
+                "added": 9,
+                "remove": 1,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "52aa3b335d0f3feb48fb0b94e2276a7f634ebe08",
+        "date": "2014-11-13 13:49:24+00:00",
+        "author": "mattt416",
+        "modification": [
+            {
+                "file": "rpc_maas_tool.py",
+                "added": 133,
+                "remove": 0,
+                "change_type": "ADD"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "b9578e076bd339a9cc2c4b26b59379bec9873934",
+        "date": "2014-11-18 16:45:07+00:00",
+        "author": "andymcc",
+        "modification": [
+            {
+                "file": "swift_rings.py",
+                "added": 7,
+                "remove": 2,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "056d08b6f5d5033c09b77c2180e8f0ca755bbc5f",
+        "date": "2014-11-19 14:30:00+00:00",
+        "author": "andymcc",
+        "modification": [
+            {
+                "file": "swift_rings.py",
+                "added": 2,
+                "remove": 2,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "b62c7135228da12281b33ef08ed452397ce84515",
+        "date": "2014-11-21 15:28:35+00:00",
+        "author": "andymcc",
+        "modification": [
+            {
+                "file": "swift_rings.py",
+                "added": 41,
+                "remove": 167,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "4779ccd02df77538b50d25dc6f07d54d3053e70b",
+        "date": "2014-11-24 14:55:41+00:00",
+        "author": "andymcc",
+        "modification": [
+            {
+                "file": "swift_rings.py",
+                "added": 4,
+                "remove": 1,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "3a08d86dc28f62f8dcd597bc86285c0309dd9c39",
+        "date": "2014-11-24 16:42:29+00:00",
+        "author": "andymcc",
+        "modification": [
+            {
+                "file": "pw-token-gen.py",
+                "added": 3,
+                "remove": 0,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "c33d6a9a0980824179f8ff5825a3388da683f6d6",
+        "date": "2014-11-24 16:50:59+00:00",
+        "author": "andymcc",
+        "modification": [
+            {
+                "file": "f5-config.py",
+                "added": 8,
+                "remove": 1,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "1710987f0a1d7e170e1d8e441f65742c645fa398",
+        "date": "2014-11-18 17:27:50-06:00",
+        "author": "cloudnull",
+        "modification": [
+            {
+                "file": "dynamic_inventory.py",
+                "added": 5,
+                "remove": 4,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "9bfe84200141783e95ac8deeb889a82bb1776da8",
+        "date": "2014-12-10 22:24:12-06:00",
+        "author": "cloudnull",
+        "modification": [
+            {
+                "file": "install.py",
+                "added": 0,
+                "remove": 301,
+                "change_type": "DELETE"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "b5fbb9a673abeedf00c3632f26e31e2d3b18febc",
+        "date": "2014-12-17 18:10:03-08:00",
+        "author": "miguelgrinberg",
+        "modification": [
+            {
+                "file": "local_settings.py",
+                "added": 4,
+                "remove": 0,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "c6b942de19502f7aceec26bdf2c191d3a7483edb",
+        "date": "2015-01-22 13:59:33-05:00",
+        "author": "nrb",
+        "modification": [
+            {
+                "file": "f5-config.py",
+                "added": 3,
+                "remove": 0,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "a0e09c0da4fbe009440380ad21974cc9e5119584",
+        "date": "2015-01-30 16:06:16+00:00",
+        "author": "mattt416",
+        "modification": [
+            {
+                "file": "rpc_maas_tool.py",
+                "added": 37,
+                "remove": 1,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "eb34b51b1c8798250da28ed6458d5bd7ebf640fe",
+        "date": "2015-02-02 14:47:45-08:00",
+        "author": "stevelle",
+        "modification": [
+            {
+                "file": "dynamic_inventory.py",
+                "added": 1,
+                "remove": 1,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "d2e1d41cb8bcb3355899f50c970381ddc20f11cd",
+        "date": "2015-02-03 17:58:53-06:00",
+        "author": "jacobwagner",
+        "modification": [
+            {
+                "file": "f5-config.py",
+                "added": 53,
+                "remove": 22,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "de32ddca574150806c4dbb9a47930b0b6d1196f0",
+        "date": "2015-02-10 14:33:14+00:00",
+        "author": "git-harry",
+        "modification": [
+            {
+                "file": "dynamic_inventory.py",
+                "added": 2,
+                "remove": 9,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "81c4ab04f70239f76f7c1ff9ab8fb9cb68f7843e",
+        "date": "2015-02-11 16:26:22+00:00",
+        "author": "odyssey4me",
+        "modification": [
+            {
+                "file": "dynamic_inventory.py",
+                "added": 15,
+                "remove": 15,
+                "change_type": "RENAME"
+            },
+            {
+                "file": "pip-link-build.py",
+                "added": 0,
+                "remove": 0,
+                "change_type": "RENAME"
+            },
+            {
+                "file": "local_settings.py",
+                "added": 0,
+                "remove": 0,
+                "change_type": "RENAME"
+            },
+            {
+                "file": "neutron-ha-tool.py",
+                "added": 0,
+                "remove": 0,
+                "change_type": "RENAME"
+            },
+            {
+                "file": "genlog.py",
+                "added": 0,
+                "remove": 0,
+                "change_type": "RENAME"
+            },
+            {
+                "file": "swift_rings.py",
+                "added": 0,
+                "remove": 0,
+                "change_type": "RENAME"
+            },
+            {
+                "file": "elsa_repo.py",
+                "added": 0,
+                "remove": 709,
+                "change_type": "DELETE"
+            },
+            {
+                "file": "f5-config.py",
+                "added": 0,
+                "remove": 457,
+                "change_type": "DELETE"
+            },
+            {
+                "file": "inventory-manage.py",
+                "added": 6,
+                "remove": 6,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "pw-token-gen.py",
+                "added": 1,
+                "remove": 1,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "rpc-wheel-builder.py",
+                "added": 0,
+                "remove": 853,
+                "change_type": "DELETE"
+            },
+            {
+                "file": "rpc_maas_tool.py",
+                "added": 0,
+                "remove": 169,
+                "change_type": "DELETE"
+            }
+        ],
+        "files": 12
+    },
+    {
+        "sha": "e9f7a0dec128ffc0244f11196642e290c1eb727d",
+        "date": "2015-02-04 14:41:35+00:00",
+        "author": "git-harry",
+        "modification": [
+            {
+                "file": "ssh_retry.py",
+                "added": 71,
+                "remove": 0,
+                "change_type": "ADD"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "8e6dbd01c9924ebecffdc04f74e4f6d042610ed8",
+        "date": "2015-02-14 10:06:50-06:00",
+        "author": "cloudnull",
+        "modification": [
+            {
+                "file": "dynamic_inventory.py",
+                "added": 276,
+                "remove": 97,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "py_pkgs.py",
+                "added": 256,
+                "remove": 0,
+                "change_type": "ADD"
+            },
+            {
+                "file": "pip-link-build.py",
+                "added": 0,
+                "remove": 177,
+                "change_type": "DELETE"
+            },
+            {
+                "file": "local_settings.py",
+                "added": 0,
+                "remove": 535,
+                "change_type": "DELETE"
+            },
+            {
+                "file": "horizon-manage.py",
+                "added": 23,
+                "remove": 0,
+                "change_type": "ADD"
+            },
+            {
+                "file": "keystone-wsgi.py",
+                "added": 60,
+                "remove": 0,
+                "change_type": "ADD"
+            },
+            {
+                "file": "neutron-ha-tool.py",
+                "added": 0,
+                "remove": 0,
+                "change_type": "RENAME"
+            },
+            {
+                "file": "swift_rings.py",
+                "added": 0,
+                "remove": 0,
+                "change_type": "RENAME"
+            },
+            {
+                "file": "pip-link-build.py",
+                "added": 185,
+                "remove": 0,
+                "change_type": "ADD"
+            },
+            {
+                "file": "openstack-branch-grabber.py",
+                "added": 137,
+                "remove": 0,
+                "change_type": "ADD"
+            },
+            {
+                "file": "openstack-wheel-builder.py",
+                "added": 405,
+                "remove": 0,
+                "change_type": "ADD"
+            },
+            {
+                "file": "genlog.py",
+                "added": 0,
+                "remove": 49,
+                "change_type": "DELETE"
+            },
+            {
+                "file": "os-ansible-role-requirements.py",
+                "added": 304,
+                "remove": 0,
+                "change_type": "ADD"
+            }
+        ],
+        "files": 13
+    },
+    {
+        "sha": "c3270f1bde9489fb44db0bde8e1fae81ad8f0506",
+        "date": "2015-03-12 10:31:10+00:00",
+        "author": "andymcc",
+        "modification": [
+            {
+                "file": "dynamic_inventory.py",
+                "added": 2,
+                "remove": 0,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "7e0f00307c1dd781c813ae35f2db58200dec495f",
+        "date": "2015-03-19 10:50:58-05:00",
+        "author": "nrb",
+        "modification": [
+            {
+                "file": "os-ansible-role-requirements.py",
+                "added": 2,
+                "remove": 2,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "923f1b226378014657b028f6e4785cd18b3f1b45",
+        "date": "2015-03-23 21:05:33+00:00",
+        "author": "dolph",
+        "modification": [
+            {
+                "file": "dynamic_inventory.py",
+                "added": 0,
+                "remove": 2,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "inventory-manage.py",
+                "added": 0,
+                "remove": 4,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 2
+    },
+    {
+        "sha": "33f0c13ef40f8972a434019514be0d504e4a22ce",
+        "date": "2015-03-22 09:09:53-05:00",
+        "author": "cloudnull",
+        "modification": [
+            {
+                "file": "keystone-wsgi.py",
+                "added": 2,
+                "remove": 37,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "98b30ac12a648461cce814c24f5583bf5371cd9a",
+        "date": "2015-04-06 23:05:36-05:00",
+        "author": "cloudnull",
+        "modification": [
+            {
+                "file": "openstack-branch-grabber.py",
+                "added": 5,
+                "remove": 3,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "002f8477709d55292dde2cbc46e3ba3d73748558",
+        "date": "2015-04-06 22:52:54-05:00",
+        "author": "cloudnull",
+        "modification": [
+            {
+                "file": "swift_rings.py",
+                "added": 55,
+                "remove": 24,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "72f33ff7b405df2df4fc54882e14a12e0ce04719",
+        "date": "2015-04-07 10:37:37+01:00",
+        "author": "odyssey4me",
+        "modification": [
+            {
+                "file": "inventory-manage.py",
+                "added": 1,
+                "remove": 2,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "d0d76c296c0d63c16b10b55b60491d82933b9271",
+        "date": "2015-04-06 22:59:23-05:00",
+        "author": "cloudnull",
+        "modification": [
+            {
+                "file": "openstack-wheel-builder.py",
+                "added": 1,
+                "remove": 6,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "27f1d2d3ec72358c442483ab124db9f43bfa94ee",
+        "date": "2015-04-03 10:52:32-05:00",
+        "author": "Dave Wilde",
+        "modification": [
+            {
+                "file": "dynamic_inventory.py",
+                "added": 7,
+                "remove": 2,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "ed628b776f0be166ab885a35185cfd87a1bedb88",
+        "date": "2015-04-06 22:39:49-05:00",
+        "author": "cloudnull",
+        "modification": [
+            {
+                "file": "dynamic_inventory.py",
+                "added": 1,
+                "remove": 2,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "6832d5dd41b74b3658e0be3c47538b1504ec794c",
+        "date": "2015-04-08 13:32:36-05:00",
+        "author": "cloudnull",
+        "modification": [
+            {
+                "file": "openstack-branch-grabber.py",
+                "added": 0,
+                "remove": 139,
+                "change_type": "DELETE"
+            },
+            {
+                "file": "openstack-wheel-builder.py",
+                "added": 11,
+                "remove": 3,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 2
+    },
+    {
+        "sha": "5341949f02a1c0ae056e84eeaf4a295ebf4a86f5",
+        "date": "2015-04-13 11:15:04+01:00",
+        "author": "andymcc",
+        "modification": [
+            {
+                "file": "dynamic_inventory.py",
+                "added": 0,
+                "remove": 40,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "579c26ce67cd2575526abe20783c9cf4ec1b8b7e",
+        "date": "2015-04-14 10:05:04-05:00",
+        "author": "cloudnull",
+        "modification": [
+            {
+                "file": "dynamic_inventory.py",
+                "added": 0,
+                "remove": 1,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "59c1a7f1c1e6f53b151a175482d471a3c086ecc9",
+        "date": "2015-04-16 16:55:58+01:00",
+        "author": "hughsaunders",
+        "modification": [
+            {
+                "file": "ssh_retry.py",
+                "added": 0,
+                "remove": 71,
+                "change_type": "DELETE"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "de28f5a6f8d2b581de28744d47dc582680dfc15c",
+        "date": "2015-04-17 13:30:49-05:00",
+        "author": "cloudnull",
+        "modification": [
+            {
+                "file": "py_pkgs.py",
+                "added": 3,
+                "remove": 2,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "03646d48f358369a149e88cbdd800c285afec5bf",
+        "date": "2015-04-27 10:50:46-05:00",
+        "author": "cloudnull",
+        "modification": [
+            {
+                "file": "pw-token-gen.py",
+                "added": 6,
+                "remove": 0,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "9012a748d3656e91a15709d6a0a0c8fb22098fc8",
+        "date": "2015-04-29 00:19:09-04:00",
+        "author": "nrb",
+        "modification": [
+            {
+                "file": "conf.py",
+                "added": 286,
+                "remove": 0,
+                "change_type": "ADD"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "3e7666373a231d8fad1e67c9dc27025b3d9de9f6",
+        "date": "2015-05-14 11:08:37-05:00",
+        "author": "cloudnull",
+        "modification": [
+            {
+                "file": "py_pkgs.py",
+                "added": 1,
+                "remove": 1,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "openstack-wheel-builder.py",
+                "added": 1,
+                "remove": 1,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 2
+    },
+    {
+        "sha": "bf4b897d768dc7fba990b3912d57e542c6866ad1",
+        "date": "2015-05-27 09:03:42-07:00",
+        "author": "jimmymccrory",
+        "modification": [
+            {
+                "file": "dynamic_inventory.py",
+                "added": 2,
+                "remove": 1,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "e6383147bfa1ecd24747f9bdf159e43e34625e49",
+        "date": "2015-05-25 08:12:30-07:00",
+        "author": "kevin",
+        "modification": [
+            {
+                "file": "openstack-wheel-builder.py",
+                "added": 1,
+                "remove": 1,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "f9f907732ef47e4301e808f863c3c56059b043db",
+        "date": "2015-06-09 09:30:28-05:00",
+        "author": "kevin",
+        "modification": [
+            {
+                "file": "conf.py",
+                "added": 1,
+                "remove": 0,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "3f8905caee8a0ec1afe90ba6df9b91aca14c67ec",
+        "date": "2015-06-11 11:21:52+01:00",
+        "author": "andymcc",
+        "modification": [
+            {
+                "file": "pw-token-gen.py",
+                "added": 2,
+                "remove": 0,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "1132f99b477211ed2b287ce6ee8718abf3434579",
+        "date": "2015-06-17 20:22:35-05:00",
+        "author": "kevin",
+        "modification": [
+            {
+                "file": "py_pkgs.py",
+                "added": 10,
+                "remove": 1,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "cba5f5cf3d928da8cf25b7f2d4d2ecfc2957846f",
+        "date": "2015-06-20 22:54:23-05:00",
+        "author": "kevin",
+        "modification": [
+            {
+                "file": "py_pkgs.py",
+                "added": 9,
+                "remove": 0,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "21a8f1ff04ac6aeb3c54ddd61bc3b37318e9ed4e",
+        "date": "2015-06-12 13:47:12+01:00",
+        "author": "mattt416",
+        "modification": [
+            {
+                "file": "dynamic_inventory.py",
+                "added": 15,
+                "remove": 3,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "576831481262b93dfdf72f078a4b620a7ac130fb",
+        "date": "2015-07-07 11:13:03+01:00",
+        "author": "git-harry",
+        "modification": [
+            {
+                "file": "inventory-manage.py",
+                "added": 3,
+                "remove": 3,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "b95827f35167ed845e66b4f7084ac95a2ff0d8aa",
+        "date": "2015-06-29 09:53:56-05:00",
+        "author": "kevin",
+        "modification": [
+            {
+                "file": "osad-filters.py",
+                "added": 40,
+                "remove": 0,
+                "change_type": "ADD"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "c927f4205e1da08467d4873d388093a4282f92a6",
+        "date": "2015-07-09 15:12:41+01:00",
+        "author": "andymcc",
+        "modification": [
+            {
+                "file": "swift_rings.py",
+                "added": 23,
+                "remove": 13,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "8d65120e34d0d0307080c276c944c4d3d3e83f2f",
+        "date": "2015-07-14 13:06:31+01:00",
+        "author": "andymcc",
+        "modification": [
+            {
+                "file": "swift_rings.py",
+                "added": 0,
+                "remove": 10,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "1ef256a3082759213e41ffb136596001e88de4d2",
+        "date": "2015-07-14 16:47:17+01:00",
+        "author": "git-harry",
+        "modification": [
+            {
+                "file": "dynamic_inventory.py",
+                "added": 1,
+                "remove": 1,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "8cf1f44c9e9cd2304b8a1ad41282f2e993894632",
+        "date": "2015-07-22 19:06:57-05:00",
+        "author": "kevin",
+        "modification": [
+            {
+                "file": "dynamic_inventory.py",
+                "added": 8,
+                "remove": 2,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "b878370a0b3f0bbd47bff98f3fa4552f7cf66c05",
+        "date": "2015-05-07 16:41:18+02:00",
+        "author": "srgvg",
+        "modification": [
+            {
+                "file": "pw-token-gen.py",
+                "added": 7,
+                "remove": 3,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "de8b857668f8f172887b947d31e76f970d58144e",
+        "date": "2015-07-20 16:07:23+01:00",
+        "author": "andymcc",
+        "modification": [
+            {
+                "file": "swift_rings.py",
+                "added": 0,
+                "remove": 0,
+                "change_type": "RENAME"
+            },
+            {
+                "file": "swift_rings_check.py",
+                "added": 174,
+                "remove": 0,
+                "change_type": "ADD"
+            }
+        ],
+        "files": 2
+    },
+    {
+        "sha": "0ec3ce3d31e28f3d0a38d4ba30fcc1eeb49ca73b",
+        "date": "2015-07-30 14:26:23+00:00",
+        "author": "dstanek",
+        "modification": [
+            {
+                "file": "conf.py",
+                "added": 1,
+                "remove": 1,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "setup.py",
+                "added": 22,
+                "remove": 0,
+                "change_type": "ADD"
+            }
+        ],
+        "files": 2
+    },
+    {
+        "sha": "2f3d556c5e9b94335150434941f8a137a965a1c6",
+        "date": "2015-07-30 22:20:17+00:00",
+        "author": "dstanek",
+        "modification": [
+            {
+                "file": "py_pkgs.py",
+                "added": 2,
+                "remove": 4,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "neutron-ha-tool.py",
+                "added": 29,
+                "remove": 35,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 2
+    },
+    {
+        "sha": "f91860d3dece7a157df6fb87270ddfa2f290d572",
+        "date": "2015-08-24 04:30:42-05:00",
+        "author": "kevin",
+        "modification": [
+            {
+                "file": "osad-filters.py",
+                "added": 62,
+                "remove": 1,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "330f8613eef81769da84ad1ef09ba5ef7765ce64",
+        "date": "2015-09-03 10:50:26-05:00",
+        "author": "kevin",
+        "modification": [
+            {
+                "file": "config_template.py",
+                "added": 240,
+                "remove": 0,
+                "change_type": "ADD"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "059cae3d76c1922f98dac9524c061addb009fbd5",
+        "date": "2015-08-25 14:30:20-05:00",
+        "author": "major",
+        "modification": [
+            {
+                "file": "profile_tasks.py",
+                "added": 77,
+                "remove": 0,
+                "change_type": "ADD"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "35ec780515630d88d87cffdb740dde110f316501",
+        "date": "2015-09-11 19:28:59-05:00",
+        "author": "cloudnull",
+        "modification": [
+            {
+                "file": "conf.py",
+                "added": 13,
+                "remove": 13,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "osa-filters.py",
+                "added": 0,
+                "remove": 0,
+                "change_type": "RENAME"
+            },
+            {
+                "file": "openstack-wheel-builder.py",
+                "added": 2,
+                "remove": 2,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "openstack-ansible-role-requirements.py",
+                "added": 0,
+                "remove": 0,
+                "change_type": "RENAME"
+            }
+        ],
+        "files": 4
+    },
+    {
+        "sha": "d4d6b042dfb6cb98a73e103b55c12e92b47ed2a9",
+        "date": "2015-09-17 22:20:56-05:00",
+        "author": "major",
+        "modification": [
+            {
+                "file": "inventory-manage.py",
+                "added": 165,
+                "remove": 7,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "9ae6eeca8b592e345202c2fbf697ce2089718ac9",
+        "date": "2015-08-05 09:42:57+01:00",
+        "author": "mancdaz",
+        "modification": [
+            {
+                "file": "osa-filters.py",
+                "added": 22,
+                "remove": 1,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "81a750da5ee5cd2b63eae5f13d37372dce6f0cf3",
+        "date": "2015-10-12 19:09:58+01:00",
+        "author": "odyssey4me",
+        "modification": [
+            {
+                "file": "py_pkgs.py",
+                "added": 2,
+                "remove": 1,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "d9b9a427aa03f866458bdffc220c596c7b4b5bb2",
+        "date": "2015-10-04 17:40:29-05:00",
+        "author": "major",
+        "modification": [
+            {
+                "file": "os-detection.py",
+                "added": 25,
+                "remove": 0,
+                "change_type": "ADD"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "21b9fda88a90425575ba2776b428c1c39b9d559f",
+        "date": "2015-10-21 13:54:18+01:00",
+        "author": "odyssey4me",
+        "modification": [
+            {
+                "file": "conf.py",
+                "added": 3,
+                "remove": 0,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "975c232084ccfbc2b6c9aa4237a318c3f9148954",
+        "date": "2015-10-02 16:47:46-05:00",
+        "author": "cloudnull",
+        "modification": [
+            {
+                "file": "osa-filters.py",
+                "added": 85,
+                "remove": 1,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "py_pkgs.py",
+                "added": 88,
+                "remove": 24,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 2
+    },
+    {
+        "sha": "8d2e5f62a79c4690cf2f7c9aa8e569a90ac9a9eb",
+        "date": "2015-10-16 22:22:14-05:00",
+        "author": "cloudnull",
+        "modification": [
+            {
+                "file": "py_pkgs.py",
+                "added": 19,
+                "remove": 0,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "8355f191de2809d095be8ee051d4715ae82adccb",
+        "date": "2015-10-26 13:52:30-05:00",
+        "author": "major",
+        "modification": [
+            {
+                "file": "dynamic_inventory.py",
+                "added": 1,
+                "remove": 1,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "4effbbddae7123614737bd58f2927a5cd052e205",
+        "date": "2015-11-04 13:04:46+00:00",
+        "author": "odyssey4me",
+        "modification": [
+            {
+                "file": "conf.py",
+                "added": 274,
+                "remove": 0,
+                "change_type": "ADD"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "f1010ec2811d4a973eb1437df7a18b71144a9eb9",
+        "date": "2015-11-17 22:55:40+09:00",
+        "author": "kurochan",
+        "modification": [
+            {
+                "file": "dynamic_inventory.py",
+                "added": 5,
+                "remove": 5,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "2f35e36e54efb7b0e767d0888782f86696ef84b9",
+        "date": "2015-11-03 23:39:21-06:00",
+        "author": "cloudnull",
+        "modification": [
+            {
+                "file": "osa-filters.py",
+                "added": 43,
+                "remove": 5,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "py_pkgs.py",
+                "added": 264,
+                "remove": 102,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 2
+    },
+    {
+        "sha": "6f443d69713723810a448a9c83cdf603c07352d0",
+        "date": "2015-12-07 13:15:41-06:00",
+        "author": "cloudnull",
+        "modification": [
+            {
+                "file": "pip-link-build.py",
+                "added": 0,
+                "remove": 185,
+                "change_type": "DELETE"
+            },
+            {
+                "file": "openstack-wheel-builder.py",
+                "added": 0,
+                "remove": 408,
+                "change_type": "DELETE"
+            }
+        ],
+        "files": 2
+    },
+    {
+        "sha": "f6d7c1fa352a345c6cf45b3fe5fb04552d17dbc7",
+        "date": "2016-01-04 11:08:54+00:00",
+        "author": "odyssey4me",
+        "modification": [
+            {
+                "file": "openstack-ansible-role-requirements.py",
+                "added": 0,
+                "remove": 304,
+                "change_type": "DELETE"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "02ad1e04e32651286482ca8a97eb79fe805b3de4",
+        "date": "2016-01-13 10:36:37-06:00",
+        "author": "cloudnull",
+        "modification": [
+            {
+                "file": "py_pkgs.py",
+                "added": 2,
+                "remove": 1,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "bd69198185a77a7f7d09fa91bb65fd8357275543",
+        "date": "2016-01-13 10:40:49+00:00",
+        "author": "odyssey4me",
+        "modification": [
+            {
+                "file": "inventory-manage.py",
+                "added": 2,
+                "remove": 2,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "171875073dbf22c74db92f22e62769b335435726",
+        "date": "2016-01-10 12:21:26-08:00",
+        "author": "jimmymccrory",
+        "modification": [
+            {
+                "file": "py_pkgs.py",
+                "added": 220,
+                "remove": 125,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "286b0e5b1ff324198c772fe91f5930208552d8d9",
+        "date": "2016-01-18 20:17:09-08:00",
+        "author": "jimmymccrory",
+        "modification": [
+            {
+                "file": "py_pkgs.py",
+                "added": 14,
+                "remove": 10,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "6cb79b61fa3e2cc8084e36b2db470fa8bce3ec68",
+        "date": "2016-01-11 16:29:02-08:00",
+        "author": "jimmymccrory",
+        "modification": [
+            {
+                "file": "config_template.py",
+                "added": 3,
+                "remove": 3,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "57b2114d7d2348e165811b0004884470010027ec",
+        "date": "2016-01-22 14:57:34+00:00",
+        "author": "odyssey4me",
+        "modification": [
+            {
+                "file": "conf.py",
+                "added": 10,
+                "remove": 9,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "9d348826a19da872afd57da1808ca8d41d1c1ddc",
+        "date": "2016-01-26 12:19:43-06:00",
+        "author": "cloudnull",
+        "modification": [
+            {
+                "file": "config_template.py",
+                "added": 0,
+                "remove": 240,
+                "change_type": "DELETE"
+            },
+            {
+                "file": "profile_tasks.py",
+                "added": 0,
+                "remove": 77,
+                "change_type": "DELETE"
+            },
+            {
+                "file": "osa-filters.py",
+                "added": 0,
+                "remove": 244,
+                "change_type": "DELETE"
+            },
+            {
+                "file": "py_pkgs.py",
+                "added": 0,
+                "remove": 619,
+                "change_type": "DELETE"
+            }
+        ],
+        "files": 4
+    },
+    {
+        "sha": "350220507d03799bfbcfabf0b383ece22700b985",
+        "date": "2016-02-22 18:58:17-05:00",
+        "author": "Travis Truman",
+        "modification": [
+            {
+                "file": "dynamic_inventory.py",
+                "added": 26,
+                "remove": 29,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "3fe2c8ccddb9463c7c8d8c8ccdc8e6c93f837aca",
+        "date": "2015-11-05 16:17:15-05:00",
+        "author": "nrb",
+        "modification": [
+            {
+                "file": "test_inventory.py",
+                "added": 72,
+                "remove": 0,
+                "change_type": "ADD"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "ab2834ef8e7e0bae30fe5f475bdb140a7ead10be",
+        "date": "2016-02-25 22:57:59+00:00",
+        "author": "odyssey4me",
+        "modification": [
+            {
+                "file": "get-pypi-pkg-version.py",
+                "added": 100,
+                "remove": 0,
+                "change_type": "ADD"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "5ae4198a39ea3724d06dab65744fbb826edc8f3e",
+        "date": "2016-02-19 13:26:11-05:00",
+        "author": "Travis Truman",
+        "modification": [
+            {
+                "file": "dynamic_inventory.py",
+                "added": 6,
+                "remove": 4,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "420843028e16132b89db5cfe4ce698c0329a71b1",
+        "date": "2016-02-18 21:18:59+00:00",
+        "author": "Ala Raddaoui",
+        "modification": [
+            {
+                "file": "dynamic_inventory.py",
+                "added": 50,
+                "remove": 0,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "e7060e421ad7696d3ac377a277508b3546fcc29f",
+        "date": "2016-03-04 13:42:38-05:00",
+        "author": "Travis Truman",
+        "modification": [
+            {
+                "file": "test_inventory.py",
+                "added": 4,
+                "remove": 5,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "13bea329896c82a8352633038090f31e09ef7afd",
+        "date": "2016-03-07 17:36:30+00:00",
+        "author": "odyssey4me",
+        "modification": [
+            {
+                "file": "dynamic_inventory.py",
+                "added": 1,
+                "remove": 1,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "cc6bcbf6bd2ff556327644237cc3880af5f93180",
+        "date": "2016-03-08 16:37:40+00:00",
+        "author": "Ala Raddaoui",
+        "modification": [
+            {
+                "file": "test_inventory.py",
+                "added": 52,
+                "remove": 2,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "45ff9201988009c72ac691f12231236f39facb8c",
+        "date": "2016-03-02 22:06:48-05:00",
+        "author": "Travis Truman",
+        "modification": [
+            {
+                "file": "test_inventory.py",
+                "added": 200,
+                "remove": 0,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "93354980614c96fd2d29f8813b17299162489cf1",
+        "date": "2016-03-04 14:34:55-05:00",
+        "author": "Travis Truman",
+        "modification": [
+            {
+                "file": "dynamic_inventory.py",
+                "added": 1,
+                "remove": 6,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "a054f1d147ac17e13a1cb29e5a05d3a483c7170b",
+        "date": "2016-03-29 15:37:56-04:00",
+        "author": "Travis Truman",
+        "modification": [
+            {
+                "file": "dynamic_inventory.py",
+                "added": 3,
+                "remove": 3,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "496bc49c546a1bc7329450f1d9a47e96ae65b26f",
+        "date": "2016-03-29 15:52:53-04:00",
+        "author": "Travis Truman",
+        "modification": [
+            {
+                "file": "dynamic_inventory.py",
+                "added": 4,
+                "remove": 5,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "4f3b26669770edd11edeea39bec346768d17ee23",
+        "date": "2016-03-29 17:00:50-04:00",
+        "author": "Travis Truman",
+        "modification": [
+            {
+                "file": "dynamic_inventory.py",
+                "added": 17,
+                "remove": 8,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "test_inventory.py",
+                "added": 15,
+                "remove": 0,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 2
+    },
+    {
+        "sha": "35ed804e3a39db3ec0fe801e0de4f85358594e63",
+        "date": "2016-03-17 01:57:44+00:00",
+        "author": "mrda",
+        "modification": [
+            {
+                "file": "test_inventory.py",
+                "added": 12,
+                "remove": 0,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "fac50305715d23b07626cf0ce551b531128ac34e",
+        "date": "2016-04-13 17:23:04+01:00",
+        "author": "odyssey4me",
+        "modification": [
+            {
+                "file": "ansible-role-requirements-editer.py",
+                "added": 104,
+                "remove": 0,
+                "change_type": "ADD"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "2d82d413bee7f1ea9d3fa2f03915a6ff5207ad1f",
+        "date": "2016-03-09 13:12:16-05:00",
+        "author": "nrb",
+        "modification": [
+            {
+                "file": "dynamic_inventory.py",
+                "added": 19,
+                "remove": 7,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "test_inventory.py",
+                "added": 20,
+                "remove": 0,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 2
+    },
+    {
+        "sha": "60603c3213810893f6ea97d9872ddfb444163d34",
+        "date": "2016-04-15 11:33:25+01:00",
+        "author": "odyssey4me",
+        "modification": [
+            {
+                "file": "ansible-role-requirements-editor.py",
+                "added": 3,
+                "remove": 3,
+                "change_type": "RENAME"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "928e907f908b693796cd19b728a75db0d66cdd23",
+        "date": "2016-04-19 17:25:39-04:00",
+        "author": "nrb",
+        "modification": [
+            {
+                "file": "dynamic_inventory.py",
+                "added": 5,
+                "remove": 5,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "test_inventory.py",
+                "added": 6,
+                "remove": 11,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 2
+    },
+    {
+        "sha": "5a931c7df7b5b0ed6bc885cd9dc8666c4c20d0aa",
+        "date": "2016-04-27 18:13:32-04:00",
+        "author": "nrb",
+        "modification": [
+            {
+                "file": "test_inventory.py",
+                "added": 54,
+                "remove": 9,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "3a5672beb350747cf0775315602050d5d0620a4e",
+        "date": "2016-04-21 05:30:57+00:00",
+        "author": "Ala Raddaoui",
+        "modification": [
+            {
+                "file": "dynamic_inventory.py",
+                "added": 38,
+                "remove": 0,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "test_inventory.py",
+                "added": 45,
+                "remove": 4,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 2
+    },
+    {
+        "sha": "32fd0e7facfe661d221a2ebe23de4482a8d2ee6f",
+        "date": "2016-05-04 22:04:46-04:00",
+        "author": "Michael Gugino",
+        "modification": [
+            {
+                "file": "dynamic_inventory.py",
+                "added": 8,
+                "remove": 5,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "test_inventory.py",
+                "added": 3,
+                "remove": 2,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 2
+    },
+    {
+        "sha": "8e663d7a848f2f16664bad36c280b2fb7c4745a0",
+        "date": "2016-04-01 14:24:42-04:00",
+        "author": "Michael Gugino",
+        "modification": [
+            {
+                "file": "test_inventory.py",
+                "added": 1,
+                "remove": 0,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "8399965ed095ff7518adbec1ddabdd86bf411223",
+        "date": "2016-04-19 17:58:43-04:00",
+        "author": "nrb",
+        "modification": [
+            {
+                "file": "dynamic_inventory.py",
+                "added": 44,
+                "remove": 2,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "test_inventory.py",
+                "added": 54,
+                "remove": 0,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 2
+    },
+    {
+        "sha": "02f8d3d697da37dc0386864a2946a28c47f4d517",
+        "date": "2016-05-04 13:57:55-04:00",
+        "author": "nrb",
+        "modification": [
+            {
+                "file": "dynamic_inventory.py",
+                "added": 4,
+                "remove": 3,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "test_inventory.py",
+                "added": 15,
+                "remove": 0,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 2
+    },
+    {
+        "sha": "1124a5e237940307787698414dfe01807edb55fb",
+        "date": "2016-05-11 12:35:17-04:00",
+        "author": "nrb",
+        "modification": [
+            {
+                "file": "test_inventory.py",
+                "added": 33,
+                "remove": 3,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "a88778f2aedb9936a6f139d502ab3d8c81c9243a",
+        "date": "2016-05-03 17:20:43-05:00",
+        "author": "cloudnull",
+        "modification": [
+            {
+                "file": "make_rst_table.py",
+                "added": 45,
+                "remove": 0,
+                "change_type": "ADD"
+            },
+            {
+                "file": "migrate_openstack_vars.py",
+                "added": 70,
+                "remove": 0,
+                "change_type": "ADD"
+            },
+            {
+                "file": "test_migrate_openstack_vars.py",
+                "added": 86,
+                "remove": 0,
+                "change_type": "ADD"
+            }
+        ],
+        "files": 3
+    },
+    {
+        "sha": "894e0c4dc9bc56279e104a0bd0de68108aebb058",
+        "date": "2016-05-19 15:46:10-04:00",
+        "author": "nrb",
+        "modification": [
+            {
+                "file": "dynamic_inventory.py",
+                "added": 26,
+                "remove": 4,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "test_inventory.py",
+                "added": 92,
+                "remove": 0,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 2
+    },
+    {
+        "sha": "86fbc79f6d6da92e17a1972fc47fc3b266601f31",
+        "date": "2016-05-19 16:33:35-04:00",
+        "author": "nrb",
+        "modification": [
+            {
+                "file": "dynamic_inventory.py",
+                "added": 2,
+                "remove": 5,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "test_inventory.py",
+                "added": 27,
+                "remove": 0,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 2
+    },
+    {
+        "sha": "7ebe0853bb1bdc8ae42999568d89d95c14703be4",
+        "date": "2016-05-25 14:25:39-04:00",
+        "author": "nrb",
+        "modification": [
+            {
+                "file": "dynamic_inventory.py",
+                "added": 2,
+                "remove": 1,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "test_inventory.py",
+                "added": 4,
+                "remove": 0,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 2
+    },
+    {
+        "sha": "4b051d725e16e09838d2e39bf9075e622726ab74",
+        "date": "2016-05-25 13:24:55-04:00",
+        "author": "nrb",
+        "modification": [
+            {
+                "file": "dynamic_inventory.py",
+                "added": 17,
+                "remove": 12,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "test_inventory.py",
+                "added": 59,
+                "remove": 0,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 2
+    },
+    {
+        "sha": "7f70ca7ff5ccec53fa17cdf4cc64c52a73168c5e",
+        "date": "2016-05-25 16:54:14+01:00",
+        "author": "odyssey4me",
+        "modification": [
+            {
+                "file": "fastest-infra-wheel-mirror.py",
+                "added": 170,
+                "remove": 0,
+                "change_type": "ADD"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "bd33008938098d566992ff61ec150d0ac9956afb",
+        "date": "2016-05-31 11:53:09-04:00",
+        "author": "nrb",
+        "modification": [
+            {
+                "file": "dynamic_inventory.py",
+                "added": 2,
+                "remove": 4,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "16c0193a131cc450b22b6a81b26757a0de32ac76",
+        "date": "2016-02-22 15:57:15+00:00",
+        "author": "Ala Raddaoui",
+        "modification": [
+            {
+                "file": "dynamic_inventory.py",
+                "added": 2,
+                "remove": 2,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "test_inventory.py",
+                "added": 1,
+                "remove": 1,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 2
+    },
+    {
+        "sha": "12ba1306a70a903d5101f9d4c71189c0186497d4",
+        "date": "2016-05-31 17:40:25-04:00",
+        "author": "nrb",
+        "modification": [
+            {
+                "file": "dynamic_inventory.py",
+                "added": 31,
+                "remove": 17,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "test_inventory.py",
+                "added": 35,
+                "remove": 5,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 2
+    },
+    {
+        "sha": "fe60f1e98482e26201e2721f6ac5f9c90e3397e8",
+        "date": "2016-06-02 18:54:23+01:00",
+        "author": "odyssey4me",
+        "modification": [
+            {
+                "file": "release-yaml-file-prep.py",
+                "added": 133,
+                "remove": 0,
+                "change_type": "ADD"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "f426eb98d1e4dc0b8b65f9191b038edcea849755",
+        "date": "2016-06-03 11:56:26-04:00",
+        "author": "Travis Truman",
+        "modification": [
+            {
+                "file": "dynamic_inventory.py",
+                "added": 5,
+                "remove": 0,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "test_inventory.py",
+                "added": 46,
+                "remove": 3,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 2
+    },
+    {
+        "sha": "cc7bd498fa8c7879ffa64b5361636ad410b7dbe4",
+        "date": "2016-06-21 19:54:23-04:00",
+        "author": "nrb",
+        "modification": [
+            {
+                "file": "dynamic_inventory.py",
+                "added": 7,
+                "remove": 7,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "test_inventory.py",
+                "added": 3,
+                "remove": 2,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 2
+    },
+    {
+        "sha": "fe9fc36a4e18569a30af6cb19bb6075f7c33716f",
+        "date": "2016-06-24 18:23:06+04:00",
+        "author": "linusali",
+        "modification": [
+            {
+                "file": "dynamic_inventory.py",
+                "added": 3,
+                "remove": 3,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "dff646c5c1e7e22057c24ebd2354ab6eb5927ce0",
+        "date": "2016-06-27 15:53:08-04:00",
+        "author": "Travis Truman",
+        "modification": [
+            {
+                "file": "dynamic_inventory.py",
+                "added": 20,
+                "remove": 33,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "test_inventory.py",
+                "added": 21,
+                "remove": 27,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 2
+    },
+    {
+        "sha": "7b288eafbe3fe36424111244e92f5c7998cdd699",
+        "date": "2016-06-21 20:56:42-04:00",
+        "author": "nrb",
+        "modification": [
+            {
+                "file": "dynamic_inventory.py",
+                "added": 8,
+                "remove": 6,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "test_inventory.py",
+                "added": 86,
+                "remove": 2,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 2
+    },
+    {
+        "sha": "14f66504b20b75a2327b8053767bfc2696f51e99",
+        "date": "2016-06-01 15:27:44-07:00",
+        "author": "stevelle",
+        "modification": [
+            {
+                "file": "test_inventory.py",
+                "added": 6,
+                "remove": 0,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "03041378f2291ce84e435076df4bde57a8c84ece",
+        "date": "2016-07-06 15:01:20+01:00",
+        "author": "odyssey4me",
+        "modification": [
+            {
+                "file": "conf.py",
+                "added": 68,
+                "remove": 61,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "conf.py",
+                "added": 24,
+                "remove": 18,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 2
+    },
+    {
+        "sha": "68d68c27dd80391d7cb48aec213a3582d5df66e2",
+        "date": "2016-07-13 08:43:08-05:00",
+        "author": "cloudnull",
+        "modification": [
+            {
+                "file": "os-detection.py",
+                "added": 0,
+                "remove": 25,
+                "change_type": "DELETE"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "78369112b90ea83a38072cafd4bcb2c4bd1dcc09",
+        "date": "2016-07-15 11:44:34+01:00",
+        "author": "odyssey4me",
+        "modification": [
+            {
+                "file": "conf.py",
+                "added": 2,
+                "remove": 1,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "47bd970672e7fe2e11c189713aa95d739019f04b",
+        "date": "2016-07-15 12:58:23+00:00",
+        "author": "OpenStack Proposal Bot",
+        "modification": [
+            {
+                "file": "setup.py",
+                "added": 9,
+                "remove": 2,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "e6ad4cf7cfa6e422bda382c7404932ff6ae67415",
+        "date": "2016-07-19 12:06:13-04:00",
+        "author": "Travis Truman",
+        "modification": [
+            {
+                "file": "get-pypi-pkg-version.py",
+                "added": 1,
+                "remove": 1,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "c54736fcd5a601f11b388092ab6433f8f552ced4",
+        "date": "2016-07-11 15:05:47-04:00",
+        "author": "Travis Truman",
+        "modification": [
+            {
+                "file": "test_inventory.py",
+                "added": 3,
+                "remove": 5,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "91378741dcacc3891194c91055a5154809f3a0e6",
+        "date": "2016-07-11 14:26:46-04:00",
+        "author": "nrb",
+        "modification": [
+            {
+                "file": "dynamic_inventory.py",
+                "added": 13,
+                "remove": 10,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "test_inventory.py",
+                "added": 84,
+                "remove": 3,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 2
+    },
+    {
+        "sha": "6c7c870b7a74b587ada5e4bfc4df9a02ef8b2d3b",
+        "date": "2016-08-01 15:29:58-04:00",
+        "author": "nrb",
+        "modification": [
+            {
+                "file": "dynamic_inventory.py",
+                "added": 2,
+                "remove": 14,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "d95eaf59966f48bc084332798977286b403b19b1",
+        "date": "2016-08-01 14:59:54-04:00",
+        "author": "nrb",
+        "modification": [
+            {
+                "file": "test_inventory.py",
+                "added": 29,
+                "remove": 0,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "37e7700938f71678b3d4896848fe2dfd29b5b789",
+        "date": "2016-08-08 14:46:04+02:00",
+        "author": "donovan-francesco",
+        "modification": [
+            {
+                "file": "test_inventory.py",
+                "added": 5,
+                "remove": 0,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "b92167652395dc2bd9f43ee1f442f50aff4dd40e",
+        "date": "2016-08-10 22:23:24+00:00",
+        "author": "nishpatwa",
+        "modification": [
+            {
+                "file": "conf.py",
+                "added": 5,
+                "remove": 1,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "49c303ac4cf41ab129b9adc0809267422aa3a386",
+        "date": "2016-08-10 18:27:13-04:00",
+        "author": "nrb",
+        "modification": [
+            {
+                "file": "test_inventory.py",
+                "added": 22,
+                "remove": 20,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "ebc9af109755a3866d5138c32527c862cd0dd41f",
+        "date": "2016-08-01 15:20:11-04:00",
+        "author": "nrb",
+        "modification": [
+            {
+                "file": "dynamic_inventory.py",
+                "added": 6,
+                "remove": 12,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "d68e65bfdd34ee162e9c16acb25cb652b189496a",
+        "date": "2016-08-10 21:14:34-04:00",
+        "author": "nrb",
+        "modification": [
+            {
+                "file": "dynamic_inventory.py",
+                "added": 10,
+                "remove": 0,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "test_inventory.py",
+                "added": 17,
+                "remove": 1,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 2
+    },
+    {
+        "sha": "f7babef5bb8a08e3967e01112bb4795cba7d9bbc",
+        "date": "2016-08-11 18:17:30-04:00",
+        "author": "nrb",
+        "modification": [
+            {
+                "file": "conf.py",
+                "added": 4,
+                "remove": 2,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "dynamic_inventory.py",
+                "added": 10,
+                "remove": 6,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 2
+    },
+    {
+        "sha": "9767d12e8c14de6619f0d8537400431af7591448",
+        "date": "2016-08-23 17:25:25-03:00",
+        "author": "thotypous",
+        "modification": [
+            {
+                "file": "test_inventory.py",
+                "added": 1,
+                "remove": 0,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "d651ed70f4d2298ba1a372a6b9906e1942a871e8",
+        "date": "2016-07-03 11:50:44-05:00",
+        "author": "logan2211",
+        "modification": [
+            {
+                "file": "test_inventory.py",
+                "added": 5,
+                "remove": 0,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "943676b94d083de7fba2f6859ff904f34e45ddf8",
+        "date": "2016-08-25 17:28:10+00:00",
+        "author": "flaviodsr",
+        "modification": [
+            {
+                "file": "test_inventory.py",
+                "added": 6,
+                "remove": 0,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "3b6895be6799b27a4047e22418b13a801e4d932e",
+        "date": "2016-08-11 16:27:33-04:00",
+        "author": "nrb",
+        "modification": [
+            {
+                "file": "dynamic_inventory.py",
+                "added": 39,
+                "remove": 24,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "test_inventory.py",
+                "added": 15,
+                "remove": 0,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 2
+    },
+    {
+        "sha": "5be187d1fb3823c56c5243292798d2987c63d45c",
+        "date": "2016-09-10 23:58:06-05:00",
+        "author": "logan2211",
+        "modification": [
+            {
+                "file": "dynamic_inventory.py",
+                "added": 4,
+                "remove": 0,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "f7a50a24b9d68866da615939136e84e460f4df62",
+        "date": "2016-09-13 15:19:24+01:00",
+        "author": "odyssey4me",
+        "modification": [
+            {
+                "file": "test_inventory.py",
+                "added": 16,
+                "remove": 6,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "518fb381c49a04e2b8af4a7e623e698482033efc",
+        "date": "2016-09-13 13:10:49-04:00",
+        "author": "nrb",
+        "modification": [
+            {
+                "file": "dynamic_inventory.py",
+                "added": 17,
+                "remove": 0,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "test_inventory.py",
+                "added": 32,
+                "remove": 0,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 2
+    },
+    {
+        "sha": "0bbf801e292b03418cb7632e4e22b08bdc54f293",
+        "date": "2016-09-14 11:23:07+08:00",
+        "author": "melissaml",
+        "modification": [
+            {
+                "file": "test_inventory.py",
+                "added": 1,
+                "remove": 1,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "39280be7dd3cb606ac0e46c6f400f2331e9e0c7b",
+        "date": "2016-09-16 12:07:53-05:00",
+        "author": "nishpatwa",
+        "modification": [
+            {
+                "file": "conf.py",
+                "added": 24,
+                "remove": 1,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "c8791e0d098623e11364d8565a15c59baa3eff49",
+        "date": "2016-09-16 16:59:43-04:00",
+        "author": "nrb",
+        "modification": [
+            {
+                "file": "inventory-manage.py",
+                "added": 5,
+                "remove": 304,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "manage_inventory.py",
+                "added": 328,
+                "remove": 0,
+                "change_type": "ADD"
+            }
+        ],
+        "files": 2
+    },
+    {
+        "sha": "10a7d80b790fce07e27bb3fe8e2d708dcedadad3",
+        "date": "2016-09-19 12:08:53+01:00",
+        "author": "odyssey4me",
+        "modification": [
+            {
+                "file": "conf.py",
+                "added": 14,
+                "remove": 12,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "18c9e1faeefcbfe4acee8eba3fa27b6a6ea83e7c",
+        "date": "2016-09-16 16:24:23-04:00",
+        "author": "nrb",
+        "modification": [
+            {
+                "file": "manage_inventory.py",
+                "added": 42,
+                "remove": 0,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "test_manage.py",
+                "added": 53,
+                "remove": 0,
+                "change_type": "ADD"
+            }
+        ],
+        "files": 2
+    },
+    {
+        "sha": "8d711ae48d20b989aea43a241977adf855d3bfc8",
+        "date": "2016-09-21 18:08:58-04:00",
+        "author": "nrb",
+        "modification": [
+            {
+                "file": "dynamic_inventory.py",
+                "added": 75,
+                "remove": 1,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "test_inventory.py",
+                "added": 30,
+                "remove": 2,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 2
+    },
+    {
+        "sha": "f94b2d41f6f1c5958144b4642c2e32ad9161f15a",
+        "date": "2016-09-22 16:48:49-04:00",
+        "author": "nrb",
+        "modification": [
+            {
+                "file": "test_inventory.py",
+                "added": 85,
+                "remove": 16,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "test_manage.py",
+                "added": 8,
+                "remove": 0,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 2
+    },
+    {
+        "sha": "671a092dff76450d781e24e1a3f03310223d4c86",
+        "date": "2016-09-22 19:07:47-04:00",
+        "author": "nrb",
+        "modification": [
+            {
+                "file": "test_inventory.py",
+                "added": 12,
+                "remove": 16,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "41f42be6cca147b56aa6c253bf0d4e6c8214d914",
+        "date": "2016-09-21 11:02:50+01:00",
+        "author": "hughsaunders",
+        "modification": [
+            {
+                "file": "get-pypi-pkg-version.py",
+                "added": 5,
+                "remove": 1,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "62028d063ea81fc45d44f1efa4c34880978f8ce7",
+        "date": "2016-09-19 10:04:56-05:00",
+        "author": "nishpatwa",
+        "modification": [
+            {
+                "file": "conf.py",
+                "added": 12,
+                "remove": 2,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "ca7df2fa3f76761719ec68930ff9e8cc66b0adb1",
+        "date": "2016-09-23 19:04:18-04:00",
+        "author": "nrb",
+        "modification": [
+            {
+                "file": "dynamic_inventory.py",
+                "added": 13,
+                "remove": 6,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "test_inventory.py",
+                "added": 6,
+                "remove": 4,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 2
+    },
+    {
+        "sha": "14432680ded88dcdadf3decaf6d74954d38c7a68",
+        "date": "2016-09-22 19:29:51-04:00",
+        "author": "nrb",
+        "modification": [
+            {
+                "file": "test_inventory.py",
+                "added": 11,
+                "remove": 2,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "57fef578689077b8bd59d77d06c20cf96f6bebd3",
+        "date": "2016-09-23 18:18:38-04:00",
+        "author": "nrb",
+        "modification": [
+            {
+                "file": "dynamic_inventory.py",
+                "added": 13,
+                "remove": 3,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "test_inventory.py",
+                "added": 5,
+                "remove": 3,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 2
+    },
+    {
+        "sha": "a1bc7d1902620b317c0f5d1b1f2d927f001086d0",
+        "date": "2016-09-30 16:26:11-04:00",
+        "author": "nrb",
+        "modification": [
+            {
+                "file": "dynamic_inventory.py",
+                "added": 37,
+                "remove": 27,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "951e2410898a803b0c8c78500ed850d972080ed2",
+        "date": "2016-09-21 12:24:30+02:00",
+        "author": "drifterza",
+        "modification": [
+            {
+                "file": "test_inventory.py",
+                "added": 10,
+                "remove": 0,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "2869cc897301da694e3be57f7d74d99221cdaf47",
+        "date": "2016-10-05 12:26:28-07:00",
+        "author": "jimmymccrory",
+        "modification": [
+            {
+                "file": "conf.py",
+                "added": 1,
+                "remove": 0,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "3f44361f2903cc6a22a02fa95d109ac8b38ea47a",
+        "date": "2016-10-06 20:34:04+02:00",
+        "author": "ajaeger",
+        "modification": [
+            {
+                "file": "conf.py",
+                "added": 3,
+                "remove": 0,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "0d9eb88ab1ba73094db02fb27c8a8edcfa0a2c0e",
+        "date": "2016-10-06 12:10:43-04:00",
+        "author": "nrb",
+        "modification": [
+            {
+                "file": "__init__.py",
+                "added": 0,
+                "remove": 0,
+                "change_type": "ADD"
+            },
+            {
+                "file": "manage.py",
+                "added": 0,
+                "remove": 0,
+                "change_type": "RENAME"
+            },
+            {
+                "file": "inventory-manage.py",
+                "added": 10,
+                "remove": 3,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "test_manage.py",
+                "added": 2,
+                "remove": 2,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 4
+    },
+    {
+        "sha": "14e13ec4ea326618865079d86797fdde4a496f67",
+        "date": "2016-10-06 13:14:42-04:00",
+        "author": "nrb",
+        "modification": [
+            {
+                "file": "generate.py",
+                "added": 1262,
+                "remove": 0,
+                "change_type": "ADD"
+            },
+            {
+                "file": "dynamic_inventory.py",
+                "added": 6,
+                "remove": 1242,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "test_inventory.py",
+                "added": 17,
+                "remove": 15,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 3
+    },
+    {
+        "sha": "1588b4111bc7124e7a0ebe5b18543a4fc41e00ea",
+        "date": "2016-10-12 11:54:37+07:00",
+        "author": "TuanLAF",
+        "modification": [
+            {
+                "file": "test_inventory.py",
+                "added": 1,
+                "remove": 1,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "173d168595056864c53d36610103ce1b8ebc5410",
+        "date": "2016-10-14 14:48:55-07:00",
+        "author": "jimmymccrory",
+        "modification": [
+            {
+                "file": "test_inventory.py",
+                "added": 0,
+                "remove": 2,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "7874a8d1032aa5210d7cde90e295500b2c3bc62e",
+        "date": "2016-10-22 17:29:26+08:00",
+        "author": "melissaml",
+        "modification": [
+            {
+                "file": "test_inventory.py",
+                "added": 1,
+                "remove": 1,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "20e246de8f628e23d372c6ccdacea529acbbfba7",
+        "date": "2016-10-25 17:39:54-04:00",
+        "author": "nrb",
+        "modification": [
+            {
+                "file": "generate.py",
+                "added": 2,
+                "remove": 6,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "e0b58924a7aa97acbace36654c5652c14827b3be",
+        "date": "2016-10-07 15:56:47-04:00",
+        "author": "nrb",
+        "modification": [
+            {
+                "file": "generate.py",
+                "added": 31,
+                "remove": 1,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "test_inventory.py",
+                "added": 55,
+                "remove": 0,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 2
+    },
+    {
+        "sha": "58074fdeedb64c2dfcffe9539f0b56f07dfa8f78",
+        "date": "2016-10-26 14:37:33-05:00",
+        "author": "cloudnull",
+        "modification": [
+            {
+                "file": "test_inventory.py",
+                "added": 5,
+                "remove": 0,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "9abb66503740a2b2c612cd84947dc7d4f82fbe78",
+        "date": "2016-10-31 12:39:27-07:00",
+        "author": "stevelle",
+        "modification": [
+            {
+                "file": "dictutils.py",
+                "added": 50,
+                "remove": 0,
+                "change_type": "ADD"
+            },
+            {
+                "file": "manage.py",
+                "added": 3,
+                "remove": 33,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 2
+    },
+    {
+        "sha": "7eca22359fc5e9978cd3f2e60871d5eb64925da4",
+        "date": "2016-10-27 16:51:04+02:00",
+        "author": "jimmymccrory",
+        "modification": [
+            {
+                "file": "test_inventory.py",
+                "added": 5,
+                "remove": 0,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "929034d32820e06d0956841cb3c935b5d6b4c938",
+        "date": "2016-11-02 10:00:03+00:00",
+        "author": "odyssey4me",
+        "modification": [
+            {
+                "file": "conf.py",
+                "added": 2,
+                "remove": 2,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "97185e5665955a263a71d2a67bf94c57ac4e158c",
+        "date": "2016-11-01 14:56:10-04:00",
+        "author": "nrb",
+        "modification": [
+            {
+                "file": "generate.py",
+                "added": 3,
+                "remove": 0,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "test_inventory.py",
+                "added": 9,
+                "remove": 9,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 2
+    },
+    {
+        "sha": "d1d034159af32392350abaa4ed846cf5e191ed34",
+        "date": "2016-11-04 12:20:54-05:00",
+        "author": "logan2211",
+        "modification": [
+            {
+                "file": "dynamic_inventory.py",
+                "added": 1,
+                "remove": 1,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "835bec6c3656151deaa8632c2772f638095eb7ae",
+        "date": "2016-11-04 14:39:17+02:00",
+        "author": "drifterza",
+        "modification": [
+            {
+                "file": "test_inventory.py",
+                "added": 11,
+                "remove": 0,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "923b23204f2f885f1dfbb6d0b5477e0708232ff1",
+        "date": "2016-11-10 11:35:41+00:00",
+        "author": "andymcc",
+        "modification": [
+            {
+                "file": "manage.py",
+                "added": 1,
+                "remove": 1,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "b3a3a89a20a899f69f508a44d5e4711ebea8f398",
+        "date": "2016-11-08 12:31:46-05:00",
+        "author": "nrb",
+        "modification": [
+            {
+                "file": "generate.py",
+                "added": 25,
+                "remove": 24,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "manage.py",
+                "added": 1,
+                "remove": 1,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 2
+    },
+    {
+        "sha": "21c77b27d26bc1c98ebd59e705ba26831456f393",
+        "date": "2016-10-24 11:44:55-04:00",
+        "author": "nrb",
+        "modification": [
+            {
+                "file": "manage.py",
+                "added": 33,
+                "remove": 0,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "test_manage.py",
+                "added": 43,
+                "remove": 0,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 2
+    },
+    {
+        "sha": "3358b01dd4fd9847137af48454bbd053ad429642",
+        "date": "2016-10-31 12:46:52-07:00",
+        "author": "stevelle",
+        "modification": [
+            {
+                "file": "filesystem.py",
+                "added": 85,
+                "remove": 0,
+                "change_type": "ADD"
+            },
+            {
+                "file": "manage.py",
+                "added": 6,
+                "remove": 43,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 2
+    },
+    {
+        "sha": "249db3ae5c434cf9b45e622158ae8a31f53d0269",
+        "date": "2016-10-31 12:53:32-07:00",
+        "author": "stevelle",
+        "modification": [
+            {
+                "file": "dictutils.py",
+                "added": 37,
+                "remove": 5,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "generate.py",
+                "added": 4,
+                "remove": 34,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 2
+    },
+    {
+        "sha": "b7354adacb642bb476a0c7006572cbc0a2e52873",
+        "date": "2016-10-31 12:46:52-07:00",
+        "author": "stevelle",
+        "modification": [
+            {
+                "file": "filesystem.py",
+                "added": 77,
+                "remove": 14,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "generate.py",
+                "added": 4,
+                "remove": 45,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "manage.py",
+                "added": 6,
+                "remove": 4,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "test_inventory.py",
+                "added": 7,
+                "remove": 8,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 4
+    },
+    {
+        "sha": "35691fef01f0a16b76a080d4442b462abb52de04",
+        "date": "2016-11-01 14:50:32-04:00",
+        "author": "nrb",
+        "modification": [
+            {
+                "file": "generate.py",
+                "added": 5,
+                "remove": 87,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "ip.py",
+                "added": 89,
+                "remove": 0,
+                "change_type": "ADD"
+            },
+            {
+                "file": "test_inventory.py",
+                "added": 12,
+                "remove": 9,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 3
+    },
+    {
+        "sha": "ca1e4cccd922568d00ca8f2efa37778afac746a2",
+        "date": "2016-10-28 14:56:47+01:00",
+        "author": "asettle",
+        "modification": [
+            {
+                "file": "conf.py",
+                "added": 341,
+                "remove": 0,
+                "change_type": "ADD"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "99e398125b9f49f8f5e26bcecd86ebd3c092bf3d",
+        "date": "2016-11-14 11:58:40-05:00",
+        "author": "nrb",
+        "modification": [
+            {
+                "file": "ip.py",
+                "added": 234,
+                "remove": 1,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "test_ip.py",
+                "added": 150,
+                "remove": 0,
+                "change_type": "ADD"
+            }
+        ],
+        "files": 2
+    },
+    {
+        "sha": "ad566bffd77780e00baf4905d082464fe5c63232",
+        "date": "2016-11-17 14:00:50-08:00",
+        "author": "stevelle",
+        "modification": [
+            {
+                "file": "filesystem.py",
+                "added": 30,
+                "remove": 12,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "test_filesystem.py",
+                "added": 92,
+                "remove": 0,
+                "change_type": "ADD"
+            },
+            {
+                "file": "test_inventory.py",
+                "added": 0,
+                "remove": 55,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 3
+    },
+    {
+        "sha": "d82d5457b66aacb46b1b1d7018cbb818a51d3aa2",
+        "date": "2016-11-17 15:47:37-08:00",
+        "author": "stevelle",
+        "modification": [
+            {
+                "file": "filesystem.py",
+                "added": 66,
+                "remove": 13,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "generate.py",
+                "added": 42,
+                "remove": 44,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 2
+    },
+    {
+        "sha": "ee33b159c12423ef560663c825e3183b55b20518",
+        "date": "2016-11-19 10:44:18-08:00",
+        "author": "stevelle",
+        "modification": [
+            {
+                "file": "filesystem.py",
+                "added": 66,
+                "remove": 0,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "generate.py",
+                "added": 10,
+                "remove": 100,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "test_inventory.py",
+                "added": 14,
+                "remove": 14,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 3
+    },
+    {
+        "sha": "a2bd0c5365d8c8d77ac5a96957beeceabaf48b17",
+        "date": "2016-11-21 16:36:48-05:00",
+        "author": "nrb",
+        "modification": [
+            {
+                "file": "dictutils.py",
+                "added": 21,
+                "remove": 11,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "test_dictutils.py",
+                "added": 155,
+                "remove": 0,
+                "change_type": "ADD"
+            }
+        ],
+        "files": 2
+    },
+    {
+        "sha": "5cde7169592651195efae670a1c7034098e43efd",
+        "date": "2016-11-21 16:36:14-08:00",
+        "author": "stevelle",
+        "modification": [
+            {
+                "file": "filesystem.py",
+                "added": 45,
+                "remove": 21,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "generate.py",
+                "added": 8,
+                "remove": 6,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "manage.py",
+                "added": 6,
+                "remove": 7,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "test_filesystem.py",
+                "added": 1,
+                "remove": 1,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "test_inventory.py",
+                "added": 1,
+                "remove": 1,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 5
+    },
+    {
+        "sha": "5548d3b9642e7830354b3d00778a96ad8eab7c77",
+        "date": "2016-11-01 16:26:41-04:00",
+        "author": "nrb",
+        "modification": [
+            {
+                "file": "tools.py",
+                "added": 53,
+                "remove": 0,
+                "change_type": "ADD"
+            },
+            {
+                "file": "gen-config.py",
+                "added": 65,
+                "remove": 0,
+                "change_type": "ADD"
+            },
+            {
+                "file": "test_inventory.py",
+                "added": 3,
+                "remove": 11,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 3
+    },
+    {
+        "sha": "5d0f0ba82dd7325e1dc6f0930eabe937126f09e0",
+        "date": "2016-11-23 14:27:03-08:00",
+        "author": "stevelle",
+        "modification": [
+            {
+                "file": "generate.py",
+                "added": 17,
+                "remove": 18,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "3fc41e29c1b6e9a33e75b6b9d8d89969756ea397",
+        "date": "2016-12-01 11:52:01-05:00",
+        "author": "nrb",
+        "modification": [
+            {
+                "file": "generate.py",
+                "added": 44,
+                "remove": 0,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "test_inventory.py",
+                "added": 84,
+                "remove": 1,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 2
+    },
+    {
+        "sha": "239fc927cfea3ea52de858a88ab5a6b0da89c165",
+        "date": "2016-12-12 08:30:44+07:00",
+        "author": "cuongnv23",
+        "modification": [
+            {
+                "file": "test_ip.py",
+                "added": 1,
+                "remove": 1,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "f4d73c404cebbde741877525a76286060835ae0b",
+        "date": "2016-12-13 12:21:21-05:00",
+        "author": "nrb",
+        "modification": [
+            {
+                "file": "generate.py",
+                "added": 4,
+                "remove": 1,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "test_inventory.py",
+                "added": 27,
+                "remove": 0,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 2
+    },
+    {
+        "sha": "71d97eb7a875139f21be9503ae4666e0a95fc1e5",
+        "date": "2016-12-15 16:52:57-05:00",
+        "author": "nrb",
+        "modification": [
+            {
+                "file": "test_inventory.py",
+                "added": 2,
+                "remove": 1,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "312147a6d7ca8fd7820a21560ffb5e83e15af8d6",
+        "date": "2016-12-17 20:35:16+01:00",
+        "author": "senk",
+        "modification": [
+            {
+                "file": "conf.py",
+                "added": 2,
+                "remove": 2,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "7690ee142ce3c1861abd50c9e8f0886f7df5464d",
+        "date": "2016-12-19 19:52:31-05:00",
+        "author": "solotravler",
+        "modification": [
+            {
+                "file": "dictutils.py",
+                "added": 2,
+                "remove": 2,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "test_dictutils.py",
+                "added": 1,
+                "remove": 1,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 2
+    },
+    {
+        "sha": "183b30d7f41c3578ad2162803960530bacf67433",
+        "date": "2016-12-19 19:59:49-05:00",
+        "author": "solotravler",
+        "modification": [
+            {
+                "file": "test_dictutils.py",
+                "added": 12,
+                "remove": 0,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "test_filesystem.py",
+                "added": 13,
+                "remove": 0,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "test_inventory.py",
+                "added": 11,
+                "remove": 0,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "test_ip.py",
+                "added": 13,
+                "remove": 0,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "test_manage.py",
+                "added": 12,
+                "remove": 0,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 5
+    },
+    {
+        "sha": "b8e7a2242fddffbda3c422204558f37aedbd2b56",
+        "date": "2017-01-06 02:00:13+08:00",
+        "author": "melissaml",
+        "modification": [
+            {
+                "file": "test_inventory.py",
+                "added": 1,
+                "remove": 1,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "a1a25002ba02c9fdeb32623470dfd914ef069d30",
+        "date": "2017-01-09 12:04:58-05:00",
+        "author": "nrb",
+        "modification": [
+            {
+                "file": "conf.py",
+                "added": 22,
+                "remove": 8,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "conf.py",
+                "added": 22,
+                "remove": 8,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 2
+    },
+    {
+        "sha": "06ede41645550b1260f0c457aeca7ab7feffe918",
+        "date": "2016-12-09 22:51:44-06:00",
+        "author": "logan2211",
+        "modification": [
+            {
+                "file": "test_inventory.py",
+                "added": 11,
+                "remove": 0,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "8df22c464405ec4002d5d22aff45d0c193ba7b1e",
+        "date": "2017-01-20 09:59:49+07:00",
+        "author": "cuongnv23",
+        "modification": [
+            {
+                "file": "filesystem.py",
+                "added": 1,
+                "remove": 0,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "generate.py",
+                "added": 1,
+                "remove": 0,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "manage.py",
+                "added": 4,
+                "remove": 2,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 3
+    },
+    {
+        "sha": "ad2e1c33c60299e8d86b36616b7cf7f0bea284dd",
+        "date": "2017-01-03 18:38:12-06:00",
+        "author": "BjoernT",
+        "modification": [
+            {
+                "file": "test_inventory.py",
+                "added": 1,
+                "remove": 0,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "f7528147325eadba9104b56d0cd85f25a4c4e429",
+        "date": "2017-01-24 16:54:21+00:00",
+        "author": "andymcc",
+        "modification": [
+            {
+                "file": "test_inventory.py",
+                "added": 2,
+                "remove": 0,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "3431d41c96e7ffb5b7609422902c778e846aabae",
+        "date": "2017-02-02 21:41:51-06:00",
+        "author": "cloudnull",
+        "modification": [
+            {
+                "file": "fastest-infra-wheel-mirror.py",
+                "added": 1,
+                "remove": 1,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "72993365a17429e1c59e08930b3dbc863ccd076b",
+        "date": "2017-02-06 10:47:43+07:00",
+        "author": "Cao Xuan Hoang",
+        "modification": [
+            {
+                "file": "filesystem.py",
+                "added": 2,
+                "remove": 2,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "ccea3dd8cbc2c87cb73fc9e8b0120e30816034a6",
+        "date": "2017-02-06 10:53:09+07:00",
+        "author": "Cao Xuan Hoang",
+        "modification": [
+            {
+                "file": "test_inventory.py",
+                "added": 3,
+                "remove": 3,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "a687052023fa53bd5a4cdb01ce485cef37af85b7",
+        "date": "2017-02-06 11:53:49+08:00",
+        "author": "gecong1973",
+        "modification": [
+            {
+                "file": "conf.py",
+                "added": 1,
+                "remove": 1,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "conf.py",
+                "added": 1,
+                "remove": 1,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "conf.py",
+                "added": 1,
+                "remove": 1,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 3
+    },
+    {
+        "sha": "668052803af843c9537484d1fa0e49fc7e543533",
+        "date": "2017-01-20 06:00:06+00:00",
+        "author": "zhangyanxian",
+        "modification": [
+            {
+                "file": "ip.py",
+                "added": 7,
+                "remove": 7,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "5f3cad6c9b582f50575f74798bab49dd1c64c4f2",
+        "date": "2017-02-07 11:40:08+08:00",
+        "author": "zhuzeyu",
+        "modification": [
+            {
+                "file": "test_inventory.py",
+                "added": 1,
+                "remove": 1,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "248caaf3224dc19b5ee592d943b733c4cc710080",
+        "date": "2017-02-06 15:08:23+00:00",
+        "author": "andymcc",
+        "modification": [
+            {
+                "file": "test_inventory.py",
+                "added": 2,
+                "remove": 2,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "92ccc1b8cda9c31c39a375fffe20561d24340745",
+        "date": "2017-02-14 02:15:40-08:00",
+        "author": "jimmymccrory",
+        "modification": [
+            {
+                "file": "conf.py",
+                "added": 3,
+                "remove": 1,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "f09e0a27f5b2b92c6db5b789bb0d7f77773c18d0",
+        "date": "2017-02-21 16:13:49-05:00",
+        "author": "mgariepy",
+        "modification": [
+            {
+                "file": "fastest-infra-wheel-mirror.py",
+                "added": 5,
+                "remove": 2,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "42292e1ecddaa9ba0220ae3bd478984d8f9d98e4",
+        "date": "2017-02-20 21:20:13+00:00",
+        "author": "alextricity25",
+        "modification": [
+            {
+                "file": "test_inventory.py",
+                "added": 0,
+                "remove": 2,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "3a08bb7b78b52590e9994703262fe54e4e7f7099",
+        "date": "2017-02-13 23:06:14+00:00",
+        "author": "Joel Griffiths",
+        "modification": [
+            {
+                "file": "filesystem.py",
+                "added": 8,
+                "remove": 3,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "manage.py",
+                "added": 27,
+                "remove": 10,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "test_manage.py",
+                "added": 14,
+                "remove": 0,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 3
+    },
+    {
+        "sha": "59aaac0cb5cf935d5d5e9ee899ecfd25b67923a1",
+        "date": "2017-02-01 13:28:58-05:00",
+        "author": "nrb",
+        "modification": [
+            {
+                "file": "generate.py",
+                "added": 43,
+                "remove": 7,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "test_inventory.py",
+                "added": 34,
+                "remove": 0,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 2
+    },
+    {
+        "sha": "2b3ad52ff6ded090b565476bcf1bf6cfd08288c5",
+        "date": "2017-03-02 11:51:03+00:00",
+        "author": "OpenStack Proposal Bot",
+        "modification": [
+            {
+                "file": "setup.py",
+                "added": 1,
+                "remove": 1,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "ef70b6f64a478606b2d2757ce6c206a8662ceb65",
+        "date": "2017-03-08 16:48:45+00:00",
+        "author": "odyssey4me",
+        "modification": [
+            {
+                "file": "conf.py",
+                "added": 2,
+                "remove": 2,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "conf.py",
+                "added": 2,
+                "remove": 2,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 2
+    },
+    {
+        "sha": "9220d5239f62f8f29017ab8d7ef6c558d7207d6c",
+        "date": "2017-03-09 13:53:29+00:00",
+        "author": "odyssey4me",
+        "modification": [
+            {
+                "file": "migrate_openstack_vars.py",
+                "added": 2,
+                "remove": 2,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "daf20d096149bc69035e0bd08b4e1703c86836a7",
+        "date": "2017-01-18 11:03:39-05:00",
+        "author": "xgerman",
+        "modification": [
+            {
+                "file": "test_inventory.py",
+                "added": 8,
+                "remove": 0,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "83a6b09866c74ec9e522a0ce3b8d320cd2f06730",
+        "date": "2017-03-14 11:16:35-04:00",
+        "author": "xgerman",
+        "modification": [
+            {
+                "file": "test_inventory.py",
+                "added": 2,
+                "remove": 1,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "bb7c06768ad27e85df0fb1354f267374f4069d7a",
+        "date": "2017-03-15 10:15:02-05:00",
+        "author": "hamzy",
+        "modification": [
+            {
+                "file": "test_inventory.py",
+                "added": 6,
+                "remove": 0,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "f9061c0504df5e129ce94b2fc4b4482288564e93",
+        "date": "2017-03-03 15:44:41+00:00",
+        "author": "alextricity25",
+        "modification": [
+            {
+                "file": "test_inventory.py",
+                "added": 2,
+                "remove": 3,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "2be3319ac9ac7e2c8863f4ce6de36f85c071b02a",
+        "date": "2017-03-02 11:45:21-05:00",
+        "author": "nrb",
+        "modification": [
+            {
+                "file": "__init__.py",
+                "added": 0,
+                "remove": 0,
+                "change_type": "RENAME"
+            },
+            {
+                "file": "dictutils.py",
+                "added": 0,
+                "remove": 0,
+                "change_type": "RENAME"
+            },
+            {
+                "file": "filesystem.py",
+                "added": 0,
+                "remove": 0,
+                "change_type": "RENAME"
+            },
+            {
+                "file": "generate.py",
+                "added": 0,
+                "remove": 0,
+                "change_type": "RENAME"
+            },
+            {
+                "file": "ip.py",
+                "added": 0,
+                "remove": 0,
+                "change_type": "RENAME"
+            },
+            {
+                "file": "manage.py",
+                "added": 0,
+                "remove": 0,
+                "change_type": "RENAME"
+            },
+            {
+                "file": "tools.py",
+                "added": 0,
+                "remove": 0,
+                "change_type": "RENAME"
+            },
+            {
+                "file": "dynamic_inventory.py",
+                "added": 1,
+                "remove": 1,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "gen-config.py",
+                "added": 1,
+                "remove": 1,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "inventory-manage.py",
+                "added": 1,
+                "remove": 1,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "test_dictutils.py",
+                "added": 1,
+                "remove": 1,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "test_filesystem.py",
+                "added": 1,
+                "remove": 1,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "test_inventory.py",
+                "added": 1,
+                "remove": 1,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "test_ip.py",
+                "added": 1,
+                "remove": 1,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "test_manage.py",
+                "added": 1,
+                "remove": 1,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 15
+    },
+    {
+        "sha": "b769a6e0c128b96b23dd696a305145f2077c3151",
+        "date": "2017-04-07 12:04:14-05:00",
+        "author": "cloudnull",
+        "modification": [
+            {
+                "file": "test_inventory.py",
+                "added": 0,
+                "remove": 8,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "5afc0aa13cc352639134f1ce38198b7d8f2bfb2f",
+        "date": "2017-04-12 14:49:51+00:00",
+        "author": "evrardjp",
+        "modification": [
+            {
+                "file": "conf.py",
+                "added": 18,
+                "remove": 15,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "4a35fe9ea2dfe644f43d0dfd67b31148927d0cb7",
+        "date": "2017-05-08 16:02:33-07:00",
+        "author": "jimmymccrory",
+        "modification": [
+            {
+                "file": "generate.py",
+                "added": 2,
+                "remove": 2,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "119002ae761b5d80cd36d6daa8bc7aad761ce11f",
+        "date": "2017-05-09 10:31:41+08:00",
+        "author": "Fergus Yu",
+        "modification": [
+            {
+                "file": "inventory-manage.py",
+                "added": 1,
+                "remove": 1,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "a1d51d58e76bbae28f3c12757b0a41372a59a575",
+        "date": "2017-06-06 10:39:10-04:00",
+        "author": "nrb",
+        "modification": [
+            {
+                "file": "dictutils.py",
+                "added": 3,
+                "remove": 3,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "generate.py",
+                "added": 12,
+                "remove": 12,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "ip.py",
+                "added": 4,
+                "remove": 1,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "manage.py",
+                "added": 2,
+                "remove": 2,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "test_inventory.py",
+                "added": 4,
+                "remove": 1,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 5
+    },
+    {
+        "sha": "fa5336ca3615c725cd1b9883f56bc1e081ae6f59",
+        "date": "2017-06-06 21:26:27-04:00",
+        "author": "nrb",
+        "modification": [
+            {
+                "file": "generate.py",
+                "added": 11,
+                "remove": 3,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "test_inventory.py",
+                "added": 6,
+                "remove": 1,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 2
+    },
+    {
+        "sha": "e2f56ec6343e932317dd8023c462db23502f5e10",
+        "date": "2017-06-06 21:36:59-04:00",
+        "author": "nrb",
+        "modification": [
+            {
+                "file": "filesystem.py",
+                "added": 3,
+                "remove": 3,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "test_inventory.py",
+                "added": 1,
+                "remove": 1,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 2
+    },
+    {
+        "sha": "a1c1e6f529726da58e2abd6cf2a556b45acbe1fc",
+        "date": "2017-06-12 11:11:10+00:00",
+        "author": "evrardjp",
+        "modification": [
+            {
+                "file": "ansible-role-requirements-editor.py",
+                "added": 1,
+                "remove": 1,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "get-pypi-pkg-version.py",
+                "added": 1,
+                "remove": 1,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "release-yaml-file-prep.py",
+                "added": 1,
+                "remove": 1,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 3
+    },
+    {
+        "sha": "324857eaf56488c228b9c44168e5f9ea353dc7a5",
+        "date": "2017-06-20 14:03:43+08:00",
+        "author": "liuxiaoyang",
+        "modification": [
+            {
+                "file": "conf.py",
+                "added": 1,
+                "remove": 1,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "4f6e33984115b93bd610c001d3a7730b4748bcee",
+        "date": "2017-06-26 11:34:42+08:00",
+        "author": "zhongshengping",
+        "modification": [
+            {
+                "file": "conf.py",
+                "added": 3,
+                "remove": 3,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "315780f3505017096c8d3880bd0d0586f61a3f37",
+        "date": "2017-07-04 17:26:42+01:00",
+        "author": "odyssey4me",
+        "modification": [
+            {
+                "file": "conf.py",
+                "added": 27,
+                "remove": 25,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "b0ff0fda147728f2bda17e13ee459aabd43c7551",
+        "date": "2017-07-06 09:16:15+08:00",
+        "author": "zhongshengping",
+        "modification": [
+            {
+                "file": "conf.py",
+                "added": 11,
+                "remove": 16,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "conf.py",
+                "added": 7,
+                "remove": 2,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 2
+    },
+    {
+        "sha": "f0e61841854961c8197c3a1bb4a09dad5e590a3e",
+        "date": "2017-07-06 15:37:45-04:00",
+        "author": "nrb",
+        "modification": [
+            {
+                "file": "test_filesystem.py",
+                "added": 1,
+                "remove": 1,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "test_inventory.py",
+                "added": 1,
+                "remove": 1,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "test_manage.py",
+                "added": 1,
+                "remove": 1,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 3
+    },
+    {
+        "sha": "05f36014c2825e839000d8c0cf1af15c9fd2d3d8",
+        "date": "2017-07-27 19:33:55-05:00",
+        "author": "logan2211",
+        "modification": [
+            {
+                "file": "test_inventory.py",
+                "added": 5,
+                "remove": 0,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "ea6954f72fb4eb13d4333e4ed7fc01735aba6368",
+        "date": "2017-07-06 16:32:05-04:00",
+        "author": "nrb",
+        "modification": [
+            {
+                "file": "filesystem.py",
+                "added": 1,
+                "remove": 1,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "generate.py",
+                "added": 3,
+                "remove": 3,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "dynamic_inventory.py",
+                "added": 8,
+                "remove": 6,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "gen-config.py",
+                "added": 2,
+                "remove": 5,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "inventory-manage.py",
+                "added": 1,
+                "remove": 7,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "test_dictutils.py",
+                "added": 1,
+                "remove": 8,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "test_filesystem.py",
+                "added": 3,
+                "remove": 5,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "test_inventory.py",
+                "added": 13,
+                "remove": 15,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "test_ip.py",
+                "added": 1,
+                "remove": 8,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "test_manage.py",
+                "added": 1,
+                "remove": 5,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 10
+    },
+    {
+        "sha": "9cd42929c39a28cc4e04870b499ae65aded0bdcb",
+        "date": "2017-05-10 20:58:10-07:00",
+        "author": "jimmymccrory",
+        "modification": [
+            {
+                "file": "generate.py",
+                "added": 34,
+                "remove": 4,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "test_inventory.py",
+                "added": 38,
+                "remove": 0,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 2
+    },
+    {
+        "sha": "b3cd95f219767cc35053f8b5177cf5dca9ef0db3",
+        "date": "2017-08-01 11:35:09-05:00",
+        "author": "cloudnull",
+        "modification": [
+            {
+                "file": "pw-token-gen.py",
+                "added": 2,
+                "remove": 2,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "f47ec3ee7b85f7a6e63852af49453ae49aad3829",
+        "date": "2017-08-05 18:50:31+02:00",
+        "author": "ajaeger",
+        "modification": [
+            {
+                "file": "fastest-infra-wheel-mirror.py",
+                "added": 15,
+                "remove": 8,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "774f6d0281ecbe2ce95a889d0be1f2e04853c9ad",
+        "date": "2017-06-15 13:07:06-05:00",
+        "author": "cloudnull",
+        "modification": [
+            {
+                "file": "test_inventory.py",
+                "added": 8,
+                "remove": 0,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "4cba47c1d3a186d189c75e903cbb8be39602fa0f",
+        "date": "2017-06-07 15:18:07+00:00",
+        "author": "Jesse Pretorius (odyssey4me)",
+        "modification": [
+            {
+                "file": "test_inventory.py",
+                "added": 8,
+                "remove": 0,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "2ab98d9702efc9bd1ba54afc45d5a5769107cffd",
+        "date": "2017-08-17 14:30:04+05:18",
+        "author": "npraveen35",
+        "modification": [
+            {
+                "file": "gen-config.py",
+                "added": 1,
+                "remove": 1,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "test_manage.py",
+                "added": 1,
+                "remove": 1,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 2
+    },
+    {
+        "sha": "18464e47f156d6947c21b9b27069d886feefd799",
+        "date": "2017-08-17 10:16:36-07:00",
+        "author": "jimmymccrory",
+        "modification": [
+            {
+                "file": "inventory-manage.py",
+                "added": 10,
+                "remove": 1,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "1450119e86a5d918dacdbc3eb08ed9b5c014d591",
+        "date": "2017-08-01 14:09:36+02:00",
+        "author": "Juan Vidal",
+        "modification": [
+            {
+                "file": "test_inventory.py",
+                "added": 1,
+                "remove": 0,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "bd79f0720a0e5a3b7195a715097ba32020e08bf4",
+        "date": "2017-07-19 17:46:36+02:00",
+        "author": "manuelbuil",
+        "modification": [
+            {
+                "file": "test_inventory.py",
+                "added": 6,
+                "remove": 0,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "956e8291115faf942f4425ef62ce74bdb89e0cea",
+        "date": "2017-08-23 07:47:37+01:00",
+        "author": "odyssey4me",
+        "modification": [
+            {
+                "file": "conf.py",
+                "added": 2,
+                "remove": 2,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "conf.py",
+                "added": 2,
+                "remove": 2,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 2
+    },
+    {
+        "sha": "85d24272bc9288f83ce263d2a9e242dd5f270a3a",
+        "date": "2017-08-23 18:10:11+02:00",
+        "author": "Jakob Hasselmann",
+        "modification": [
+            {
+                "file": "release-yaml-file-prep.py",
+                "added": 6,
+                "remove": 1,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "ae96fb100ca8f5f53e785e1e44d4d9d31f7f3cb1",
+        "date": "2017-08-29 18:14:23+01:00",
+        "author": "odyssey4me",
+        "modification": [
+            {
+                "file": "conf.py",
+                "added": 2,
+                "remove": 2,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "conf.py",
+                "added": 1,
+                "remove": 1,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 2
+    },
+    {
+        "sha": "b95eafb0eeaaa8700b1293aec9a68b252602af00",
+        "date": "2017-09-12 07:18:27-06:00",
+        "author": "odyssey4me",
+        "modification": [
+            {
+                "file": "manage.py",
+                "added": 1,
+                "remove": 1,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "pw-token-gen.py",
+                "added": 1,
+                "remove": 1,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 2
+    },
+    {
+        "sha": "be2c81b47a0f80c223ba05d2946156158c1ddfb2",
+        "date": "2017-09-12 11:22:06-06:00",
+        "author": "andymcc",
+        "modification": [
+            {
+                "file": "release-yaml-file-prep.py",
+                "added": 1,
+                "remove": 1,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "ede56e0092989e746449e0ea9fd869bc423f3c73",
+        "date": "2017-09-13 09:43:58-06:00",
+        "author": "odyssey4me",
+        "modification": [
+            {
+                "file": "migrate_openstack_vars.py",
+                "added": 1,
+                "remove": 1,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "f828133438f4748dcca8f263a9ad54b2d1cfa3b4",
+        "date": "2017-09-19 10:47:53-04:00",
+        "author": "mgariepy",
+        "modification": [
+            {
+                "file": "conf.py",
+                "added": 0,
+                "remove": 1,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "1200ee1bee4a1fb2d682c0f73944f1b4d5902acd",
+        "date": "2017-08-30 18:53:31-05:00",
+        "author": "cloudnull",
+        "modification": [
+            {
+                "file": "test_inventory.py",
+                "added": 2,
+                "remove": 12,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "f17540a062ee3a1529e8e45df6f296c16f2af45e",
+        "date": "2017-10-27 13:43:04+01:00",
+        "author": "evrardjp",
+        "modification": [
+            {
+                "file": "conf.py",
+                "added": 1,
+                "remove": 1,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "609ea1f1b56afa109e200b5f606386ecc937e93e",
+        "date": "2017-11-02 16:25:20+08:00",
+        "author": "lilu7189",
+        "modification": [
+            {
+                "file": "conf.py",
+                "added": 3,
+                "remove": 1,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "edc3476b6754b27201551d3d8da1eb96b70be2d0",
+        "date": "2017-08-19 06:57:44+00:00",
+        "author": "evrardjp",
+        "modification": [
+            {
+                "file": "rabbitmq-test.py",
+                "added": 47,
+                "remove": 0,
+                "change_type": "ADD"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "e9f957861b4160640f6debb2b939084ec43b43b2",
+        "date": "2017-11-15 01:21:16+00:00",
+        "author": "Cameron Loader",
+        "modification": [
+            {
+                "file": "pw-token-gen.py",
+                "added": 1,
+                "remove": 2,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "f688775d33ee0d57876698a339ad283eab384814",
+        "date": "2017-11-17 06:41:05+00:00",
+        "author": "deepakmourya",
+        "modification": [
+            {
+                "file": "conf.py",
+                "added": 4,
+                "remove": 10,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "fdf33902c2cd39509d1ebef84714dc4728f06a69",
+        "date": "2017-11-15 22:43:39-06:00",
+        "author": "cloudnull",
+        "modification": [
+            {
+                "file": "conf.py",
+                "added": 12,
+                "remove": 0,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "scenario_table_gen.py",
+                "added": 69,
+                "remove": 0,
+                "change_type": "ADD"
+            }
+        ],
+        "files": 2
+    },
+    {
+        "sha": "850d8f2663fd91c4142b373a5b6c68c9ecb8f25b",
+        "date": "2017-08-17 13:20:31+01:00",
+        "author": "andymcc",
+        "modification": [
+            {
+                "file": "generate.py",
+                "added": 11,
+                "remove": 15,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "c5551f2c8cf641250517ceb978f9c94ba337ebfb",
+        "date": "2017-10-28 16:03:55-07:00",
+        "author": "jimmymccrory",
+        "modification": [
+            {
+                "file": "conf.py",
+                "added": 1,
+                "remove": 1,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "conf.py",
+                "added": 1,
+                "remove": 1,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "dynamic_inventory.py",
+                "added": 2,
+                "remove": 2,
+                "change_type": "RENAME"
+            },
+            {
+                "file": "test_filesystem.py",
+                "added": 1,
+                "remove": 1,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "test_inventory.py",
+                "added": 1,
+                "remove": 1,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 5
+    },
+    {
+        "sha": "e8abf1964781a794e70a352982243c0349325267",
+        "date": "2017-12-20 16:54:13+00:00",
+        "author": "odyssey4me",
+        "modification": [
+            {
+                "file": "conf.py",
+                "added": 4,
+                "remove": 0,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "ansible-role-requirements-editor.py",
+                "added": 1,
+                "remove": 1,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "get-pypi-pkg-version.py",
+                "added": 1,
+                "remove": 1,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "release-yaml-file-prep.py",
+                "added": 1,
+                "remove": 1,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 4
+    },
+    {
+        "sha": "81e1f8d173d663e5f7f6a385e89359c3e9d75a54",
+        "date": "2018-01-04 10:43:26+00:00",
+        "author": "evrardjp",
+        "modification": [
+            {
+                "file": "generate.py",
+                "added": 3,
+                "remove": 2,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "8a3dfc01fad4ff1ab95e0476732c67fda6e834c1",
+        "date": "2018-01-25 14:24:42+00:00",
+        "author": "evrardjp",
+        "modification": [
+            {
+                "file": "generate.py",
+                "added": 4,
+                "remove": 1,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "fd9cda8df9b9f9e286624237d0fff639b5dc38e9",
+        "date": "2017-11-24 21:18:53-06:00",
+        "author": "cloudnull",
+        "modification": [
+            {
+                "file": "generate.py",
+                "added": 31,
+                "remove": 10,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "test_inventory.py",
+                "added": 1,
+                "remove": 0,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 2
+    },
+    {
+        "sha": "f391d52e2fdeb364bd78d570671469448212f9c6",
+        "date": "2018-02-10 17:22:57+00:00",
+        "author": "evrardjp",
+        "modification": [
+            {
+                "file": "conf.py",
+                "added": 1,
+                "remove": 1,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "test_inventory.py",
+                "added": 0,
+                "remove": 1,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 2
+    },
+    {
+        "sha": "134ec81016382006493c227bedda70d0f62d1a3d",
+        "date": "2018-02-20 11:32:38+00:00",
+        "author": "evrardjp",
+        "modification": [
+            {
+                "file": "conf.py",
+                "added": 1,
+                "remove": 1,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "dc8d6256ceede391952375ffd896f4420e1f1937",
+        "date": "2018-02-20 13:42:41+00:00",
+        "author": "evrardjp",
+        "modification": [
+            {
+                "file": "conf.py",
+                "added": 1,
+                "remove": 1,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "b6eb92becaa0cb0d4315a1d7f799adbb7abe65ea",
+        "date": "2018-02-22 16:54:26+00:00",
+        "author": "evrardjp",
+        "modification": [
+            {
+                "file": "conf.py",
+                "added": 1,
+                "remove": 1,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "d080a61d69737473989ffeb21cbfe6a466dd295c",
+        "date": "2018-02-23 14:29:08+01:00",
+        "author": "Miouge1",
+        "modification": [
+            {
+                "file": "filesystem.py",
+                "added": 3,
+                "remove": 2,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "7b4989d1042214045f4d0aabcbbdaedab48ea25a",
+        "date": "2018-02-27 10:22:23+00:00",
+        "author": "evrardjp",
+        "modification": [
+            {
+                "file": "conf.py",
+                "added": 2,
+                "remove": 2,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "c700fdba0da5563f07935f0d7cba7d75ad586a23",
+        "date": "2017-11-05 22:24:33-06:00",
+        "author": "logan2211",
+        "modification": [
+            {
+                "file": "test_inventory.py",
+                "added": 5,
+                "remove": 0,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "beb36b8ab9c67d497cbac81f5c011c7de15a465b",
+        "date": "2018-03-01 05:53:15-06:00",
+        "author": "cloudnull",
+        "modification": [
+            {
+                "file": "generate.py",
+                "added": 7,
+                "remove": 11,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "test_inventory.py",
+                "added": 2,
+                "remove": 3,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 2
+    },
+    {
+        "sha": "6442320b24daf3be5f2df8acb7e54373aa9a7ba2",
+        "date": "2018-03-15 14:36:31+00:00",
+        "author": "evrardjp",
+        "modification": [
+            {
+                "file": "conf.py",
+                "added": 70,
+                "remove": 79,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "8c94cf57c4d9c504ef8f8dc579245d2180caf3bf",
+        "date": "2018-03-15 12:43:51+00:00",
+        "author": "evrardjp",
+        "modification": [
+            {
+                "file": "conf.py",
+                "added": 1,
+                "remove": 1,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "scenario_table_gen.py",
+                "added": 1,
+                "remove": 1,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 2
+    },
+    {
+        "sha": "b72b3add9f20cc9a64a858d5ab70c3d90846c460",
+        "date": "2018-03-16 09:15:10+00:00",
+        "author": "james-portman",
+        "modification": [
+            {
+                "file": "generate.py",
+                "added": 11,
+                "remove": 6,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "eee6c77180375ce7471863fac818c199aad01f1b",
+        "date": "2017-10-19 16:01:06+05:00",
+        "author": "Taseer94",
+        "modification": [
+            {
+                "file": "test_inventory.py",
+                "added": 6,
+                "remove": 0,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "90eb5626452d46f24f6e539da23971f8698bc2b3",
+        "date": "2018-03-23 12:16:07+00:00",
+        "author": "evrardjp",
+        "modification": [
+            {
+                "file": "conf.py",
+                "added": 8,
+                "remove": 11,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "5a8e199ca1ac525c1f6a5a5c3d61964f2393dfce",
+        "date": "2018-03-23 17:39:27+00:00",
+        "author": "evrardjp",
+        "modification": [
+            {
+                "file": "conf.py",
+                "added": 47,
+                "remove": 72,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "ca49f4121e00fc637b5ac174e4012be6c2a67632",
+        "date": "2018-04-03 17:48:13+01:00",
+        "author": "odyssey4me",
+        "modification": [
+            {
+                "file": "conf.py",
+                "added": 8,
+                "remove": 1,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "563a4888c62ef98a44202fb38ea2824e2485a02d",
+        "date": "2018-04-09 20:44:59+01:00",
+        "author": "odyssey4me",
+        "modification": [
+            {
+                "file": "manage.py",
+                "added": 2,
+                "remove": 2,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "c0b691ec42d8cef281d6630e6f50e5ebf4c63b44",
+        "date": "2018-04-30 20:33:08+00:00",
+        "author": "Jonathan Rosser",
+        "modification": [
+            {
+                "file": "inventory-manage.py",
+                "added": 1,
+                "remove": 1,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "40771a06c077f34d4d50cd3aa5df459af1be96da",
+        "date": "2018-05-17 13:43:22+00:00",
+        "author": "wangqi",
+        "modification": [
+            {
+                "file": "conf.py",
+                "added": 3,
+                "remove": 1,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "conf.py",
+                "added": 3,
+                "remove": 1,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 2
+    },
+    {
+        "sha": "7d98b2ceceb4eaa86e39a67b363704c70d98cfde",
+        "date": "2018-07-02 17:22:13+01:00",
+        "author": "odyssey4me",
+        "modification": [
+            {
+                "file": "test_filesystem.py",
+                "added": 1,
+                "remove": 2,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "test_manage.py",
+                "added": 1,
+                "remove": 2,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 2
+    },
+    {
+        "sha": "41191f49d7d63bb206eda97ef5a795ce2057e7d3",
+        "date": "2018-07-31 19:42:36+01:00",
+        "author": "odyssey4me",
+        "modification": [
+            {
+                "file": "test_inventory.py",
+                "added": 0,
+                "remove": 6,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "d65906c48654cfa103d52223a74be200d0b4e0a0",
+        "date": "2018-06-29 15:49:55-05:00",
+        "author": "Frank-ZhangXin",
+        "modification": [
+            {
+                "file": "test_inventory.py",
+                "added": 1,
+                "remove": 0,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "cd667c58842341854451fe807d15156961c41649",
+        "date": "2018-09-03 12:47:56+01:00",
+        "author": "odyssey4me",
+        "modification": [
+            {
+                "file": "rabbitmq-test.py",
+                "added": 1,
+                "remove": 1,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "6e8904062f70e85fe7ade9081d41a1e25d1020e9",
+        "date": "2018-08-31 10:03:02+02:00",
+        "author": "fghaas",
+        "modification": [
+            {
+                "file": "conf.py",
+                "added": 2,
+                "remove": 2,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "conf.py",
+                "added": 2,
+                "remove": 2,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 2
+    },
+    {
+        "sha": "4a07e2612e1841865ed998d33fd3d1cbdc6cf4e5",
+        "date": "2018-08-18 00:14:55-05:00",
+        "author": "cloudnull",
+        "modification": [
+            {
+                "file": "generate.py",
+                "added": 1,
+                "remove": 1,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "86fa326a0d07ab90ee07c21b1ead4bc098e24ed7",
+        "date": "2018-09-15 10:52:18+02:00",
+        "author": "eumel8",
+        "modification": [
+            {
+                "file": "conf.py",
+                "added": 1,
+                "remove": 1,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "9553e89e623d63c52427a48263200c1a88717ea1",
+        "date": "2018-09-16 10:49:29+02:00",
+        "author": "eumel8",
+        "modification": [
+            {
+                "file": "conf.py",
+                "added": 0,
+                "remove": 10,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "scenario_table_gen.py",
+                "added": 0,
+                "remove": 69,
+                "change_type": "DELETE"
+            }
+        ],
+        "files": 2
+    },
+    {
+        "sha": "138fdef0a665686bb43fdaf63eaf71dd33a15195",
+        "date": "2018-09-22 23:07:13+02:00",
+        "author": "eumel8",
+        "modification": [
+            {
+                "file": "conf.py",
+                "added": 1,
+                "remove": 0,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "180001718a7f00150ab52eb6f857a6bfb3ca2bb9",
+        "date": "2018-10-01 12:34:20+01:00",
+        "author": "odyssey4me",
+        "modification": [
+            {
+                "file": "migrate_openstack_vars.py",
+                "added": 1,
+                "remove": 1,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "6716cc5dc234801e3a73217b9e2fd269138ec067",
+        "date": "2018-09-05 13:12:04-05:00",
+        "author": "weezer",
+        "modification": [
+            {
+                "file": "test_dictutils.py",
+                "added": 9,
+                "remove": 0,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "df54583ca78a97d3b40033618d683112c20ac20e",
+        "date": "2018-03-06 11:01:15+05:00",
+        "author": "Taseer94",
+        "modification": [
+            {
+                "file": "test_inventory.py",
+                "added": 7,
+                "remove": 0,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "9ef46ba5ef41ba03e9ca5107274cec3bf456fc3f",
+        "date": "2018-07-19 18:56:29+00:00",
+        "author": "busterswt",
+        "modification": [
+            {
+                "file": "test_inventory.py",
+                "added": 3,
+                "remove": 0,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "8c8e21a5a3acb5d0ac3e7db4aa7be15bec4880f6",
+        "date": "2018-12-04 17:36:31+00:00",
+        "author": "busterswt",
+        "modification": [
+            {
+                "file": "test_inventory.py",
+                "added": 0,
+                "remove": 3,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "8f088db5d906d80cced665f5a14a9a3466f977b3",
+        "date": "2019-01-08 20:41:13+00:00",
+        "author": "busterswt",
+        "modification": [
+            {
+                "file": "generate.py",
+                "added": 11,
+                "remove": 1,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "cc58bfe3426483c74bf07ca75ff79f2ea5579807",
+        "date": "2019-01-12 13:43:02+01:00",
+        "author": "evrardjp",
+        "modification": [
+            {
+                "file": "conf.py",
+                "added": 3,
+                "remove": 2,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "8d9c0336ecc2b8469c78c7798e5b1871264b8087",
+        "date": "2019-01-15 12:47:07+00:00",
+        "author": "busterswt",
+        "modification": [
+            {
+                "file": "generate.py",
+                "added": 1,
+                "remove": 1,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "3fb15ad780c769c1991affff3b7ccb75ae138169",
+        "date": "2018-12-12 17:38:29+00:00",
+        "author": "odyssey4me",
+        "modification": [
+            {
+                "file": "conf.py",
+                "added": 3,
+                "remove": 4,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "make_rst_table.py",
+                "added": 0,
+                "remove": 45,
+                "change_type": "DELETE"
+            },
+            {
+                "file": "migrate_openstack_vars.py",
+                "added": 0,
+                "remove": 70,
+                "change_type": "DELETE"
+            },
+            {
+                "file": "test_migrate_openstack_vars.py",
+                "added": 0,
+                "remove": 86,
+                "change_type": "DELETE"
+            }
+        ],
+        "files": 4
+    },
+    {
+        "sha": "9229315a1adea8ebbddb182c20e4d1202fc0168a",
+        "date": "2019-02-08 22:38:43-06:00",
+        "author": "cloudnull",
+        "modification": [
+            {
+                "file": "generate.py",
+                "added": 3,
+                "remove": 0,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "71a067abf26365e2f46d0d6e217f50e047a25a2e",
+        "date": "2019-02-17 16:59:29-06:00",
+        "author": "shannonmitchell",
+        "modification": [
+            {
+                "file": "filesystem.py",
+                "added": 4,
+                "remove": 1,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "generate.py",
+                "added": 8,
+                "remove": 2,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 2
+    },
+    {
+        "sha": "5b9b6d4b76c9fabf315b6be4621276f311941409",
+        "date": "2019-03-06 17:16:45+00:00",
+        "author": "guilhermesteinmuller",
+        "modification": [
+            {
+                "file": "test_inventory.py",
+                "added": 9,
+                "remove": 0,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "35777b93ef6ad491106659df2aeb8a78b160b222",
+        "date": "2018-12-10 14:23:33-05:00",
+        "author": "ajssmith",
+        "modification": [
+            {
+                "file": "test_inventory.py",
+                "added": 6,
+                "remove": 0,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "9fd0fdc774ca3edd5efd83ef330b6234f2d84c1c",
+        "date": "2018-12-07 10:17:09+01:00",
+        "author": "eumel8",
+        "modification": [
+            {
+                "file": "conf.py",
+                "added": 3,
+                "remove": 1,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "ac28ad132922b582679c20c0f2346987c25bc98a",
+        "date": "2018-05-02 23:29:50-05:00",
+        "author": "cloudnull",
+        "modification": [
+            {
+                "file": "filesystem.py",
+                "added": 16,
+                "remove": 1,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "4f9e923ee60547cebb814551f65be65e1342a55f",
+        "date": "2019-03-21 16:02:17+02:00",
+        "author": "noonedeadpunk",
+        "modification": [
+            {
+                "file": "test_inventory.py",
+                "added": 11,
+                "remove": 0,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "48266cefb5da610d57d4392a4c2d736b3b18dbb5",
+        "date": "2019-03-26 19:37:27+00:00",
+        "author": "odyssey4me",
+        "modification": [
+            {
+                "file": "test_inventory.py",
+                "added": 6,
+                "remove": 0,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "de92efc0f911086e015394bf340a7c340553a789",
+        "date": "2019-03-22 11:35:04-05:00",
+        "author": "cloudnull",
+        "modification": [
+            {
+                "file": "test_inventory.py",
+                "added": 13,
+                "remove": 0,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "21ead443814d0270a212d9be8f7cf01dc7b27c7a",
+        "date": "2019-04-03 11:50:02-04:00",
+        "author": "mnaser",
+        "modification": [
+            {
+                "file": "conf.py",
+                "added": 1,
+                "remove": 10,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "conf.py",
+                "added": 1,
+                "remove": 9,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 2
+    },
+    {
+        "sha": "acae8b5c0f6ac0b491c24aa3cf7a77930d6b92af",
+        "date": "2019-04-03 15:43:41-04:00",
+        "author": "mnaser",
+        "modification": [
+            {
+                "file": "dynamic_inventory.py",
+                "added": 1,
+                "remove": 1,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "b9e3deb8c22d7929acd26b46e9536a8a51713a49",
+        "date": "2019-04-06 08:14:04+02:00",
+        "author": "evrardjp",
+        "modification": [
+            {
+                "file": "conf.py",
+                "added": 3,
+                "remove": 4,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "conf.py",
+                "added": 3,
+                "remove": 4,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 2
+    },
+    {
+        "sha": "8393ad3cbcdaf038ca057db03d0ad9c49dd8548a",
+        "date": "2019-05-02 22:35:15+00:00",
+        "author": "guilhermesteinmuller",
+        "modification": [
+            {
+                "file": "test_inventory.py",
+                "added": 6,
+                "remove": 0,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "ee8497176aed2cf849a00afbe5728bf909d4b1aa",
+        "date": "2019-04-20 13:41:00+03:00",
+        "author": "noonedeadpunk",
+        "modification": [
+            {
+                "file": "conf.py",
+                "added": 1,
+                "remove": 1,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "d178cbccc8339f23367631725a0862e583cf3ab4",
+        "date": "2019-05-16 15:37:29-05:00",
+        "author": "logan2211",
+        "modification": [
+            {
+                "file": "test_inventory.py",
+                "added": 0,
+                "remove": 1,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "cdc337d9a1ed85a7c4cb8073e38d0346e6396247",
+        "date": "2019-06-07 11:04:47+02:00",
+        "author": "ctrlaltdel",
+        "modification": [
+            {
+                "file": "manage.py",
+                "added": 3,
+                "remove": 3,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "e9c9d92987425bc909d662e5e288b61226bb0674",
+        "date": "2019-07-12 10:16:27-04:00",
+        "author": "mnaser",
+        "modification": [
+            {
+                "file": "generate.py",
+                "added": 1,
+                "remove": 1,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "96c6635a1596184fb982f8c599196c52101b6d05",
+        "date": "2019-08-04 15:57:15+02:00",
+        "author": "ajaeger",
+        "modification": [
+            {
+                "file": "conf.py",
+                "added": 3,
+                "remove": 3,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "conf.py",
+                "added": 2,
+                "remove": 2,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 2
+    },
+    {
+        "sha": "b5f07e6719f1b5386d361bd1e5cb96543d6fe060",
+        "date": "2019-08-07 13:03:56-04:00",
+        "author": "mnaser",
+        "modification": [
+            {
+                "file": "test_inventory.py",
+                "added": 0,
+                "remove": 2,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "42ed00dfcb3428e1f2753392db6a054f036cbc86",
+        "date": "2019-08-07 13:05:05-04:00",
+        "author": "mnaser",
+        "modification": [
+            {
+                "file": "test_inventory.py",
+                "added": 0,
+                "remove": 2,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "21101aaa4d4e1ce501a15024d9cbf2d55b17d429",
+        "date": "2019-08-30 17:09:27+03:00",
+        "author": "noonedeadpunk",
+        "modification": [
+            {
+                "file": "generate.py",
+                "added": 5,
+                "remove": 1,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "5ae62b53ceac0e86f6286cc3d196420a908c9c1a",
+        "date": "2019-09-10 14:59:04+03:00",
+        "author": "noonedeadpunk",
+        "modification": [
+            {
+                "file": "generate.py",
+                "added": 4,
+                "remove": 5,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "manage.py",
+                "added": 3,
+                "remove": 3,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "fastest-infra-wheel-mirror.py",
+                "added": 1,
+                "remove": 0,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "gen-config.py",
+                "added": 1,
+                "remove": 0,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 4
+    },
+    {
+        "sha": "955cf52863e4afad37063a56fdea11785d1a8bc8",
+        "date": "2019-10-08 12:56:45+01:00",
+        "author": "asettle",
+        "modification": [
+            {
+                "file": "conf.py",
+                "added": 5,
+                "remove": 2,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "0ff6e1fb34e12c4e1e217b401b3ba455d35ed146",
+        "date": "2019-08-30 18:49:40+00:00",
+        "author": "guilhermesteinmuller",
+        "modification": [
+            {
+                "file": "test_inventory.py",
+                "added": 7,
+                "remove": 0,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "bb863c176ca934c7ba826ff0660cf8222b067198",
+        "date": "2019-10-25 13:27:36+03:00",
+        "author": "noonedeadpunk",
+        "modification": [
+            {
+                "file": "conf.py",
+                "added": 2,
+                "remove": 2,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "conf.py",
+                "added": 2,
+                "remove": 2,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 2
+    },
+    {
+        "sha": "3fbc5b959ac5f9c747485a07ed23b6efafc896be",
+        "date": "2019-10-04 13:25:46+02:00",
+        "author": "evrardjp",
+        "modification": [
+            {
+                "file": "conf.py",
+                "added": 3,
+                "remove": 3,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "97d448f22d3068737180dc65f2576941ea7fbac0",
+        "date": "2019-09-05 19:41:26-05:00",
+        "author": "Cameron Loader",
+        "modification": [
+            {
+                "file": "test_inventory.py",
+                "added": 5,
+                "remove": 0,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "94e477032ac466cc72bdf06e7fec0dd51ce5b84e",
+        "date": "2019-11-29 16:52:31+02:00",
+        "author": "noonedeadpunk",
+        "modification": [
+            {
+                "file": "generate.py",
+                "added": 11,
+                "remove": 6,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "1f50c8b538a5404a0e69bdda8ee04e7eb72dcd7e",
+        "date": "2020-01-14 15:42:06+02:00",
+        "author": "noonedeadpunk",
+        "modification": [
+            {
+                "file": "test_inventory.py",
+                "added": 10,
+                "remove": 0,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "2a7edfb036dcba89b99bd5e1c3763aef7dbf7f28",
+        "date": "2020-02-04 19:23:42+02:00",
+        "author": "noonedeadpunk",
+        "modification": [
+            {
+                "file": "generate.py",
+                "added": 15,
+                "remove": 3,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "b4665609e258dfca79ab09e747614bb53a2ca903",
+        "date": "2019-10-31 18:34:59+02:00",
+        "author": "noonedeadpunk",
+        "modification": [
+            {
+                "file": "test_inventory.py",
+                "added": 12,
+                "remove": 1,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "2deabaeb4cd25a12dd126563787105baa4530025",
+        "date": "2020-04-13 16:47:48+03:00",
+        "author": "noonedeadpunk",
+        "modification": [
+            {
+                "file": "conf.py",
+                "added": 1,
+                "remove": 2,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "conf.py",
+                "added": 1,
+                "remove": 2,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 2
+    },
+    {
+        "sha": "2860f1bda597cdd996e15790e41da69b5d2b22e6",
+        "date": "2020-04-10 14:29:37+02:00",
+        "author": "ajaeger",
+        "modification": [
+            {
+                "file": "conf.py",
+                "added": 21,
+                "remove": 17,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "conf.py",
+                "added": 26,
+                "remove": 25,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "filesystem.py",
+                "added": 14,
+                "remove": 12,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "conf.py",
+                "added": 7,
+                "remove": 7,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "ansible-role-requirements-editor.py",
+                "added": 4,
+                "remove": 1,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "release-yaml-file-prep.py",
+                "added": 5,
+                "remove": 2,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "test_inventory.py",
+                "added": 17,
+                "remove": 16,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 7
+    },
+    {
+        "sha": "5d8000967e01b89de39ae50ae0e42c13b67ebd4f",
+        "date": "2020-05-20 18:43:21+02:00",
+        "author": "ajaeger",
+        "modification": [
+            {
+                "file": "conf.py",
+                "added": 1,
+                "remove": 1,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "conf.py",
+                "added": 1,
+                "remove": 1,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "conf.py",
+                "added": 1,
+                "remove": 1,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 3
+    },
+    {
+        "sha": "5c53b88e4c4401d2baf9af98dc0676255ff31899",
+        "date": "2020-05-26 17:10:12+01:00",
+        "author": "Jonathan Rosser",
+        "modification": [
+            {
+                "file": "manage.py",
+                "added": 3,
+                "remove": 0,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "b6b6f6eb751a7828192ff109e38bbd7c83556a62",
+        "date": "2020-05-19 16:35:21+03:00",
+        "author": "noonedeadpunk",
+        "modification": [
+            {
+                "file": "conf.py",
+                "added": 2,
+                "remove": 2,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    }
+]

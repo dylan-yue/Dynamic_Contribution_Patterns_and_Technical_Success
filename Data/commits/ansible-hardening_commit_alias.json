@@ -1,0 +1,662 @@
+[
+    {
+        "sha": "bfcf6c742341738ef9cf13d75727e86872100919",
+        "date": "2015-10-05 15:36:08-05:00",
+        "author": "major",
+        "modification": [
+            {
+                "file": "conf.py",
+                "added": 287,
+                "remove": 0,
+                "change_type": "ADD"
+            },
+            {
+                "file": "setup.py",
+                "added": 22,
+                "remove": 0,
+                "change_type": "ADD"
+            }
+        ],
+        "files": 2
+    },
+    {
+        "sha": "a676e37a84eceaf4291e4313d30ec1bc93eed059",
+        "date": "2015-10-13 16:23:08-05:00",
+        "author": "major",
+        "modification": [
+            {
+                "file": "generate_docs.py",
+                "added": 96,
+                "remove": 0,
+                "change_type": "ADD"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "cc6dc4014d09d77b321ee584dd0d0305ceedfd71",
+        "date": "2015-10-21 15:02:34+01:00",
+        "author": "Jesse Pretorius",
+        "modification": [
+            {
+                "file": "conf.py",
+                "added": 3,
+                "remove": 0,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "390ccd8473e64805e4ced9aee7c3e21021d1cc33",
+        "date": "2015-11-20 11:12:22-06:00",
+        "author": "major",
+        "modification": [
+            {
+                "file": "generate_docs.py",
+                "added": 2,
+                "remove": 2,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "72cbd9406483412219d5e98804a49254b97d582e",
+        "date": "2016-04-12 15:25:13-05:00",
+        "author": "major",
+        "modification": [
+            {
+                "file": "conf.py",
+                "added": 13,
+                "remove": 16,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "8389ec0f6094f43036e9e8cc70a907947f6970fc",
+        "date": "2016-04-09 19:21:11+01:00",
+        "author": "Jesse Pretorius",
+        "modification": [
+            {
+                "file": "conf.py",
+                "added": 274,
+                "remove": 0,
+                "change_type": "ADD"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "076be96acb999133389c6510125130102296e2d7",
+        "date": "2016-06-22 14:32:57-05:00",
+        "author": "major",
+        "modification": [
+            {
+                "file": "conf.py",
+                "added": 4,
+                "remove": 1,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "432a9eb5dda82fb6cc76a355199389b90f23ab3a",
+        "date": "2016-07-06 15:34:24-05:00",
+        "author": "major",
+        "modification": [
+            {
+                "file": "conf.py",
+                "added": 52,
+                "remove": 38,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "775141586cbb25270c6e22e0d4b81465f7270bb7",
+        "date": "2016-07-12 16:55:44+01:00",
+        "author": "Jesse Pretorius",
+        "modification": [
+            {
+                "file": "conf.py",
+                "added": 34,
+                "remove": 32,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "conf.py",
+                "added": 25,
+                "remove": 18,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 2
+    },
+    {
+        "sha": "e75613e3cde30740103f02274624c99849e1030f",
+        "date": "2016-07-15 11:25:16+01:00",
+        "author": "Jesse Pretorius",
+        "modification": [
+            {
+                "file": "conf.py",
+                "added": 2,
+                "remove": 1,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "7eeaf92552e2d8c3e56d592ee268968b666fd045",
+        "date": "2016-07-15 03:58:29+00:00",
+        "author": "OpenStack Proposal Bot",
+        "modification": [
+            {
+                "file": "setup.py",
+                "added": 9,
+                "remove": 2,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "87e219091ac742c73ddcc7b13241a42ee2ea1476",
+        "date": "2016-08-23 21:10:44-05:00",
+        "author": "major",
+        "modification": [
+            {
+                "file": "conf.py",
+                "added": 3,
+                "remove": 1,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "e57593dfd4ce3f5085400ad78b7adb0fa61baac1",
+        "date": "2016-09-09 07:15:19-05:00",
+        "author": "major",
+        "modification": [
+            {
+                "file": "import-existing-notes.py",
+                "added": 61,
+                "remove": 0,
+                "change_type": "ADD"
+            },
+            {
+                "file": "metadata-docs.py",
+                "added": 210,
+                "remove": 0,
+                "change_type": "ADD"
+            },
+            {
+                "file": "conf.py",
+                "added": 9,
+                "remove": 4,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "generate_docs.py",
+                "added": 0,
+                "remove": 96,
+                "change_type": "DELETE"
+            }
+        ],
+        "files": 4
+    },
+    {
+        "sha": "4cdf533565817f42fcd2c52eb20ee467e884436b",
+        "date": "2016-09-14 12:18:30-05:00",
+        "author": "major",
+        "modification": [
+            {
+                "file": "metadata-docs.py",
+                "added": 19,
+                "remove": 13,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "f460a976513281a96c20745419ae915ff5062533",
+        "date": "2016-09-26 11:26:50-05:00",
+        "author": "major",
+        "modification": [
+            {
+                "file": "conf.py",
+                "added": 8,
+                "remove": 1,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "3fdc656721de95e3c2fcfcc44ff506f3ec77f573",
+        "date": "2016-10-05 12:12:13-05:00",
+        "author": "major",
+        "modification": [
+            {
+                "file": "metadata-docs-rhel7.py",
+                "added": 273,
+                "remove": 0,
+                "change_type": "ADD"
+            },
+            {
+                "file": "conf.py",
+                "added": 1,
+                "remove": 0,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 2
+    },
+    {
+        "sha": "c9062167b245550b88e6ebc99112a7adebcde8b8",
+        "date": "2016-10-06 20:40:05+02:00",
+        "author": "ajaeger",
+        "modification": [
+            {
+                "file": "conf.py",
+                "added": 3,
+                "remove": 0,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "51bd12f03fb3d9be47af98a93b4be7614da16093",
+        "date": "2016-12-01 12:14:05+00:00",
+        "author": "evrardjp",
+        "modification": [
+            {
+                "file": "conf.py",
+                "added": 2,
+                "remove": 1,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "8d223feb2c249c30fd2c187a2285fae2cffe5e09",
+        "date": "2017-01-30 11:16:07-06:00",
+        "author": "major",
+        "modification": [
+            {
+                "file": "custom_tests.py",
+                "added": 39,
+                "remove": 0,
+                "change_type": "ADD"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "600e5abcfef41cd1dded91090c60cca96498c4e3",
+        "date": "2017-02-04 12:16:18+08:00",
+        "author": "gecong1973",
+        "modification": [
+            {
+                "file": "metadata-docs-rhel7.py",
+                "added": 1,
+                "remove": 1,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "metadata-docs.py",
+                "added": 1,
+                "remove": 1,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 2
+    },
+    {
+        "sha": "215fb08eb5b3669677c89522106d946b7a0e5328",
+        "date": "2017-02-06 21:27:14+08:00",
+        "author": "ji-xuepeng",
+        "modification": [
+            {
+                "file": "conf.py",
+                "added": 1,
+                "remove": 1,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "conf.py",
+                "added": 1,
+                "remove": 1,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 2
+    },
+    {
+        "sha": "c7d9a79485d5146aee800b87ba5461fdb0d61be2",
+        "date": "2017-03-02 11:52:32+00:00",
+        "author": "OpenStack Proposal Bot",
+        "modification": [
+            {
+                "file": "setup.py",
+                "added": 1,
+                "remove": 1,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "dccce1d5cc06985a58f0ecba4fd0d977388592b2",
+        "date": "2017-04-04 07:22:01-05:00",
+        "author": "major",
+        "modification": [
+            {
+                "file": "stig_to_rst.py",
+                "added": 30,
+                "remove": 0,
+                "change_type": "ADD"
+            },
+            {
+                "file": "metadata-docs-rhel7.py",
+                "added": 2,
+                "remove": 1,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 2
+    },
+    {
+        "sha": "6a4f806bf577db8f544c846d11400633c60c8da9",
+        "date": "2017-04-28 13:14:12-05:00",
+        "author": "major",
+        "modification": [
+            {
+                "file": "custom_tests.py",
+                "added": 0,
+                "remove": 39,
+                "change_type": "DELETE"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "38270e78706a26e5d4302c8c87081df0dee4337a",
+        "date": "2017-05-30 11:00:42-05:00",
+        "author": "major",
+        "modification": [
+            {
+                "file": "conf.py",
+                "added": 1,
+                "remove": 1,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "875f635ab4a8f5d00446526a4774aa99dc35d5b7",
+        "date": "2017-05-31 08:28:16-05:00",
+        "author": "major",
+        "modification": [
+            {
+                "file": "metadata-docs-rhel7.py",
+                "added": 23,
+                "remove": 5,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "metadata-docs.py",
+                "added": 0,
+                "remove": 0,
+                "change_type": "UNKNOWN"
+            }
+        ],
+        "files": 2
+    },
+    {
+        "sha": "5ce112c78bdf600f8b28c14a6e1b952ec93c9ed0",
+        "date": "2017-06-30 09:13:16-05:00",
+        "author": "major",
+        "modification": [
+            {
+                "file": "el7_tests.py",
+                "added": 45,
+                "remove": 0,
+                "change_type": "ADD"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "72afbcfc9629d0e712aea84bcdc373fc0966e69f",
+        "date": "2017-07-03 11:38:29-05:00",
+        "author": "major",
+        "modification": [
+            {
+                "file": "conf.py",
+                "added": 7,
+                "remove": 19,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "conf.py",
+                "added": 9,
+                "remove": 4,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 2
+    },
+    {
+        "sha": "0c0767b3f1c244d00281f5daf27491730fdcb2a1",
+        "date": "2017-09-12 08:19:54-06:00",
+        "author": "major",
+        "modification": [
+            {
+                "file": "import-existing-notes.py",
+                "added": 0,
+                "remove": 60,
+                "change_type": "DELETE"
+            },
+            {
+                "file": "metadata-docs.py",
+                "added": 0,
+                "remove": 216,
+                "change_type": "DELETE"
+            },
+            {
+                "file": "conf.py",
+                "added": 0,
+                "remove": 1,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 3
+    },
+    {
+        "sha": "ba98871f4b0e3a655593d60d9485b8bf7c8ea7f3",
+        "date": "2017-09-21 16:02:37-05:00",
+        "author": "major",
+        "modification": [
+            {
+                "file": "stig_to_rst.py",
+                "added": 1,
+                "remove": 1,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "metadata-docs-rhel7.py",
+                "added": 1,
+                "remove": 1,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 2
+    },
+    {
+        "sha": "231676a93e3f6ec2dcecedc265c86424c70a3737",
+        "date": "2017-10-18 07:31:25-05:00",
+        "author": "major",
+        "modification": [
+            {
+                "file": "conf.py",
+                "added": 6,
+                "remove": 1,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "conf.py",
+                "added": 4,
+                "remove": 2,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 2
+    },
+    {
+        "sha": "6061695c85ea823b89b7420865955843b65e4e01",
+        "date": "2017-10-24 16:06:56-05:00",
+        "author": "major",
+        "modification": [
+            {
+                "file": "conf.py",
+                "added": 4,
+                "remove": 3,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "782bb48c14c03aedaefcaf421fd5935ef5f561b8",
+        "date": "2017-11-01 13:31:34-05:00",
+        "author": "major",
+        "modification": [
+            {
+                "file": "metadata-docs-rhel7.py",
+                "added": 1,
+                "remove": 1,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "a327782cbac314842b674a1d3430d3ce50c56372",
+        "date": "2017-11-17 07:35:47+01:00",
+        "author": "ajaeger",
+        "modification": [
+            {
+                "file": "conf.py",
+                "added": 4,
+                "remove": 10,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "a91f762c3352b71eaa75238f7236d7bf2f685eb8",
+        "date": "2018-10-04 00:53:39+01:00",
+        "author": "Jesse Pretorius",
+        "modification": [
+            {
+                "file": "metadata-docs-rhel7.py",
+                "added": 1,
+                "remove": 1,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "9cfc60f3072558e54231d978e5c49b514ffcfa03",
+        "date": "2019-10-17 19:57:44+03:00",
+        "author": "noonedeadpunk",
+        "modification": [
+            {
+                "file": "conf.py",
+                "added": 8,
+                "remove": 2,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 1
+    },
+    {
+        "sha": "be148a0bad257d8ca2a826a18344ee433a8ca0af",
+        "date": "2019-07-31 17:10:11+08:00",
+        "author": "pengyuesheng",
+        "modification": [
+            {
+                "file": "conf.py",
+                "added": 1,
+                "remove": 29,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "conf.py",
+                "added": 1,
+                "remove": 16,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 2
+    },
+    {
+        "sha": "6e23deb6af70b8e2851eebde19deac74e0cbe18f",
+        "date": "2020-04-25 15:03:36+02:00",
+        "author": "ajaeger",
+        "modification": [
+            {
+                "file": "conf.py",
+                "added": 0,
+                "remove": 5,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "conf.py",
+                "added": 0,
+                "remove": 5,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "setup.py",
+                "added": 0,
+                "remove": 9,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 3
+    },
+    {
+        "sha": "986b9058ee2ef49a1be7ccc905d4728e126756ab",
+        "date": "2020-05-20 18:43:58+02:00",
+        "author": "ajaeger",
+        "modification": [
+            {
+                "file": "conf.py",
+                "added": 1,
+                "remove": 1,
+                "change_type": "MODIFY"
+            },
+            {
+                "file": "conf.py",
+                "added": 1,
+                "remove": 1,
+                "change_type": "MODIFY"
+            }
+        ],
+        "files": 2
+    }
+]
